@@ -1,0 +1,273 @@
+"County
+Code",County Name,Surname,Other Name,ID. No.,YOB,PWD,Gender,Party
+1,Mombasa,Abdalla,Amina,11788640,12/12/1973,No,Female,Jubilee
+1,Mombasa,Mash,Elizabeth Kadzo,11045058,8/22/1971,No,Female,Jubilee
+1,Mombasa,Omuga,Margaret Kisiengo,3154886,1/1/1956,No,Female,Jubilee
+1,Mombasa,Mwatibo,Grace Wasai,4601402,11/26/1951,No,Female,Jubilee
+1,Mombasa,Muhsin,Khadija Abdalla,3951157,4/19/1964,No,Female,Jubilee
+1,Mombasa,Abdulrahman,Miraj Abdillah,29929860,4/20/1991,No,Female,Jubilee
+1,Mombasa,Mohamed,Asha Hussein,13850054,,,Female,ODM
+1,Mombasa,Deen,Sadif Javeid,33329338,,,Female,ODM
+1,Mombasa,Zaja,Hamisa Maalim,10959227,,,Female,ODM
+1,Mombasa,Iwande,Mariam Antonet,26943414,,,Female,ODM
+2,Kwale,Chidzuga,Zainab Kalekye,35002,12/27/1956,No,Female,Jubilee
+2,Kwale,Makoti,Ntembe Saidi,466357,6/16/1955,No,Female,Jubilee
+2,Kwale,Tabwara,Fatuma Suleiman,8417211,2/17/1965,No,Female,Jubilee
+2,Kwale,Masito,Fatuma Hamisi,11601566,,,Female,ODM
+2,Kwale,Hassan,Zuleikha Juma,27553751,,,Female,ODM
+3,Kilifi,Fondo,Christine Zawadi Gona,11761443,12/24/1964,No,Female,Jubilee
+3,Kilifi,Mshenga,Mvita Kisasa,2118667,6/10/1964,No,Female,Jubilee
+3,Kilifi,Vischi,Amina Laura Fernando,25078757,10/26/1987,No,Female,Jubilee
+3,Kilifi,Mwanyanje,Gertrude Mbeyu,11641961,,,Female,ODM
+3,Kilifi,Baya,Juliet Riziki,22107847,,,Female,ODM
+4,Tana River,Duri,Halima Ware,4402202,11/22/1959,No,Female,Jubilee
+4,Tana River,Jelle,Maryanroon Mohamed,29546236,12/12/1990,No,Female,Jubilee
+4,Tana River,Abio,Alfelt Mumbo,3329787,,,Female,ODM
+5,Lamu,Obo,Ruweida Mohamed,20627266,5/16/1978,No,Female,Jubilee
+5,Lamu,Abdalla,Esha Nizar,10390233,,,Female,ODM
+6,Taita Taveta,Mizighi,Lydia Haika Mnene,22126304,8/31/1978,No,Female,Jubilee
+6,Taita Taveta,Oben,Janet Wauda  Mwawasi,A1857797,12/27/1972,No,Female,Jubilee
+6,Taita Taveta,Mombo,Anastanzia Wakesho,5350248,,,Female,ODM
+6,Taita Taveta,Mwakio,Anisa Hope Mwakio,8946633,,,Female,ODM
+7,Garissa,Gure,Anab Mohamed,22456385,8/4/1982,No,Female,Jubilee
+7,Garissa,Abass,Fatuma Kinsi,20062304,,,Female,ODM
+8,Wajir,Mohamud,Halima Abdille,25322209,2/2/1988,No,Female,Jubilee
+8,Wajir,Ali,Fatuma Gedi,24910809,1/1/1985,No,Female,Jubilee
+8,Wajir,Bulle,Barey Diis,9562308,,,Female,ODM
+9,Mandera,Issak,Ethila Mohamud,21570466,8/21/1977,No,Female,Jubilee
+9,Mandera,Ibrahim,Ubah Abdi,A1734629,12/12/1974,No,Female,Jubilee
+10,Marsabit,Pantoren,Elizabeth Pius,9560866,11/24/1972,No,Female,Jubilee
+10,Marsabit,Adan,Safia Sheikh,212585,1960-01-00,No,Female,Jubilee
+10,Marsabit,Halake,Amina Guyo,13804116,,,Female,ODM
+11,Isiolo,Jaldesa,Rehema Dida,7872650,7/29/1971,No,Female,Jubilee
+11,Isiolo,Ali,Tiya Galgalo,7873996,11/12/1966,No,Female,Jubilee
+12,Meru,Kailemia,Elizabeth Karambu,A1640684,5/26/1957,No,Female,Jubilee
+12,Meru,Mwangaza,Kawira,11504272,7/18/1973,No,Female,Jubilee
+12,Meru,Kajuju,Florence,10381379,9/29/1969,No,Female,Jubilee
+12,Meru,Kinya,Betsy ,28557753,,,Female,ODM
+13,Tharaka - Nithi,Nyaga,Beatrice Nkantha,347296,12/30/1957,No,Female,Jubilee
+13,Tharaka - Nithi,Mubuta,Lucy Kagendo,10970985,3/15/1970,No,Female,Jubilee
+13,Tharaka - Nithi,Kambanja,Penina Nkamba Murungi,13353289,10/4/1975,No,Female,Jubilee
+14,Embu,Marigu,Mary,3617231,4/14/1969,No,Female,Jubilee
+14,Embu,Kanambiu,Edith Gaturi,23084861,2/28/1982,No,Female,Jubilee
+14,Embu,Njue,Mary Wawira,14409229,4/23/1975,No,Female,Jubilee
+14,Embu,Njiru,Jane Wanjuki,3076016,11/25/1956,No,Female,Jubilee
+14,Embu,Gitari,Monica Cyombua,9819073,12/30/1968,No,Female,Jubilee
+14,Embu,Mitaru,Rose Rwamba,8744131,6/15/1954,No,Female,Jubilee
+14,Embu,Nyaga,Susan Mbuya,20014041,6/14/1978,No,Female,Jubilee
+14,Embu,Mutua,Mary Ndunge,1092748,,,Female,ODM
+15,Kitui,Khamisi,Sofia,21754699,3/18/1978,No,Female,Jubilee
+18,Nyandarua,Muhoho,Esther Wanjiku,26358666,3/15/1989,No,Female,Jubilee
+18,Nyandarua,Muhia,Wanjiku,14476590,7/22/1975,No,Female,Jubilee
+18,Nyandarua,Gitau,Faith Wairimu,3496096,9/24/1965,No,Female,Jubilee
+18,Nyandarua,Kiambati,Jane Gathoni,24763322,1/13/1983,No,Female,Jubilee
+19,Nyeri,Komu,Rose Waikundi Wambui,22499731,5/1/1981,No,Female,Jubilee
+19,Nyeri,Muthui,"Elizabeth Magdalene
+Wamuyu",21795785,7/12/1978,No,Female,Jubilee
+19,Nyeri,Kanyua,Priscilla Nyokabi,21578573,8/10/1978,No,Female,Jubilee
+19,Nyeri,Wachira,Mukami Rahab,8813893,4/25/1967,No,Female,Jubilee
+20,Kirinyaga,Ngirici,Purity Wangui,13239676,6/15/1974,No,Female,Jubilee
+20,Kirinyaga,Njuguna,Winnie Karimi,3128168,5/11/1956,No,Female,Jubilee
+20,Kirinyaga,Muguchu,Rose Kuthii,5753794,1/1/1964,No,Female,Jubilee
+20,Kirinyaga,Githinji,Anne Wangechi,10953150,1/1/1968,No,Female,Jubilee
+21,Muranga,Chege,Sabina Wanjiru,21449784,8/13/1978,No,Female,Jubilee
+21,Muranga,Wamukore,Irene Njeri,B046020,12/23/1984,No,Female,Jubilee
+21,Muranga,Kamau,Catherine Wanjiku,11307013,4/25/1972,No,Female,Jubilee
+21,Muranga,Nyoike,Evelyn Waithira,14573196,5/20/1975,No,Female,Jubilee
+22,Kiambu,Koinange,June Wanjugu,3340693,11/9/1953,No,Female,Jubilee
+22,Kiambu,Gathecha,Annah Nyokabi,24125412,5/23/1970,No,Female,Jubilee
+22,Kiambu,Muchomba,Penninah Gathoni,14487057,8/6/1975,No,Female,Jubilee
+22,Kiambu,Mwangi,Gladys Njeri,10332399,7/5/1970,No,Female,Jubilee
+23,Turkana,Lokuruka,Pauline Akai,291966,,,Female,ODM
+23,Turkana,Seline,Locham Asimit,20239923,,,Female,ODM
+23,Turkana,Loyor,Rhoda Arupe,146211,,,Female,ODM
+23,Turkana,Abenyo,Jecinta Ngasike,A177612,,,Female,ODM
+23,Turkana,Lochodo,Stellah Eragae,21835866,,,Female,ODM
+24,West Pokot,Tomitom,Lilian Cheptoo,22555678,1/6/1982,No,Female,Jubilee
+24,West Pokot,Lokoma,Josephine Chemwok,7103907,1/1/1965,No,Female,Jubilee
+24,West Pokot,Chang'orok,Regina,4099944,12/28/1962,No,Female,Jubilee
+24,West Pokot,Rotino,Rodah Chepkopus,280423,12/14/1962,No,Female,Jubilee
+24,West Pokot,Korinyang,Lilian Chepigh,9762529,8/3/1969,No,Female,Jubilee
+24,West Pokot,Plapan,Lilian Janice,904081,,,Female,ODM
+25,Samburu,Moira,Rebecca,292914,12/21/2016,No,Female,Jubilee
+25,Samburu,Lenguris,Pauline ,13047332,,,Female,ODM
+26,Trans Nzoia,Karanja,Eunice Wanjiru Kamau,10961219,1/20/1972,No,Female,Jubilee
+26,Trans Nzoia,Toroitich,Tabitha Jelagat,1444850,9/3/1956,No,Female,Jubilee
+26,Trans Nzoia,Nangabo,Janet Wanyama,9996062,12/28/1969,No,Female,Jubilee
+26,Trans Nzoia,Wanjiru,Grace Emmah,11273542,9/27/1969,No,Female,Jubilee
+26,Trans Nzoia,Okul,Naomi Kemunto,847879,11/11/1962,No,Female,Jubilee
+26,Trans Nzoia,Mikis,Dorothy Cherop,1037925,10/4/1964,No,Female,Jubilee
+27,Uasin Gishu,Kibor,Loise,7085966,7/24/1965,No,Female,Jubilee
+27,Uasin Gishu,Malel,Irene Jepkemboi,20086404,7/5/1976,No,Female,Jubilee
+27,Uasin Gishu,Boss-Shollei,Gladys Jepkosgei,9864739,1/30/1969,No,Female,Jubilee
+27,Uasin Gishu,Lelei,Rael Chebichii,25878149,12/15/1984,No,Female,Jubilee
+27,Uasin Gishu,Tirop,Margaret Taprandi,779983,7/13/1961,No,Female,Jubilee
+27,Uasin Gishu,Chepseba,Marygoretti Cheruto,6665481,9/12/1965,No,Female,Jubilee
+27,Uasin Gishu,Kurgat,Janet,11072107,2/8/1970,No,Female,Jubilee
+27,Uasin Gishu,Bitok,Niuster Jepkemboi,21713302,3/30/1979,No,Female,Jubilee
+27,Uasin Gishu,Peris,Chepchumba,9731106,11/25/2016,No,Female,Jubilee
+27,Uasin Gishu,Sitienei,Ruth Jepkosgei,10014784,6/27/1969,No,Female,Jubilee
+27,Uasin Gishu,Goretti,Boroswa Mary,10030408,12/25/1968,No,Female,Jubilee
+27,Uasin Gishu,Samoei,Pauline Chebet,3815909,11/28/1963,No,Female,Jubilee
+27,Uasin Gishu,Rotich,Millycent Jerono,22264478,1/1/1979,No,Female,Jubilee
+28,Elgeyo/Marakwet,Korat,Florence Jepkogei Boinett,803267,11/25/1967,No,Female,Jubilee
+28,Elgeyo/Marakwet,Boinett,Florence Jepkogei,8032671,11/25/1967,No,Female,Jubilee
+28,Elgeyo/Marakwet,Masit,Irene Cherop,8032980,3/29/1967,No,Female,Jubilee
+28,Elgeyo/Marakwet,Chepkairor,Faith Jepkosgei,21881677,9/4/1980,No,Female,Jubilee
+28,Elgeyo/Marakwet,Chebet,Susan Kipketer,Bo26253,4/23/1955,No,Female,Jubilee
+28,Elgeyo/Marakwet,Kibet,Christine Jemeli,21745761,1/1/1978,No,Female,Jubilee
+28,Elgeyo/Marakwet,Kiptoo,Jane Jepkorir,22364160,12/2/1980,No,Female,Jubilee
+28,Elgeyo/Marakwet,Biwott,Beatrice Jepkoech,876856,12/30/1959,No,Female,Jubilee
+28,Elgeyo/Marakwet,Lingatom,Elisabeth ,553172,,,Female,ODM
+29,Nandi,Chepkwony,Theresa Jepkemei,7026608,5/18/1966,No,Female,Jubilee
+29,Nandi,Kering,Zipporah Jesang Kurgat,7445968,1/1/1966,No,Female,Jubilee
+29,Nandi,Songok,Tecla Chebet,3445731,3/13/1962,No,Female,Jubilee
+29,Nandi,Tiony,Benadatte Jeptoo,13692158,4/11/1976,No,Female,Jubilee
+29,Nandi,Kurgat,Mary Lucy,13613668,9/21/1973,No,Female,Jubilee
+29,Nandi,Chumo,Valentine Chemeli,25086074,2/26/1987,No,Female,Jubilee
+29,Nandi,Rotich,Selina Chepkoskei,3810195,12/12/1963,No,Female,Jubilee
+30,Baringo,Michura,Anne Jerotich Garry,9778287,4/5/1968,No,Female,Jubilee
+30,Baringo,Chesiyna,Susan Chepkurui Kimosop,9715353,5/27/1967,No,Female,Jubilee
+30,Baringo,Kiptui,Grace Jemutai,334594,1/1/1962,No,Female,Jubilee
+30,Baringo,Cheboiwo,Kaptuiya,16123655,11/16/1961,No,Female,Jubilee
+31,Laikipia,Waruguru,Catherine Wanjiku,25765401,8/24/1986,No,Female,Jubilee
+31,Laikipia,Wachira,Florence Gathigia,22532736,8/6/1982,No,Female,Jubilee
+31,Laikipia,Kitarpei,Jennifer Koinante,6586398,11/11/1966,No,Female,Jubilee
+31,Laikipia,John,Irene Wachuka,228710,1/1/1960,No,Female,Jubilee
+31,Laikipia,Miano,Mary Wangui Mwangi,21715558,8/14/1979,No,Female,Jubilee
+31,Laikipia,Ndegwa,Alice Wahito Mwangi,3348149,12/15/1958,No,Female,Jubilee
+31,Laikipia,Ndiritu,Virginia Wambui,5947558,1/1/1963,No,Female,Jubilee
+31,Laikipia,Karuri,Rose Wangu,11261014,4/16/1973,No,Female,Jubilee
+31,Laikipia,Apollos,Jane Agnes Wanjira,1019698,2/24/1958,No,Female,Jubilee
+31,Laikipia,Wanjau,Mary Ngima,7806101,5/2/1964,No,Female,Jubilee
+32,Nakuru,Mwarangu,Elizabeth,1816572,1/1/1957,No,Female,Jubilee
+32,Nakuru,Karigu,Anne Njeri,27999044,9/7/1990,No,Female,Jubilee
+32,Nakuru,Githinji,Agnes Njambi,7096961,5/30/1963,No,Female,Jubilee
+32,Nakuru,Chelule,Liza Chepkorir,5185357,9/3/1962,No,Female,Jubilee
+32,Nakuru,Mbugua,Mary Njoki G,3642600,1/15/1943,No,Female,Jubilee
+32,Nakuru,Kinyua,Rachael Wambui,22731837,12/9/1982,No,Female,Jubilee
+32,Nakuru,Muritu,Purity Wanja,4292152,2/18/1956,No,Female,Jubilee
+32,Nakuru,Kibuku,Grace Wambui,483659,10/7/1962,No,Female,Jubilee
+32,Nakuru,Kimani,Zipporah Muthoni,328957,6/30/1958,No,Female,Jubilee
+32,Nakuru,Onsongo,Beatrice Pacifica,10931191,,,Female,ODM
+32,Nakuru,Kurwa,Asha Rashid,13622690,,,Female,ODM
+33,Narok,Masikonte,Rebeccah Naanyu,12981765,9/2/1974,No,Female,Jubilee
+33,Narok,Tuya,Roselinda Soipan,22186489,7/24/1978,No,Female,Jubilee
+33,Narok,Kinyarkuo,Pauline ,,,,Female,ODM
+33,Narok,Marima,Eunice Saoina Marima,4808989,,,Female,ODM
+33,Narok,Tonkei,Rebecca Noonaishi,9885005,,,Female,ODM
+34,Kajiado,Kiparki,Emily Maatany,11429360,12/16/1973,No,Female,Jubilee
+34,Kajiado,Merin,Eve Yiamoi,11680036,10/20/1973,No,Female,Jubilee
+34,Kajiado,Karariet,Purity Sein,23756830,6/26/1984,No,Female,Jubilee
+34,Kajiado,Momirei,Leah Masankwai,20204438,6/17/1979,No,Female,Jubilee
+34,Kajiado,Mashipei,Dorothy,22821269,11/23/1980,No,Female,Jubilee
+34,Kajiado,Teyiaa,Janet Marania,22998757,9/28/1980,Yes,Female,Jubilee
+34,Kajiado,Moiko,Leah Sopiato,23566995,7/17/1980,No,Female,Jubilee
+34,Kajiado,Letura,Caroline ,,,,Female,ODM
+34,Kajiado,Somoire,Esther Karapio,13611994,,,Female,ODM
+34,Kajiado,Rakita,Justine Simayiai,28045499,,,Female,ODM
+34,Kajiado,Shurake,Lucy Naneu,7268324,,,Female,ODM
+35,Kericho,Ngeny,Lucy Chebet,267686,7/20/1956,No,Female,Jubilee
+35,Kericho,Rotich,Susan Chepkemoi,11204876,1/1/1968,No,Female,Jubilee
+35,Kericho,Keter,Priscillah Chelangat,10991889,12/31/1969,No,Female,Jubilee
+35,Kericho,Chepkoech,Beatrice,11207325,1/2/1972,No,Female,Jubilee
+35,Kericho,Bore,Florence Chepngetich,11080542,1/10/1970,No,Female,Jubilee
+35,Kericho,Chemutai,Too Millicent,23847782,3/31/1984,No,Female,Jubilee
+35,Kericho,Chepkwony,Hellen Chelangat,3849661,4/2/1951,No,Female,Jubilee
+36,Bomet,Mibei,Evaline Chelangat,3145198,11/30/1962,No,Female,Jubilee
+36,Bomet,Mosonik,Emily Cherono,13614796,1/1/1976,No,Female,Jubilee
+36,Bomet,Milgo,Alice Chepkorir,2419820,12/30/1959,No,Female,Jubilee
+36,Bomet,Mutai,Cicilia Chepkoech,1776563,9/9/1962,No,Female,Jubilee
+36,Bomet,Korir,Joyce Chepkoech,22494948,7/1/1981,No,Female,Jubilee
+36,Bomet,Kirui,Alice Cherotich,2422127,9/23/1960,No,Female,Jubilee
+36,Bomet,Birir,Florence Cherono,8548862,9/29/1966,No,Female,Jubilee
+37,Kakamega,Watsula,Sarah ,13052320,,,Female,ODM
+37,Kakamega,Juma,Hadija Nganyi,21903578,,,Female,ODM
+37,Kakamega,Muhanda,Elsie Busihile,569766,,,Female,ODM
+38,Vihiga,Amalemba,Mary ,11583489,,,Female,ODM
+38,Vihiga,Lugariki,Mercy Adema,23524769,,,Female,ODM
+38,Vihiga,Mbandu,Amimo Rhoda,1820512,,,Female,ODM
+39,Bungoma,Masibo,Annah Nandako,9660221,11/3/1967,No,Female,Jubilee
+39,Bungoma,Nato,Mary Namison,13718763,3/14/1976,No,Female,Jubilee
+39,Bungoma,Wanyonyi,Reginalda Nakhumicha,639022,3/30/1960,No,Female,Jubilee
+39,Bungoma,Wakwabubi,Consolata Nabwire,13437109,,,Female,ODM
+39,Bungoma,Nyongesa,Sween Khayanga,22186125,,,Female,ODM
+40,Busia,Mutua,Florence Mwikali,10089907,,,Female,ODM
+40,Busia,Oyugi,Winnie Awuor,138653,,,Female,ODM
+40,Busia,Akhanyalu,Happy Gloria,1044228,,,Female,ODM
+40,Busia,Odeda,Judith Alice,12684237,,,Female,ODM
+41,Siaya,Ombaka,Christine Oduor,B11601143,,,Female,ODM
+41,Siaya,Aluodo,Florence Akinyi,22001465,,,Female,ODM
+41,Siaya,Okudo,Patricia Awaka,16065290,,,Female,ODM
+42,Kisumu,Dwasi,Rozaah Akinyi Dwasi,3082529,,,Female,ODM
+42,Kisumu,Nyamunga,Rose Auma Nyamunga,569849,,,Female,ODM
+43,Homa Bay,Wanga,Gladys Atieno Wanga,22008619,,,Female,ODM
+44,Migori,Ghati,Dennitah ,13606791,,,Female,ODM
+44,Migori,Mohamed,Fatuma Zainab,13385812,,,Female,ODM
+44,Migori,Ochieng,Pamela Awuor,10823197,,,Female,ODM
+44,Migori,Onyango,Mary Auma,850877,,,Female,ODM
+45,Kisii,Ombati,Brigid,20414696,12/31/1980,No,Female,Jubilee
+45,Kisii,Otara,Mary Sally Keraa,4410355,1/1/1964,No,Female,Jubilee
+45,Kisii,Miruka,Judith Kerubo,10927079,4/4/1972,No,Female,Jubilee
+45,Kisii,Aburi,Donya Dorice,22862539,2/20/1982,No,Female,Jubilee
+46,Nyamira,Nyarera,Josephine Kerubo,8161020,7/17/1962,No,Female,Jubilee
+46,Nyamira,Nyamato,Catherine Moraa,5174562,2/28/1949,No,Female,Jubilee
+46,Nyamira,Momanyi,Jerusha Mongina,5950695,12/12/1956,No,Female,Jubilee
+46,Nyamira,Omwega,Annah Nyaera,25106642,1/22/1987,No,Female,Jubilee
+46,Nyamira,Chae,Alice Nyanchoka,8773687,,,Female,ODM
+47,Nairobi,Kamura,Lucy Waithera,25132953,10/1/1987,No,Female,Jubilee
+47,Nairobi,Gichuki,Janet Muthoni,22141490,1/14/1980,No,Female,Jubilee
+47,Nairobi,Macharia,Rosemary Wairimu,11101626,1/1/1972,No,Female,Jubilee
+47,Nairobi,Mudachi,Mary Musuki,4927783,7/25/1956,No,Female,Jubilee
+47,Nairobi,Shebesh,Rache Wambui,31485150,7/1/1971,No,Female,Jubilee
+47,Nairobi,Nyamu,Karen Njeri,21839186,11/6/1979,No,Female,Jubilee
+47,Nairobi,Nganga,Benadict Wangui,22303824,9/4/1981,No,Female,Jubilee
+47,Nairobi,Omanga,Millicent Nyaboke,22321183,5/30/1982,No,Female,Jubilee
+47,Nairobi,Passaris,Esther ,8619088,,,Female,ODM
+47,Nairobi,Mohamud,Ramla Maalim,13330878,,,Female,ODM
+47,Nairobi,Makori,Beatrice Kwamboka,22487874,,,Female,ODM
+47,Nairobi,Odawa,Joan Atieno,4829007,,,Female,ODM
+47,Nairobi,Matoke,Jane Nyaboke,31341377,,,Female,ODM
+47,Nairobi,Mayunzu,Carolyn Andisi,20326861,,,Female,ODM
+16,Machakos,Ndunge,Rita,11767355,5/25/1905,,Female,Maendeleo Chap Chap
+16,Machakos,Mutinda,Fransica,5598301,5/16/1905,,Female,Maendeleo Chap Chap
+39,Bungoma,Kibaba,Nancy Nanyama,-,6/4/1905,None,Female,FORD-K
+39,Bungoma,Wambilianga,Catherine Nanjala,7976602,5/19/1905,None,Female,FORD-K
+37,Kakamega,Andambi,Roselida,1820724,5/15/1905,None,Female,FORD-K
+37,Kakamega,Shaban,Fatuma Osundwa,9258095,5/15/1905,None,Female,FORD-K
+26,Transnzoia,Wafula,Susan Nakhumicha,-,6/1/1905,None,Female,FORD-K
+26,Transnzoia,Wamalwa,Eunice,9280374,5/21/1905,None,Female,FORD-K
+26,Transnzoia,Tanguli,Christine Soita Nafula,-,5/25/1905,None,Female,FORD-K
+3,Kilifi,Kambi,Witness Nyevu,3373355,5/15/1905,None,Female,KADU-Asili
+3,Kilifi,Kitsao,Betty  M Munga,7354119,5/8/1905,None,Female,KADU-Asili
+39,Bungoma,Khaoma,Wavomba Kellan,5244231,7/14/1963,ND,Female,Amani
+40,Busia,Mang'eni,Susan Auma,21527118,10/7/1978,ND,Female,Amani
+7,Garissa,Keinan,Amina Mohamed,10360310,2/27/1972,ND,Female,Amani
+43,Homa Bay,Masara,Innocent Otieno,B142784,7/4/1977,ND,Male,Amani
+34,Kajiado,Kerubo,Marwa Martha,13342903,1/1/1974,ND,Female,Amani
+37,Kakamega,Nambiro,Anne,9258347,1/1/1967,ND,Female,Amani
+37,Kakamega,Lungahi,Mudeheli Nanacy,462378,5/25/1958,ND,Female,Amani
+37,Kakamega,Pamela,Nyangala Lydia,7017136,,ND,Female,Amani
+37,Kakamega,Miima,Khalwali Eunice,4828936,1/1/1957,ND,Female,Amani
+35,Kericho,Irene,Mibei,,,ND,Female,Amani
+45,Kisii,Marwa,Lilian Kemunto,22860340,2/28/1981,ND,Female,Amani
+15,Kitui,Nzambi,Everlyne Vundi,999271,,D,Female,Amani
+44,Migori,Ohanya,Roseline,20706936,1/1/1972,ND,Female,Amani
+1,Mombasa,Obura,Zipporah Tabu,10959973,9/19/1972,ND,Female,Amani
+1,Mombasa,Mohammed,Asha Hussein,13850054,,ND,Female,Amani
+4,Mombasa,Rama,Afiya Mkuwewa,9590779,5/23/1905,None,Female,Wiper
+1,Mombasa,Mohamed,Zamzam Chimba,13863526,5/29/1905,None,Female,Wiper
+45,Kisii,Osiemo,Pamela Moraa,8812771,5/20/1905,None,Female,Wiper
+45,Kisii,Masenge,Anne Kerubo,13291303,5/10/1905,None,Female,Wiper
+3,Kilifi,Charo,Getrude Bahati,2125459,5/4/1905,None,Female,Wiper
+3,Kilifi,Mungah,Priscillah Nzikwa,11497140,4/26/1905,None,Female,Wiper
+16,Machakos,Musyoka,Susan Mbinya,1681291,5/9/1905,None,Female,Wiper
+16,Machakos,Kamene,Joyce,6140309,5/18/1905,None,Female,Wiper
+15,Kitui,Kibati,Jane Mwende Kimuyu,10095764,5/22/1905,None,Female,Wiper
+15,Kitui,Kasalu,Irene,22311107,5/27/1905,None,Female,Wiper
+15,Kitui,Musyoka,Florence  Mwanie,20130656,5/30/1905,None,Female,Wiper
+36,Bomet,Chepkemoi,Beatrice,9641492,5/22/1905,No,Female,Chama Cha Mashinani
+36,Bomet,Rotich,Hellen Taplelei,4438960,5/8/1905,No,Female,Chama Cha Mashinani
+36,Bomet,Ngeno,Racheal Chepkemboi,1232721,5/16/1905,No,Female,Chama Cha Mashinani
+16,Machakos,Ndunge,Rita,11767355,5/25/1905,N/A,Female,Maendeleo Chap Chap
+16,Machakos,Mutinda,Fransica,5598301,5/16/1905,N/A,Female,Maendeleo Chap Chap

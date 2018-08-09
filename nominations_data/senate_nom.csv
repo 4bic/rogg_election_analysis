@@ -1,0 +1,239 @@
+"County
+Code",County Name,Surname,Other Name,ID. No.,YOB,PWD,Gender,Party,Party_abv
+1,Mombasa,Kassim,Abdusalaam Ali,10093749,1/1/1970,No,Male,JUBILEE PARTY,JP
+1,Mombasa,Swabir,Abuubakar Mahadhi,30474451,8/13/1992,No,Male,JUBILEE PARTY,JP
+1,Mombasa,Katana,Hazel Nyamoki,6729577,4/1/1959,No,Female,JUBILEE PARTY,JP
+1,Mombasa,Faki,Mohamed,8453212,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+1,Mombasa,Rubeya,Faris Hadi,11648163,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+1,Mombasa,Mwidau,Hisham Abdulla,8621887,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+1,Mombasa,Mwaguya,Hamisi Mashobo,11788327,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+1,Mombasa,Oduor,Jabess Mdhai,10651100,1977,None,Male,WIPER DEMOCRATIC MOVEMENT- KENYA,WDM-K
+1,Mombasa,Kisilu,Lawrence,10040825,1969,None,Male,WIPER DEMOCRATIC MOVEMENT- KENYA,WDM-K
+2,Kwale,Ngozi,Abdallah Jumaa,5337427,8/4/1953,No,Male,JUBILEE PARTY,JP
+2,Kwale,Ruga,Mshenga Vuyaa,10504407,9/2/1970,No,Male,JUBILEE PARTY,JP
+2,Kwale,Boy,Issa Juma,2209681,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+2,Kwale,Zani,Nicholas Stephen,11460809,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+2,Kwale,Kamolleh,Sulleman Mwaronga,8744937,4/15/1951,ND,Male,AMANI NATIONAL CONGRESS,ANC
+3,Kilifi,Mwachiro,Chenje Eric,330535,9/19/1958,No,Male,JUBILEE PARTY,JP
+3,Kilifi,Chilango,Carolyne Andzazi,25044287,9/10/1985,No,Female,JUBILEE PARTY,JP
+3,Kilifi,Nyale,Kennedy James,10831544,4/18/1969,No,Male,JUBILEE PARTY,JP
+3,Kilifi,Madzayo,Stewart Mwachiru S.,159777,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+3,Kilifi,Nyale,Kennedy James,10831544,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+3,Kilifi,Kombe,David Noti,6419144,,No,Male,AMANI NATIONAL CONGRESS,ANC
+4,Tana River,Nkaduda,Michael Justin,6703921,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+5,Lamu,Salim,Mohamed Hashim,8454908,4/12/1965,No,Male,JUBILEE PARTY,JP
+5,Lamu,Chiaba,Abu Mohamed Abu,10366640,1/1/1947,No,Male,JUBILEE PARTY,JP
+5,Lamu,Loitiptip,Anuar,25226209,5/16/1986,No,Male,JUBILEE PARTY,JP
+5,Lamu,Kirunyu,Monicah Njambi,23112464,7/13/1984,No,Female,JUBILEE PARTY,JP
+5,Lamu,Sheelali,Abdalla Athman,25042467,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+5,Lamu,Salim,Mohamed Hashim,8454908,,,Male,AMANI NATIONAL CONGRESS,ANC
+6,Taita Taveta,Mwakidedi,Francis Tole,4862528,1/1/1955,No,Male,JUBILEE PARTY,JP
+6,Taita Taveta,Lay,Joyce Wanjalah,11313805,6/26/1973,No,Female,JUBILEE PARTY,JP
+6,Taita Taveta,Komora,Omar Kofa,21731417,5/10/1976,No,Male,JUBILEE PARTY,JP
+6,Taita Taveta,Wario,Golich Juma,12726552,1/1/1972,No,Male,JUBILEE PARTY,JP
+6,Taita Taveta,Lolianga,Tairo ,10441458,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+6,Taita Taveta,Mwaruma,Johnes Mwashushe,11868567,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+7,Garissa,Haji,Mohamed Yusuf,340497,12/23/1940,No,Male,JUBILEE PARTY,JP
+7,Garissa,Ahamed,Aden Sugow,28775,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+8,Wajir,Ali,Abdullahi Ibrahim,2109980,1/1/1963,No,Male,JUBILEE PARTY,JP
+8,Wajir,Enow,Adan Omar,20147362,1/22/1978,No,Male,JUBILEE PARTY,JP
+8,Wajir,Daar,Aydrus Sheikh,126385,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+8,Wajir,Abdirahim,Abdikadir,21649972,1982,None,Male,WIPER DEMOCRATIC MOVEMENT- KENYA,WDM-K
+8,Wajir,Noor,Hussein Adan,39033,1957,None,Male,WIPER DEMOCRATIC MOVEMENT- KENYA,WDM-K
+9,Mandera,Mahamud,Mohamed Maalim,4830144,7/4/1953,No,Male,JUBILEE PARTY,JP
+9,Mandera,Khalif,Dr. Abdinasir Mohamed,7182538,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+10,Marsabit,Wato,Mohamed Adan,22720007,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+11,Isiolo,Anna,Mohamed Liban,76253,6/2/1962,No,Male,JUBILEE PARTY,JP
+11,Isiolo,Adan,Fatuma Dullo,C029439,9/18/1966,No,Male,JUBILEE PARTY,JP
+12,Meru,Linturi,Franklin Mithika,10146839,1/1/1969,No,Male,JUBILEE PARTY,JP
+13,Tharaka - Nithi,Kindiki,Kithure A. K.,12615692,7/16/1972,No,Male,JUBILEE PARTY,JP
+13,Tharaka - Nithi,Golichi,Juma Wario,,,,,JUBILEE PARTY,JP
+14,Embu,Ndwiga,Peter Njeru,3435172,1/4/1954,No,Male,JUBILEE PARTY,JP
+14,Embu,Ruku,Geoffrey Kariuki Kiringa,20647773,2/15/1978,No,Male,JUBILEE PARTY,JP
+14,Embu,Mundigi,Alexander Munyi,5773581,1/1/1964,No,Male,JUBILEE PARTY,JP
+14,Embu,Wamuuru,Moses ,10728827,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+14,Embu,Njeru,Kennedy Ndegwa,146769931,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+15,Kitui,Wambua,Encoh Kiio,11354392,1972,None,Male,WIPER DEMOCRATIC MOVEMENT- KENYA,WDM-K
+15,Kitui,Mutisya,Paul Kyalo,8990545,1967,None,Male,WIPER DEMOCRATIC MOVEMENT- KENYA,WDM-K
+18,Nyandarua,Ribathi,Paul Gichuke,5782785,11/11/1963,No,Male,JUBILEE PARTY,JP
+18,Nyandarua,Ngugi,David Mwaniki,5176912,7/14/1951,No,Male,JUBILEE PARTY,JP
+18,Nyandarua,Mwangi,Paul Githiomi,53196,2/14/1955,No,Male,JUBILEE PARTY,JP
+18,Nyandarua,Muchiri,Geoffrey Gachara,804085,1/14/1953,No,Male,JUBILEE PARTY,JP
+18,Nyandarua,Mukua,Daniel Macharia,22535422,10/16/1982,No,Male,JUBILEE PARTY,JP
+18,Nyandarua,Thirikwa,Thirikwa Kamau,2947137,11/16/1960,No,Male,JUBILEE PARTY,JP
+18,Nyandarua,Ndengwa,Daniel R. Thingine,25502955,9/23/1987,No,Male,JUBILEE PARTY,JP
+18,Nyandarua,Kamau,Beatrice Gathoni,C037736,7/27/1964,No,Female,JUBILEE PARTY,JP
+19,Nyeri,Maina,Ephraim Mwangi,5325158,1/1/1949,No,Male,JUBILEE PARTY,JP
+19,Nyeri,Nyamu,Wilfred Wambugu,8107829,6/16/1967,No,Male,JUBILEE PARTY,JP
+19,Nyeri,Kiongo,Daniel Wamahiu,11410947,6/29/1972,No,Male,JUBILEE PARTY,JP
+19,Nyeri,Githaiga,Sheila Waruguru,4440317,6/22/1952,No,Female,JUBILEE PARTY,JP
+20,Kirinyaga,Karaba,Daniel Dickson,316894,9/9/1948,No,Male,JUBILEE PARTY,JP
+20,Kirinyaga,Karubiu,James Karimi,3386179,5/8/1963,No,Male,JUBILEE PARTY,JP
+20,Kirinyaga,Ng'ang'a,Elias,21850766,6/10/1979,No,Male,JUBILEE PARTY,JP
+20,Kirinyaga,Kathigi,Kibugi,232343,2/28/1951,No,Male,JUBILEE PARTY,JP
+20,Kirinyaga,Muchira,Joseph Mwaniki,3681928,2/28/1963,No,Male,JUBILEE PARTY,JP
+20,Kirinyaga,Gichira,Harrison Mureithi,1888537,6/21/1957,No,Male,JUBILEE PARTY,JP
+20,Kirinyaga,Kibiru,Charles Reubenson,6448997,7/27/1967,No,Male,JUBILEE PARTY,JP
+21,Murang'a,Mbai,Joseph,11270791,9/20/1972,No,Male,JUBILEE PARTY,JP
+21,Murang'a,Gitura,James Kembi,4423862,11/21/1954,No,Male,JUBILEE PARTY,JP
+21,Murang'a,Kang'ata,Irungu,21775938,2/20/1980,No,Male,JUBILEE PARTY,JP
+21,Murang'a,Njangi,Peter Muiruri,1028796,5/28/1959,No,Male,JUBILEE PARTY,JP
+22,Kiambu,Gathogo,Eric Solomon Mungai,30327226,1/23/1994,No,Male,JUBILEE PARTY,JP
+22,Kiambu,Thangwa,Paul Karungo,21979996,1/31/1980,No,Male,JUBILEE PARTY,JP
+22,Kiambu,Njoroge,John Kabogo,22559396,2/4/1983,No,Male,JUBILEE PARTY,JP
+22,Kiambu,Wamatangi,Kimani Paul,B170136,6/8/1965,No,Male,JUBILEE PARTY,JP
+22,Kiambu,Kihu,Moshe Mutua,563485,2/21/1950,No,Male,JUBILEE PARTY,JP
+22,Kiambu,Nyanja,"George Bonface Njau
+Mbugua",4827842,7/27/1947,No,Male,JUBILEE PARTY,JP
+22,Kiambu,Ndehi,Margaret Wanjiru,6037167,4/1/1965,No,Female,JUBILEE PARTY,JP
+22,Kiambu,Ndabi,Stephen Ndichu,264198,5/28/1958,No,Male,JUBILEE PARTY,JP
+22,Kiambu,Kiama,Peter Wangai,10967225,9/26/1970,No,Male,JUBILEE PARTY,JP
+23,Turkana,Kaituko,Geoffrey Eyanae,12834968,10/30/1974,No,Male,JUBILEE PARTY,JP
+23,Turkana,Imana,Malachy Charles Ekal,4840444,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+24,West Pokot,Murgor,Julius Recha,7331645,5/15/1957,No,Male,JUBILEE PARTY,JP
+24,West Pokot,Andiema,Eunice Cheptoo,9169722,4/20/1973,No,Male,JUBILEE PARTY,JP
+25,Samburu,Lelegwe,Steve Ltumbesi,22789020,9/14/1981,No,Male,JUBILEE PARTY,JP
+26,Trans Nzoia,Chemuigut,Peter Kiptanui,20022696,1/15/1976,No,Male,JUBILEE PARTY,JP
+26,Trans Nzoia,Kitiyo,Michael Francis Chemonges,3810836,7/15/1949,No,Male,JUBILEE PARTY,JP
+26,Trans Nzoia,Ndombi,John Lewis,141040,11/1/1956,No,Male,JUBILEE PARTY,JP
+26,Trans Nzoia,Kore,Stanley Kilimo,10745548,,No,Male,JUBILEE PARTY,JP
+26,Trans Nzoia,Mbito,Michael Maling`A,6635811,5/9/1967,No,Male,JUBILEE PARTY,JP
+26,Trans Nzoia,Kitiabi,Beatrice Khakali,8165795,,,Female,ORANGE DEMOCRATIC MOVEMENT,ODM
+26,Trans Nzoia,Andrew,Luke Wafula,7973661,5/16/1905,N/A,Male,NATIONAL RAINBOW COALITION-KENYA,NARC-KENYA
+26,Trans Nzoia,Catherine,Mukite Nabwala,1910160,5/4/1905,N/A,Female,NATIONAL RAINBOW COALITION-KENYA,NARC-KENYA
+26,Trans Nzoia,Henry,Tiole Ndiema,190520,5/6/1905,N/A,Male,NATIONAL RAINBOW COALITION-KENYA,NARC-KENYA
+26,Trans Nzoia,David,Sifuna Kinisu,,5/20/1905,N/A,Male,NATIONAL RAINBOW COALITION-KENYA,NARC-KENYA
+27,Uasin Gishu,Lilan,Simon Chepsiror,10949681,2/28/1970,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Kapkiai,Victorine Jepkorir,22067762,9/8/1978,No,Female,JUBILEE PARTY,JP
+27,Uasin Gishu,Biwott,Philip Kimutai,10033322,2/21/1969,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Rono,Philip Meli,10960029,1/15/1972,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Rotich,Robert Kemei,13064684,2/3/1974,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Kamar,Margaret Jepkoech,287418,4/28/1959,No,Female,JUBILEE PARTY,JP
+27,Uasin Gishu,Kemei,William Kipkoech,3937162,3/8/2017,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Lagat,Joseph Kipchumba,10030578,8/13/1967,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Mutwol,Abraham Kipyego,13613383,8/8/1974,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Melly,Isaac Kipkemboi,21756124,2/2/1979,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Tuwei,Julius Tirop,13613124,5/11/1973,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Metto,Josiah Kipkemei,28440070,6/1/1991,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Sawe,David  Kipkogei,4905827,1/1/1955,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Rop,Alex,25888402,8/4/1988,No,Male,JUBILEE PARTY,JP
+27,Uasin Gishu,Murgor,Thomas Kipkurui,4830294,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+28,Elgeyo/Marakwet,Kangogo,John Kipkosgei,878500,4/25/1960,No,Male,JUBILEE PARTY,JP
+28,Elgeyo/Marakwet,Murgor,Matthews Kipruto,5228205,7/4/1962,No,Male,JUBILEE PARTY,JP
+28,Elgeyo/Marakwet,Boit,Barnabas Kiplagat,22343777,12/12/1980,No,Male,JUBILEE PARTY,JP
+28,Elgeyo/Marakwet,Kibiwot,Michael Kipkorir,12828879,7/23/1976,No,Male,JUBILEE PARTY,JP
+28,Elgeyo/Marakwet,Murkomen,Onesimus Kipchumba,22025845,3/12/1979,No,Male,JUBILEE PARTY,JP
+29,Nandi,Tarbei,Josphat Kipchumba,25088017,4/1/1985,No,Male,JUBILEE PARTY,JP
+29,Nandi,Biwott,Benson Kiprono,22028941,10/1/1980,No,Male,JUBILEE PARTY,JP
+29,Nandi,Mengech,Mary Jemutai,245941,2/13/1960,No,Female,JUBILEE PARTY,JP
+29,Nandi,Kolum,Shadrack Kipkemboi,14724314,7/7/1970,No,Male,JUBILEE PARTY,JP
+29,Nandi,Ruttoh,Stellah Chepkemboi,21357554,8/28/1978,No,Female,JUBILEE PARTY,JP
+29,Nandi,Kemboi,David Kipkorir,23368895,1/12/1984,No,Male,JUBILEE PARTY,JP
+29,Nandi,Leley,Ezekiel Kipkorir,22909666,9/2/1983,No,Male,JUBILEE PARTY,JP
+29,Nandi,Samson,Cherarkey Kiprotich,26393037,8/23/1988,No,Male,JUBILEE PARTY,JP
+29,Nandi,Sainna,Anne Jepkorir,456812,6/2/1949,No,Female,JUBILEE PARTY,JP
+29,Nandi,Kiptanui,Fredrick,4184792,5/13/1961,No,Male,JUBILEE PARTY,JP
+29,Nandi,Barchigei,Charles Tarwott,6420063,7/15/1956,No,Male,JUBILEE PARTY,JP
+29,Nandi,Kirwa,Gerald Kimutai,25698002,5/28/1988,No,Male,JUBILEE PARTY,JP
+29,Nandi,Some,Shadrack Kimeli Samoei,26478777,11/27/1988,No,Male,JUBILEE PARTY,JP
+29,Nandi,Maiyo,William Some,3290746,7/1/1962,No,Male,JUBILEE PARTY,JP
+29,Nandi,Tenai,Bonuves Kemei,9602907,8/26/1967,No,Male,JUBILEE PARTY,JP
+30,Baringo,Chelagat,Saphina Jepkorir,10377781,9/13/1971,No,Female,JUBILEE PARTY,JP
+30,Baringo,Chelugui,Simon Kiprono,11187851,4/19/1971,No,Male,JUBILEE PARTY,JP
+30,Baringo,Ndoigo,Christine Jebichi,6104295,1/1/1964,No,Female,JUBILEE PARTY,JP
+30,Baringo,Ayabei,Kennedy Kipchumba,22146286,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+31,Laikipia,Kiago,Douglas Kiguru,10877419,12/27/1971,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Kambuchwa,Samuel Irungu,13684885,1/1/1976,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Mithamo,Simon Githui,5961024,8/22/1964,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Gichuru,Simon Gathuo,24140212,7/21/1985,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Githiri,James Nyaga John,1206627,1/1/1961,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Gitonga,Weston,3374698,1/3/1958,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Ndung'u,Daniel Wangenye,21180457,2/14/1978,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Kimani,Henry Mbuthia,21616590,2/11/1979,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Kariuki,Godfrey Gitahi,,3/7/1937,No,Male,JUBILEE PARTY,JP
+31,Laikipia,Nderitu,John Kinyua,14427734,1/1/1975,No,Male,JUBILEE PARTY,JP
+32,Nakuru,Wamwere,Koigi Wa,3625594,12/18/1949,No,Male,JUBILEE PARTY,JP
+32,Nakuru,Kihika,Susan Wakarura,13132874,12/9/1973,No,Female,JUBILEE PARTY,JP
+32,Nakuru,Mungai,John Njenga,3630245,1/1/1948,No,Male,JUBILEE PARTY,JP
+32,Nakuru,Mambo,Josepha Wambui,329806,7/23/1957,No,Female,JUBILEE PARTY,JP
+32,Nakuru,Yatich,Andrew Cherogony,6105927,12/31/1966,Yes,Male,JUBILEE PARTY,JP
+32,Nakuru,Kabage,Karanja,3435404,9/9/1949,No,Male,JUBILEE PARTY,JP
+32,Nakuru,Omae,Davynisius Matagaro,946728,3/8/1950,No,Male,JUBILEE PARTY,JP
+32,Nakuru,Waihenya,Jackson Wachira,3552932,7/29/2016,No,Male,JUBILEE PARTY,JP
+32,Nakuru,Ogada,Samwel Omondi ,1680840,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+33,Narok,Lankas,Nkoidila Ole,6215011,5/25/1962,No,Male,JUBILEE PARTY,JP
+33,Narok,Maitai,Thom Sirere,20835168,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+33,Narok,Kina,Ledama Ole,12422950,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+34,Kajiado,Letomir,Daniel Loormeori,12652107,4/20/1974,No,Male,JUBILEE PARTY,JP
+34,Kajiado,Chege,Caroline Wambui,22580403,7/3/1982,No,Female,JUBILEE PARTY,JP
+34,Kajiado,Mositet,Peter Korinko,6855691,1/8/1964,No,Male,JUBILEE PARTY,JP
+34,Kajiado,Mpaayei,Philip Salau,22702972,7/24/1980,No,Male,JUBILEE PARTY,JP
+34,Kajiado,Nakaya,Jeremiah Toire Risa,1342467,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+34,Kajiado,Koilel,Tinaayai Daniel Ole,9022549,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+35,Kericho,Chepkwony,Sammy Kipkosgey,6607501,7/30/1962,No,Male,JUBILEE PARTY,JP
+35,Kericho,Cheruiyot,Aaron Kipkirui,24770581,2/23/1986,No,Male,JUBILEE PARTY,JP
+35,Kericho,Bett,Franklin Kipngetich Arap,4827701,3/23/1953,No,Male,JUBILEE PARTY,JP
+35,Kericho,Biegon,Isaac Kipkurui,32723676,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+36,Bomet,Kemei,Enock Cheruiyot,25304156,11/24/1987,No,Male,JUBILEE PARTY,JP
+36,Bomet,Chirchir,Paul Kipsang,2419675,12/2/1963,No,Male,JUBILEE PARTY,JP
+36,Bomet,Gilbert,Kiplangat Towett,30004975,9/5/1993,No,Male,JUBILEE PARTY,JP
+36,Bomet,Langat,Andrew,10887564,1/1/1971,No,Male,JUBILEE PARTY,JP
+36,Bomet,Korir,Geoffrey Kipngetich,22299994,4/9/1980,No,Male,JUBILEE PARTY,JP
+36,Bomet,Kigen,Robinson Cheruiyot,23130449,1/25/1984,No,Male,JUBILEE PARTY,JP
+36,Bomet,Lesan,Wilfred Rottich,3491190,1/26/1953,No,Male,JUBILEE PARTY,JP
+36,Bomet,Koskei,Joel Kipkirui,8072474,10/30/1966,No,Male,JUBILEE PARTY,JP
+36,Bomet,Chepkemoi,Saida,29542470,1/10/1993,No,Female,JUBILEE PARTY,JP
+36,Bomet,Langat,Andrew Kimutai,4748319,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+36,Bomet,Koskey,Stephen Kiplangat,5999821,1964,No,Male,CHAMA CHA MASHINANI,CCM
+36,Bomet,Korir,Weldon Kipkoech,29035423,1992,No,Male,CHAMA CHA MASHINANI,CCM
+36,Bomet,Ngeno,Patrick,22974146,1982,No,Male,CHAMA CHA MASHINANI,CCM
+37,Kakamega,Panyako,Seth Sindani,11838386,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+37,Kakamega,Kochwa,Kenneth Bukachi,12598138,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+37,Kakamega,Wabuyabo,Justus Ambutsi,13582359,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+37,Kakamega,Mukabwa,Alex Jimmy,1121224,8/15/1955,ND,Male,AMANI NATIONAL CONGRESS,ANC
+37,Kakamega,Wakhungu,Cleophas Malalah,24551457,6/30/1985,ND,Male,AMANI NATIONAL CONGRESS,ANC
+38,Vihiga,Kenya,Patrick Ralph,3474048,4/12/1947,No,Male,JUBILEE PARTY,JP
+38,Vihiga,Ndeda,Aggrey Nagweya,29380679,7/31/1990,No,Male,JUBILEE PARTY,JP
+38,Vihiga,Imbwaga,Humphrey Lihanda,24160385,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+39,Bungoma,Mukhwana,Eusebius Juma,9238726,8/1/1965,No,Male,JUBILEE PARTY,JP
+39,Bungoma,Nyongesa,Bonface Wayne,22574276,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+39,Bungoma,Wamukota,Wamoyo Chrispus,9511566,1/1/1968,ND,Male,AMANI NATIONAL CONGRESS,ANC
+39,Bungoma,Makali,David Barasa,10016911,1/1/1969,ND,Male,AMANI NATIONAL CONGRESS,ANC
+40,Busia,Wako, Sitswila Amos,7358553,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+41,Siaya,Oketch,Margaret Adhiambo,21925727,,,Female,ORANGE DEMOCRATIC MOVEMENT,ODM
+41,Siaya,Kodhek,Clement Gem Argwings,6425383,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+41,Siaya,Orengo,James Aggrey,8826595,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+42,Kisumu,Kodiaga,Israel Maurice Otieno,A1507646,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+42,Kisumu,Ndalo,Tom Ochieng,12506396,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+42,Kisumu,Outa,Fredrick Otieno,6611121,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+42,Kisumu,Ogoda,James Ochola,4827143,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+42,Kisumu,Omondi,Rose Kisia,1506176,,,Female,ORANGE DEMOCRATIC MOVEMENT,ODM
+42,Kisumu,Odongo,Maxwell Otieno,6444577,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+43,Homa Bay,Ogolla,John Owuor,8820518,1/1/1967,No,Male,JUBILEE PARTY,JP
+43,Homa Bay,Obong'o,Bruce Mike,32054690,5/14/1995,No,Male,JUBILEE PARTY,JP
+43,Homa Bay,Rabongo,Fred,6630485,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+43,Homa Bay,Kajwang,Moses Otieno,20825803,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Ogola,Dickson Ogola,11798396,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Oluoch,Kennedy Festus,1275073,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Okello,Ben Oluoch,3946578,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Ochieng,Charles Katege,6612866,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Ogola,Michael Otieno,20595335,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Oketch,Eddy Gicheru,33399291,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Mbeo,Ochieng ,4859537,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Magaiwa,John Menganyi,692653,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Ogolla,Odhiambo Gordon Fred,10820131,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Kogango,Maurice Obunga,2742723,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Rugaria,Solomon Hodo,9541663,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+44,Migori,Owino,Charles Oyugi,1882540,12/4/1952,ND,Male,AMANI NATIONAL CONGRESS,ANC
+45,Kisii,Ongeri,Samson Kegengo,4831549,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+45,Kisii,Omari,Nyamweya George,8167710,8/25/1955,,Male,AMANI NATIONAL CONGRESS,ANC
+46,Nyamira,Makone,Hellen,A022319,5/2/1969,No,Female,JUBILEE PARTY,JP
+46,Nyamira,Ombasa,Joseph Kiangoi,4330129,7/16/1950,No,Male,JUBILEE PARTY,JP
+46,Nyamira,Rioba,Timothy Obare,23560523,8/19/1984,No,Male,JUBILEE PARTY,JP
+46,Nyamira,Mogeni,Eric Okongo,107854476,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM
+47,Nairobi,Sakaja,Johnson Arthur,A1627553,2/2/2017,No,Male,JUBILEE PARTY,JP
+47,Nairobi,Mutinda,Richard Kavemba,13749991,8/27/1975,No,Male,JUBILEE PARTY,JP
+47,Nairobi,Sheeobo,Badi Ali,13827174,8/22/1976,No,Male,JUBILEE PARTY,JP
+47,Nairobi,Kabera,William Wahome,7635558,3/13/1964,No,Male,JUBILEE PARTY,JP
+47,Nairobi,Muchiri,Gerald Mithamo,23744080,6/6/1982,No,Male,JUBILEE PARTY,JP
+47,Nairobi,Bukachi,Gabriel Chapia,20575765,,,Male,ORANGE DEMOCRATIC MOVEMENT,ODM

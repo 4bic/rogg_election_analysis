@@ -1,0 +1,1786 @@
+County Code,County,Const. Code,Constituency,Surname,Other Names,ID No.,YOB,PWD,Gender,Party
+1,Mombasa,1,Changamwe,Ngugi,Patrick K,3619337,01-01-1958,No,Male,Jubilee
+1,Mombasa,1,Changamwe,Amolo,Francis Oduor,7579302,03-20-1967,No,Male,Jubilee
+1,Mombasa,1,Changamwe,Daib,Abdi Mohammed,11173698,05-15-1969,No,Male,Jubilee
+1,Mombasa,1,Changamwe,Athumani,Kibwana Abdallah,661747,08-02-1958,No,Male,Jubilee
+1,Mombasa,1,Changamwe,Shimbwa,Omar Mwinyi,235544,,Not provided,Male,ODM
+1,Mombasa,1,Changamwe,Alliy,Goshi Juma,13595124,,Not provided,Male,ODM
+1,Mombasa,2,Jomvu,Munyika,Karisa Nzai,8535374,08-02-1968,No,Male,Jubilee
+1,Mombasa,2,Jomvu,Macharia,Samuel Kahara,25914695,07-04-1987,No,Male,Jubilee
+1,Mombasa,2,Jomvu,Hassan,Liban Hirsi,29848376,06-03-1986,No,Male,Jubilee
+1,Mombasa,2,Jomvu,Munyika,Karisa Nzai,8535374,,Not provided,Male,ODM
+1,Mombasa,2,Jomvu,Bady,Bady Twalib,13455858,,Not provided,Male,ODM
+1,Mombasa,2,Jomvu,Aloo,Dan Aluora,8239486,,Not provided,Male,ODM
+1,Mombasa,3,Kisauni,Thuku,Tony Cornelius,8207323,08-28-1967,No,Male,Jubilee
+1,Mombasa,3,Kisauni,Lewah,Francis Runyah,13447356,02-12-1975,No,Male,Jubilee
+1,Mombasa,3,Kisauni,Bedzimba,Rashid Juma,8621073,,Not provided,Male,ODM
+1,Mombasa,4,Nyali,Michuki,Mansoor Max Hinga,25051184,03-27-1979,No,Male,Jubilee
+1,Mombasa,4,Nyali,Mwambala,Salim,11789367,07-28-1972,No,Male,Jubilee
+1,Mombasa,4,Nyali,Noor,Yasir Noor Mohamed,20346310,02-12-1977,No,Male,Jubilee
+1,Mombasa,4,Nyali,Agrawal,Sanjeev,22072836,11-19-1968,No,Male,Jubilee
+1,Mombasa,4,Nyali,Bayusuf,Ashraf Hassan,22640670,01-17-1983,No,Male,Jubilee
+1,Mombasa,4,Nyali,Mutiva,Levy Levinson,22866276,07-28-1983,No,Male,Jubilee
+1,Mombasa,4,Nyali,Masumbuko,Mohamed Omar,8618069,02-12-1959,No,Male,Jubilee
+1,Mombasa,4,Nyali,Omondi,Edward Markosewe,14492782,,Not provided,Male,ODM
+1,Mombasa,4,Nyali,Salim,Said Abdalla,22232540,,Not provided,Male,ODM
+1,Mombasa,4,Nyali,Mohamed,Mohamed Ali,22241668,,Not provided,Male,ODM
+1,Mombasa,4,Nyali,Mwaguya,Hamisi Mashobo,11788327,,Not provided,Male,ODM
+1,Mombasa,5,Likoni,Mwahima,Mwalimu Masudi,658076,11-01-1949,No,Male,Jubilee
+1,Mombasa,5,Likoni,Domoko,Khamis Ali,8534183,,Not provided,Male,ODM
+1,Mombasa,5,Likoni,Khamisi,Mishi Juma,10579086,,Not provided,Female,ODM
+1,Mombasa,5,Likoni,Waore,Bernard Odhiambo,9987363,,Not provided,Male,ODM
+1,Mombasa,6,Mvita,Kabilia,Hussen,21445338,01-01-1978,No,Male,Jubilee
+1,Mombasa,6,Mvita,Mohamed,Abbas Ali,11649828,01-15-1972,No,Male,Jubilee
+1,Mombasa,6,Mvita,Mohammed,Mohammed Salim,13456260,12-15-1974,No,Male,Jubilee
+1,Mombasa,6,Mvita,Shallo,Omar Mahmud Mohamed,23804543,10-05-1984,No,Male,Jubilee
+1,Mombasa,6,Mvita,Mohamed,Asha Hussein,13850054,,Not provided,Female,ODM
+1,Mombasa,6,Mvita,Nassir,Abdulswamad Sheriff,13358416,,Not provided,Male,ODM
+2,Kwale,7,Msambweni,Kilalo,Bashiri Mohamed,4612537,01-01-1962,No,Male,Jubilee
+2,Kwale,7,Msambweni,Pokea,Sikukuu Bakari,11771521,11-12-1971,No,Female,Jubilee
+2,Kwale,7,Msambweni,Boga,Omari Idd,11601504,,Not provided,Male,ODM
+2,Kwale,7,Msambweni,Ramadhan,Suleiman Dori,21232437,,Not provided,Male,ODM
+2,Kwale,8,Lunga Lunga,Zonga,Omar Mbwana,768090,,Not provided,Male,ODM
+2,Kwale,8,Lunga Lunga,Mwanyoha,Hassan Mohamed,2202167,,Not provided,Male,ODM
+2,Kwale,8,Lungalunga,Mwilu,Benson Mutisya,8619068,02-10-1963,No,Male,Jubilee
+2,Kwale,8,Lungalunga,Mwashetani,Khatib Abdallah,13197272,04-21-1974,No,Male,Jubilee
+2,Kwale,9,Matuga,Kitambi,Mwalimu Digore,5420505,07-20-1961,No,Male,Jubilee
+2,Kwale,9,Matuga,Tayari,Benjamin Dalu Stephen,12902766,,Not provided,Male,ODM
+2,Kwale,10,Kinango,Rai,Samuel Gonzi,5465989,06-04-1959,No,Male,Jubilee
+2,Kwale,10,Kinango,Kamanza,Seth Mwatela,25157221,,Not provided,Male,ODM
+2,Kwale,10,Kinango,Mwanyoha,Hassan Mohamed,2202167,,Not provided,Male,ODM
+3,Kilifi,11,Kilifi North,Ziro,Esther Kache,11375054,07-15-1970,No,Female,Jubilee
+3,Kilifi,11,Kilifi North,Kilabo,Lawrence Kazungu,8405017,11-27-1962,No,Male,Jubilee
+3,Kilifi,11,Kilifi North,Baya,Owen Yaa,11264837,,Not provided,Male,ODM
+3,Kilifi,12,Kilifi South,Mustafa,Salim Idd,10832041,05-11-1970,No,Male,Jubilee
+3,Kilifi,12,Kilifi South,Kalama,Shedrack Lewa,13485794,07-23-1975,No,Male,Jubilee
+3,Kilifi,12,Kilifi South,Thuva,Magdaline Maryam Nyevu,20792612,12-24-1977,No,Female,Jubilee
+3,Kilifi,12,Kilifi South,Munga,Moses Gunda,22518892,,Not provided,Male,ODM
+3,Kilifi,12,Kilifi South,Kiti,Richard Ken Chonga,8458683,,Not provided,Male,ODM
+3,Kilifi,12,Kilifi South,Mwingo,Kaingu Boniface,10092012,,Not provided,Male,ODM
+3,Kilifi,12,Kilifi South,Madzayo,Stewart Mwachiru S.,159777,,Not provided,Male,ODM
+3,Kilifi,12,Kilifi South,Wanyepe,Nicholas Mrima,5022949,,Not provided,Male,ODM
+3,Kilifi,12,Kilifi South,Abdallah,Amina Nassor,27534865,,Not provided,Female,ODM
+3,Kilifi,13,Kaloleni,Jembe,Ronald Wanje,9967535,01-01-1969,No,Male,Jubilee
+3,Kilifi,13,Kaloleni,Ngowa,Kitsao Kahindi,14498874,02-17-1977,No,Male,Jubilee
+3,Kilifi,13,Kaloleni,Thoya,Thoya Kenga,11494276,07-05-1970,No,Male,Jubilee
+3,Kilifi,13,Kaloleni,Katana,Paul Kahindi,11764021,,Not provided,Male,ODM
+3,Kilifi,14,Rabai,Mupe,Anthony Kenga,11376373,01-01-1973,No,Male,Jubilee
+3,Kilifi,14,Rabai,Mwamkala,William Kamoti,2141674,,Not provided,Male,ODM
+3,Kilifi,15,Ganze,Shehe,Peter Safari,16123389,12-15-1955,No,Male,Jubilee
+3,Kilifi,15,Ganze,Mwambire,Teddy Ngumbao,22034774,,Not provided,Male,ODM
+3,Kilifi,16,Malindi,Charo,Philip Kitsao,8520517,09-30-1976,No,Male,Jubilee
+3,Kilifi,16,Malindi,Kisombe,Peter Mwawana,10833778,05-11-1970,No,Male,Jubilee
+3,Kilifi,16,Malindi,Katana,Aisha Jumwa Karisa,13446192,,Not provided,Female,ODM
+3,Kilifi,16,Malindi,Mtengo,William Baraka,11085028,,Not provided,Male,ODM
+3,Kilifi,17,Magarini,Kombe,Harrison Garama,320524,03-18-1956,No,Male,Jubilee
+3,Kilifi,17,Magarini,Kingi,Michael Thoya,22598903,,Not provided,Male,ODM
+3,Kilifi,17,Magarini,Wayu,Alii Komora,5955287,,Not provided,Male,ODM
+4,Tana River,18,Garsen,Sane,Ibrahim Ahmed,12730762,01-01-1974,No,Male,Jubilee
+4,Tana River,18,Garsen,Guyo,Mohamed Salad,29695494,02-01-1993,No,Male,Jubilee
+4,Tana River,18,Garsen,Ddaiddo,Frankfaith Makorani,12726551,,Not provided,Male,ODM
+4,Tana River,19,Galole,Dukicha,Hassan Abdi,10951445,01-01-1971,No,Male,Jubilee
+4,Tana River,20,Bura,Wario,Ali,10951389,01-01-1970,No,Male,Jubilee
+4,Tana River,20,Bura,Kuno,Yakub Adow,26178851,,Not provided,Male,ODM
+5,Lamu,21,Lamu East,Ali,Sharif Athaman,20476576,01-05-1976,No,Male,Jubilee
+5,Lamu,21,Lamu East,Kombo,Shekue Kahale,10390004,,Not provided,Male,ODM
+5,Lamu,21,Lamu East,Madhubuti,Mohamed ,22272799,,Not provided,Male,ODM
+5,Lamu,22,Lamu West,Mwangi,Anastasia Wanjiru,3094634,09-20-1961,No,Female,Jubilee
+5,Lamu,22,Lamu West,Marubu,Muthoni,27217740,04-30-1989,No,Female,Jubilee
+5,Lamu,22,Lamu West,Ahmed,Abdu Kassim,11625938,01-01-1973,No,Male,Jubilee
+5,Lamu,22,Lamu West,Amana,Rishad Hamid Ahmed,5355336,,Not provided,Male,ODM
+6,Taita Taveta,23,Taveta,Shaban,Naomi Namsi,5396814,09-09-1963,No,Male,Jubilee
+6,Taita Taveta,23,Taveta,Banton,Mike Hamisi,21329787,08-20-1978,No,Male,Jubilee
+6,Taita Taveta,23,Taveta,Mwachari,Naomi Ndisha,9319080,03-18-1968,No,Female,Jubilee
+6,Taita Taveta,23,Taveta,Lelewa,Ruth Mkumbulu,5347785,,Not provided,Female,ODM
+6,Taita Taveta,24,Wundanyi,Kililo,Elistone Mwasela,1163701,06-19-1953,No,Male,Jubilee
+6,Taita Taveta,24,Wundanyi,Mwakima,Valda,154142,10-16-1961,No,Male,Jubilee
+6,Taita Taveta,24,Wundanyi,Mwachia,Simon,8946263,08-27-1966,No,Male,Jubilee
+6,Taita Taveta,24,Wundanyi,Mwangola,Raymond Joel Mwakima,5407668,,Not provided,Male,ODM
+6,Taita Taveta,25,Mwatate,Maganga,Alfred Mwashi,10579249,09-21-1971,No,Male,Jubilee
+6,Taita Taveta,25,Mwatate,Mbondenyi,Morris Kiwinda,21912206,04-18-1978,No,Male,Jubilee
+6,Taita Taveta,25,Mwatate,Mwambingu,Christopher Mwandime,25447943,,Not provided,Male,ODM
+6,Taita Taveta,25,Mwatate,Mwadime,Andrew ,8522929,,Not provided,Male,ODM
+6,Taita Taveta,26,Voi,Mwamodo,George Stephenson,3930197,11-22-1965,No,Male,Jubilee
+6,Taita Taveta,26,Voi,Maina,Boniface M.,26594731,12-25-1987,No,Male,Jubilee
+6,Taita Taveta,26,Voi,Nyaoga,Patience Suzie.K.,9079041,07-18-1968,No,Female,Jubilee
+6,Taita Taveta,26,Voi,Mngoda,Dishon K. Mwanzige,5386128,11-01-1959,No,Male,Jubilee
+6,Taita Taveta,26,Voi,Mlolwa,Jones Mwagogo,5434572,,Not provided,Male,ODM
+7,Garissa,27,Garissa Township,Dualle,Aden Bare,1260241,01-01-1965,No,Male,Jubilee
+7,Garissa,28,Balambala,Shurie,Abdi Omar,14539757,06-05-1977,No,Male,Jubilee
+7,Garissa,28,Balambala,Aden,Abdikadir Omar,13116397,,Not provided,Male,ODM
+7,Garissa,29,Lagdera,Shidiye,Mohamed Muktar,3518089,12-30-1964,No,Male,Jubilee
+7,Garissa,30,Dadaab,Dubow,Abdikheir Abdullahi,23933765,09-09-1984,No,Male,Jubilee
+7,Garissa,30,Dadaab,Duale,Mohamed Dahir,34876,,Not provided,Male,ODM
+7,Garissa,31,Fafi,Shill,Elias Bare,28669,06-29-1953,No,Male,Jubilee
+7,Garissa,32,Ijara,Abass,Ahmed Ibrahim,9565336,01-01-1968,No,Male,Jubilee
+7,Garissa,32,Ijara,Noor,Sophia Abdi,188269,,Not provided,Female,ODM
+8,Wajir,33,Wajir North,Mahad,Mohamud Hassan,23507669,01-01-1983,No,Male,Jubilee
+8,Wajir,33,Wajir North,Saney,Ibrahim Abdi,14467954,01-01-1975,No,Male,Jubilee
+8,Wajir,33,Wajir North,Ibrahim,Ahmed Abdisalan,20865145,,Not provided,Male,ODM
+8,Wajir,34,Wajir East,Mohamed,Abass Sheikh,52542,12-25-1958,No,Male,Jubilee
+8,Wajir,34,Wajir East,Mursal,Mohamed Ali,1130816,,Not provided,Male,ODM
+8,Wajir,35,Tarbaj,Abdullahi,Idris Abdi,10116840,03-01-1970,No,Male,Jubilee
+8,Wajir,35,Tarbaj,Gaal,Ahmed Bashane,40801,01-01-1961,No,Male,Jubilee
+8,Wajir,35,Tarbaj,Abdullahi,Idris Abdi,10716840,,No,Male,Jubilee
+8,Wajir,35,Tarbaj,Ali,Fatuma Ibrahim,33246825,,Not provided,Female,ODM
+8,Wajir,36,Wajir West,Farah,Yussuf Mohamed Bulle,24319857,01-01-1981,No,Male,Jubilee
+8,Wajir,36,Wajir West,Mohamed,Ahmed Kolosh,21657019,,Not provided,Male,ODM
+8,Wajir,37,Eldas,Wehliye,Adan Keynan,5072946,10-10-1968,No,Male,Jubilee
+8,Wajir,37,Eldas,Arale,Ahmed Boray,11173634,,Not provided,Male,ODM
+8,Wajir,38,Wajir South,Muktar,Ahmed Ali,22534170,06-15-1982,No,Male,Jubilee
+8,Wajir,38,Wajir South,Mohammed,Mohamud Sheikh,9249720,01-01-1969,No,Male,Jubilee
+8,Wajir,38,Wajir South,Sirat,Mahamud Muhumed,9749650,07-03-1971,No,Male,Jubilee
+8,Wajir,38,Wajir South,Muhumed,Hussein Hassan,20504983,,Not provided,Male,ODM
+9,Mandera,39,Mandera West,Haji,Ahmed Ibrahim,8760055,11-19-1968,No,Male,Jubilee
+9,Mandera,40,Banissa,Mohamed,Mohamed Abdi Haji,5357327,06-15-1966,No,Male,Jubilee
+9,Mandera,41,Mandera North,Abdullahi,Bashir Haji,11224308,01-01-1972,No,Male,Jubilee
+9,Mandera,42,Mandera South,Huka,Mohamed Adan,9854872,12-20-1969,No,Male,Jubilee
+9,Mandera,42,Mandera South,Ali,Adan Haji,10126479,01-02-1969,No,Male,Jubilee
+9,Mandera,43,Mandera East,Farah,Abdulaziz Ali,10028709,01-01-1969,No,Male,Jubilee
+9,Mandera,43,Mandera East,Abdirahman,Abdikadir Hassan,13004967,05-05-1974,No,Male,Jubilee
+9,Mandera,43,Mandera East,Abdirahman,Husseinweytan Mohamed,12426527,02-13-1977,No,Male,Jubilee
+9,Mandera,44,Lafey,Isaack,Shabban Ali,366358,08-09-1962,No,Male,Jubilee
+10,Marsabit,45,Moyale,Guyo,Waqo Jaldesa,627902,11-19-1962,No,Male,Jubilee
+10,Marsabit,45,Moyale,Qalicha,Gufu Wario,12755504,05-12-1975,No,Male,Jubilee
+10,Marsabit,46,North Horr,Wario,Dulacha Diba,20685058,01-01-1978,No,Male,Jubilee
+10,Marsabit,47,Saku,Dido,Ali Raso,22232,10-23-1961,No,Male,Jubilee
+10,Marsabit,48,Laisamis,Arbelle,Marselino Malimo,8205657,09-26-1968,No,Male,Jubilee
+11,Isiolo,49,Isiolo North,Godana,Abdi Adan,1090295,10-15-1963,No,Male,Jubilee
+11,Isiolo,49,Isiolo North,Lomwa,Joseph Samal,9855929,08-23-1970,No,Male,Jubilee
+11,Isiolo,49,Isiolo North,Mworia,Lucy Nyoroka,574673,08-20-1962,No,Female,Jubilee
+11,Isiolo,49,Isiolo North,Hulufo,Hassan Oda,11274179,02-28-1971,No,Male,Jubilee
+11,Isiolo,50,Isiolo South,Tepo,Abdi Koropu,9854960,03-14-1970,No,Male,Jubilee
+11,Isiolo,50,Isiolo South,Ido,Abduba Mollu,11275130,12-30-1972,No,Male,Jubilee
+11,Isiolo,50,Isiolo South,Ibrahim,Nuh Mohamed,22250245,12-29-1979,No,Male,Jubilee
+11,Isiolo,50,Isiolo South,Dabaso,Hussein Tene,7872706,12-20-1969,No,Male,Jubilee
+11,Isiolo,50,Isiolo South,Banticha,Abdullahi Jaldesa,20627708,07-08-1978,No,Male,Jubilee
+12,Meru,51,Igembe South,Mwereria,Joseph Miriti,2465398,01-01-1963,No,Male,Jubilee
+12,Meru,52,Igembe Central,Mithika,James,7862358,04-28-1966,No,Male,Jubilee
+12,Meru,52,Igembe Central,Iringo,Cyprian Kubai,16014705,03-14-1959,Yes,Male,Jubilee
+12,Meru,52,Igembe Central,Njeru,Esther Karimi,24280057,,Not provided,Female,ODM
+12,Meru,53,Igembe North,Maoka,Richard Maore,2379360,09-14-1962,No,Male,Jubilee
+12,Meru,53,Igembe North,Muthari,Joseph Meruaki,9909102,06-30-1967,No,Male,Jubilee
+12,Meru,53,Igembe North,M'anaiba,Julius Taitumu,11157518,12-31-1970,No,Male,Jubilee
+12,Meru,53,Igembe North,Dalton,Kirianki Kimathi Charles,23308875,,Not provided,Male,ODM
+12,Meru,54,Tigania West,Ndubai,Leon Muriithi,24246306,03-23-1979,No,Male,Jubilee
+12,Meru,54,Tigania West,Mutunga,John Kanyuithia,5098038,11-15-1962,No,Male,Jubilee
+12,Meru,54,Tigania West,Samuel,George Kimathi,11609442,,Not provided,Male,ODM
+12,Meru,55,Tigania East,Aburi,Lawrence Mpuru,2505927,01-01-1962,No,Male,Jubilee
+12,Meru,55,Tigania East,Kiburi,Gervasio Karithi,24111628,,Not provided,Male,ODM
+12,Meru,56,North Imenti,Dawood,Abdul Rahim,7463876,09-28-1964,No,Male,Jubilee
+12,Meru,56,North Imenti,Iringo,Elijah Mutea,1091066,01-01-1961,No,Male,Jubilee
+12,Meru,57,Buuri,Rindikiri,Mugambi Murwithania,7769567,12-14-1959,No,Male,Jubilee
+12,Meru,58,Central Imenti,Matiri,Solomon Mukaba,4501767,03-05-1962,No,Male,Jubilee
+12,Meru,58,Central Imenti,Kirima,Moses Nguchine,16001793,06-06-1962,No,Male,Jubilee
+12,Meru,58,Central Imenti,Kirugi,Nelson Kaimenyi,10367784,09-01-1968,No,Male,Jubilee
+12,Meru,59,South Imenti,Mutwiri,Gideon Kimathi,22130804,02-25-1979,No,Male,Jubilee
+12,Meru,59,South Imenti,Mwiti-Kairu,Magambo Douglas,7465366,08-18-1965,No,Male,Jubilee
+12,Meru,59,South Imenti,Kathaara,Ashford Mwiti Kirimi,21666978,09-24-1978,No,Male,Jubilee
+12,Meru,59,South Imenti,Ithinji,Shadrack Mwiti,2368412,07-16-1955,No,Male,Jubilee
+12,Meru,59,South Imenti,,David Muriuki,10795452,,Not provided,Male,ODM
+13,Tharaka - Nithi,60,Maara,Mbiuki,Kareke,10898930,12-21-1969,No,Male,Jubilee
+13,Tharaka - Nithi,60,Maara,Njeru,Domiziano Kaburu,6420976,09-27-1954,No,Male,Jubilee
+13,Tharaka - Nithi,60,Maara,M'Ithaka,Silas Kaburu,5095687,,Not provided,Male,ODM
+13,Tharaka - Nithi,61,Chuka/Igambang'ombe,Micheni,Erick Muthomi,20911826,09-14-1978,No,Male,Jubilee
+13,Tharaka - Nithi,61,Chuka/Igambang'ombe,Ntwiga,Patrick Munene,23629911,05-07-1984,No,Male,Jubilee
+13,Tharaka - Nithi,61,Chuka/Igambang'ombe,Mutegi,Mercy Kirito,11694456,11-24-1972,No,Female,Jubilee
+13,Tharaka - Nithi,61,Chuka/Igambang'ombe,Kathuni,Zachary Gitonga,26014535,,Not provided,Male,ODM
+13,Tharaka - Nithi,62,Tharaka,Mwiru,Alex Muthengi Mburi,9295353,09-23-1967,No,Male,Jubilee
+13,Tharaka - Nithi,62,Tharaka,Njagi,Juma ,4827546,,Not provided,Male,ODM
+14,Embu,63,Manyatta,Mugo,Justus Kinywa,3710021,08-10-1960,No,Male,Jubilee
+14,Embu,63,Manyatta,Thoithi,John Arimi,27398825,12-20-1989,No,Male,Jubilee
+14,Embu,63,Manyatta,Nyaga,John Muchiri,3758385,12-24-1962,No,Male,Jubilee
+14,Embu,63,Manyatta,Njoka,Danson M.,399913,,Not provided,Male,ODM
+14,Embu,64,Runyenjes,Chandi,Peter Ndwiga,3737456,08-28-1962,No,Male,Jubilee
+14,Embu,64,Runyenjes,Kaweru,John Njue,7677840,03-28-1960,No,Male,Jubilee
+14,Embu,64,Runyenjes,Kariuki,Margaret Lorna,12578333,09-17-1974,No,Female,Jubilee
+14,Embu,64,Runyenjes,Njiru,Eric Muchangi,24012889,10-21-1984,No,Male,Jubilee
+14,Embu,64,Runyenjes,Kinyua,Raymond Njagi,13263271,05-30-1974,No,Male,Jubilee
+14,Embu,65,Mbeere South,Njuki,Emily Thaara,24208266,06-11-1985,No,Female,Jubilee
+14,Embu,65,Mbeere South,Nyutu,Peter Kamau,968813,12-24-1958,No,Male,Jubilee
+14,Embu,65,Mbeere South,Muturi,Geoffrey King'ang'i,376144,12-31-1959,No,Male,Jubilee
+14,Embu,65,Mbeere South,Erasmus,Hesbon Mwangi,1275419,,Not provided,Male,ODM
+14,Embu,66,Mbeere North,Njiru,Patrisio,12881524,07-07-1975,No,Male,Jubilee
+14,Embu,66,Mbeere North,Njagagua,Charles Muriuki,10461035,12-02-1969,No,Male,Jubilee
+15,Kitui,67,Mwingi North,Munuve,John Mati,4338814,12-23-1956,No,Male,Jubilee
+15,Kitui,68,Mwingi West,Mwinzi,Mwende Maluki,32316366,04-17-1971,No,Female,Jubilee
+15,Kitui,69,Mwingi Central,Kilonzi,David Paul Kilatya,237765,,Not provided,Male,ODM
+15,Kitui,70,Kitui West,Mbai,Ben Rogers Ndeteni,2302611,10-18-1959,No,Male,Jubilee
+15,Kitui,71,Kitui Rural,Kiilu,James Munyao,23060802,02-20-1983,No,Male,Jubilee
+15,Kitui,72,Kitui Central,Mwendwa,Moses Banda,3497416,10-15-1965,No,Male,Jubilee
+15,Kitui,72,Kitui Central,Mbuvi,Leonard Katunga,10096000,05-27-1969,No,Male,Jubilee
+15,Kitui,72,Kitui Central,Mutambu,Joe Musyimi,9426147,07-19-1967,No,Male,Jubilee
+15,Kitui,73,Kitui East,Mbai,Nimrod Mbithuka,20244845,12-22-1978,No,Male,Jubilee
+15,Kitui,74,Kitui South,Kiminza,Samuel Kalii,9572325,12-26-1967,No,Male,Jubilee
+15,Kitui,74,Kitui South,Nyamai,Rachael Kaki,14698641,08-28-1976,No,Female,Jubilee
+16,Machakos,75,Masinga,Mbai,Benson Itwiku,1676178,12-12-1959,No,Male,Jubilee
+16,Machakos,76,Yatta,Kimiti,Henry Musau,8347474,,Not provided,Male,ODM
+16,Machakos,77,Kangundo,Wambua,Rose Ndinda,4808279,07-14-1961,No,Female,Jubilee
+16,Machakos,78,Matungulu,Musau,Thomas Malinda,9923682,03-13-1969,No,Male,Jubilee
+16,Machakos,79,Kathiani,Kioko,Jackson Teddy,11602861,07-18-1973,No,Male,Jubilee
+16,Machakos,80,Mavoko,Ndile,Richard N. Kalembe,7945805,04-16-1964,No,Male,Jubilee
+16,Machakos,80,Mavoko,Kyaiwa,Jacqueline Mutindi,14430402,01-01-1976,No,Female,Jubilee
+16,Machakos,80,Mavoko,Wamae,Justina Wangui,25132271,05-25-1987,No,Female,Jubilee
+16,Machakos,80,Mavoko,Mutuku,Michael Mutua,12661923,,Not provided,Male,ODM
+16,Machakos,81,Machakos Town,Munyaka,Victor Kioko,7710968,12-12-1964,No,Male,Jubilee
+17,Makueni,84,Kilome,Muia,Regina Nthambi,5067379,09-09-1956,No,Female,Jubilee
+17,Makueni,84,Kilome,Ndava,David Kamzee,11587593,09-16-1973,No,Male,Jubilee
+17,Makueni,84,Kilome,Nzioka,George Lancaster Mutua,6882082,,Not provided,Male,ODM
+17,Makueni,85,Kaiti,Makenga,Richard Katemi,294588,09-12-1960,No,Male,Jubilee
+17,Makueni,85,Kaiti,Kisaulu,Justus Mulinge,21946355,,Not provided,Male,ODM
+17,Makueni,85,Kaiti,Kiandiko,Raphael Kioko,25673812,,Not provided,Male,ODM
+17,Makueni,86,Makueni,Munyasya,Tom Luusa,10504043,,Not provided,Male,ODM
+17,Makueni,87,Kibwezi West,Kakusye,Seth ,5174259,,Not provided,Female,ODM
+17,Makueni,88,Kibwezi East,Kaloki,Kyalo Kituti,3785911,12-10-1960,No,Male,Jubilee
+17,Makueni,88,Kibwezi East,Kisoi,Michael Manthi,11726172,01-01-1973,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Gichuki,James Mwangi,14569720,11-13-1975,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Thuku,Zachary Kwenya,20096153,06-24-1977,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Bakari,Moses Macharia Ali,21785340,04-30-1979,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Mugo,Amos Chege,23641626,04-02-1983,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Mundia,Daniel Njoka,8850015,09-09-1962,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Kk,Stephen Kinyanjui Mburu,990727,12-07-1957,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Wambugu,Simon Njuguna,8678200,09-27-1964,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Mwangi,Samuel Kagiri,22587452,02-21-1981,No,Male,Jubilee
+18,Nyandarua,89,Kinangop,Mwangi,Moses Kamau,20729428,02-17-1978,No,Male,Jubilee
+18,Nyandarua,90,Kipipiri,Kamau,John Njenga,9198208,10-21-1967,No,Male,Jubilee
+18,Nyandarua,90,Kipipiri,Gichigi,Samuel Kamunye,9256061,12-28-1966,No,Male,Jubilee
+18,Nyandarua,90,Kipipiri,Wanjunguna,Jane Wanjiku Irungu,22143678,01-29-1980,No,Female,Jubilee
+18,Nyandarua,90,Kipipiri,Kimunya,Amos Muhinga,2887680,03-06-1962,No,Male,Jubilee
+18,Nyandarua,90,Kipipiri,Mburu,John Njoroge,10881019,05-17-1969,No,Male,Jubilee
+18,Nyandarua,90,Kipipiri,Njoroge,Raphael Njui,11189426,01-21-1972,No,Male,Jubilee
+18,Nyandarua,90,Kipipiri,Wambugu,Joshua Kiama,22810477,03-07-1983,No,Male,Jubilee
+18,Nyandarua,90,Kipipiri,Njoroge,Raphael Njui,11189428,,No,Male,Jubilee
+18,Nyandarua,91,Ol Kalou,Mbuthia,Jacob Ngare,12487542,08-14-1973,No,Male,Jubilee
+18,Nyandarua,91,Ol Kalou,Kiaraho,Davide Njuguna,7879366,10-10-1963,No,Male,Jubilee
+18,Nyandarua,91,Ol Kalou,Kanuri,George Wambugu,7112490,11-29-1964,No,Male,Jubilee
+18,Nyandarua,92,Ol Jorok,Waiganjo,John Muriithi,9507187,03-12-1967,No,Male,Jubilee
+18,Nyandarua,92,Ol Jorok,Kiarie,Albert Gacheru,2887734,03-10-1962,No,Male,Jubilee
+18,Nyandarua,92,Ol Jorok,Muriithi,Erastus Kihara,989142,11-17-1946,No,Male,Jubilee
+18,Nyandarua,92,Ol Jorok,Ndiritu,John Kariuki,5961911,08-22-1963,No,Male,Jubilee
+18,Nyandarua,92,Ol Jorok,Muchira,Michael Mwangi,22568372,01-23-1981,No,Male,Jubilee
+18,Nyandarua,93,Ndaragwa,Kioni,Jeremiah Nga'yu,4291113,02-19-1964,No,Male,Jubilee
+18,Nyandarua,93,Ndaragwa,Gitonga,Grace Wanjiru,5515977,04-25-1965,No,Female,Jubilee
+18,Nyandarua,93,Ndaragwa,Gachagua,George,5514746,09-08-1965,No,Male,Jubilee
+18,Nyandarua,93,Ndaragwa,Kibuika,Francis Mwangi,5974528,03-22-1962,No,Male,Jubilee
+18,Nyandarua,93,Ndaragwa,Nderitu,Francis Waweru,10709426,03-21-1970,No,Male,Jubilee
+18,Nyandarua,93,Ndaragwa,Ndegwa,Moses  Mwaura,10880592,09-08-1970,No,Male,Jubilee
+18,Nyandarua,93,Ndaragwa,Kariuki,Eliud,11613195,06-11-1972,No,Male,Jubilee
+18,Nyandarua,93,Ndaragwa,Wachira,Charles Ndung'u,20420898,06-26-1978,No,Male,Jubilee
+19,Nyeri,94,Tetu,Kanyi,Anne Nyambura,1216055,12-19-1957,No,Female,Jubilee
+19,Nyeri,94,Tetu,Mwangi,James Gichuhi,21414481,07-18-1977,No,Male,Jubilee
+19,Nyeri,94,Tetu,Wachira,Lutherking Githigaro,24651658,12-22-1986,No,Male,Jubilee
+19,Nyeri,94,Tetu,Mirera,Amos,A2043032,06-29-1979,No,Male,Jubilee
+19,Nyeri,94,Tetu,Getheji,James Ndung'u,8744335,02-08-1967,No,Male,Jubilee
+19,Nyeri,94,Tetu,Kariuki,Peter M. Kamuthu,13099096,09-05-1974,No,Male,Jubilee
+19,Nyeri,95,Kieni,Muchire,Stephen K,7469828,01-11-1965,No,Male,Jubilee
+19,Nyeri,95,Kieni,Warugungo,Nemesyus,1882925,07-02-1953,No,Male,Jubilee
+19,Nyeri,95,Kieni,Wainaina,Anthony Njoroge,823142,01-01-1959,No,Male,Jubilee
+19,Nyeri,95,Kieni,Kega,James Mathenge Kanini,12474351,10-31-1972,No,Male,Jubilee
+19,Nyeri,96,Mathira,Irungu,Catherine Wanjiku,23884874,03-11-1984,No,Female,Jubilee
+19,Nyeri,96,Mathira,Maranga,Phyllis Christabel Wambura,6413900,06-26-1947,No,Female,Jubilee
+19,Nyeri,96,Mathira,Gachagua,Rigathi,6091105,02-28-1965,No,Male,Jubilee
+19,Nyeri,96,Mathira,Kinyua,Peter Weru,14688754,02-09-1977,No,Male,Jubilee
+19,Nyeri,96,Mathira,Kiruta,Christopher Maina,11411514,,Not provided,Male,ODM
+19,Nyeri,97,Othaya,Mugambi,James Gichuki,5101073,01-01-1964,No,Male,Jubilee
+19,Nyeri,97,Othaya,Munene,Mary Wambui,346557,01-01-1952,No,Female,Jubilee
+19,Nyeri,97,Othaya,Gachunia,Simon Ndirangu,21969350,01-02-1981,No,Male,Jubilee
+19,Nyeri,98,Mukurweini,Kiai,Anthony Githiaka,9137327,01-01-1968,No,Male,Jubilee
+19,Nyeri,98,Mukurweini,Thieri,Peter Mambo,11253072,05-31-1969,No,Male,Jubilee
+19,Nyeri,98,Mukurweini,Irungu,Naftaly Kamau,13726580,02-24-1975,No,Male,Jubilee
+19,Nyeri,98,Mukurweini,Ngari,Robert Njoroge,5561698,03-03-1962,No,Male,Jubilee
+19,Nyeri,98,Mukurweini,Kabando,Kabando Wa,9322843,08-15-1967,No,Male,Jubilee
+19,Nyeri,99,Nyeri Town,Mathenge,Esther Murugi,1238807,09-21-1953,No,Female,Jubilee
+19,Nyeri,99,Nyeri Town,Kimotho,Wilson Nginga,6444463,10-20-1953,No,Male,Jubilee
+19,Nyeri,99,Nyeri Town,Ngatia,Patrick Kiboi,13840155,07-12-1976,No,Male,Jubilee
+19,Nyeri,99,Nyeri Town,Wabandi,Stanley Gacheru,20954557,11-28-1976,No,Male,Jubilee
+19,Nyeri,99,Nyeri Town,Mathenge,Duncan Maina,7476820,06-26-1965,No,Male,Jubilee
+19,Nyeri,99,Nyeri Town,Wambugu,Martin Deric Ngunjiri,13100796,04-22-1975,No,Male,Jubilee
+20,Kirinyaga,100,Mwea,Gitau,Peter Njuguna,6063832,01-01-1962,No,Male,Jubilee
+20,Kirinyaga,100,Mwea,Wachira,Josphat Kabinga,4956775,10-13-1959,No,Male,Jubilee
+20,Kirinyaga,100,Mwea,Wagoco,Josphat Kabinga,1831973,01-01-1953,No,Male,Jubilee
+20,Kirinyaga,100,Mwea,Nyambura,Lydia Mukami,13565866,08-01-1974,No,Female,Jubilee
+20,Kirinyaga,101,Gichugu,Githinji,Robert Gichimu,12887696,12-18-1973,No,Male,Jubilee
+20,Kirinyaga,101,Gichugu,Njogu,Barua Ejidius,3127399,05-12-1962,No,Male,Jubilee
+20,Kirinyaga,101,Gichugu,Kariithi,Lydia Wangechi,23047077,05-04-1982,No,Female,Jubilee
+20,Kirinyaga,101,Gichugu,Gatumu,James Gachinga,3094402,10-10-1959,No,Male,Jubilee
+20,Kirinyaga,102,Ndia,Ngare,Stephen Muriuki,984723,04-10-1953,No,Male,Jubilee
+20,Kirinyaga,102,Ndia,Kirangi,Dishon Ndubai,21138070,09-19-1975,No,Male,Jubilee
+20,Kirinyaga,102,Ndia,Kariuki,George Macharia,13333388,06-30-1972,No,Male,Jubilee
+20,Kirinyaga,102,Ndia,Wanjau,Christopher Kinyua,20379527,09-09-1978,No,Male,Jubilee
+20,Kirinyaga,102,Ndia,Kanjobe,Samuel Peter Murimi,9872220,04-16-1969,No,Male,Jubilee
+20,Kirinyaga,102,Ndia,Njogu,Charles Murimi,13241327,06-08-1974,No,Male,Jubilee
+20,Kirinyaga,102,Ndia,Migwi,Migwi Philip,20414460,03-29-1977,No,Male,Jubilee
+20,Kirinyaga,103,Kirinyaga Central,Wambugu,John Munene,13333269,11-07-1973,No,Male,Jubilee
+20,Kirinyaga,103,Kirinyaga Central,Mwai,John K.J.,316634,06-18-1959,No,Male,Jubilee
+20,Kirinyaga,103,Kirinyaga Central,Ngunyi,Beth Wambura,13883561,10-05-1976,No,Female,Jubilee
+20,Kirinyaga,103,Kirinyaga Central,Ngigi,Samuel B. Gichoya,20423600,03-06-1978,No,Male,Jubilee
+20,Kirinyaga,103,Kirinyaga Central,Gitari,Josiah Murigu,24096849,08-14-1984,No,Male,Jubilee
+20,Kirinyaga,103,Kirinyaga Central,Gachuki,Francis Karimi,5757620,12-03-1963,No,Male,Jubilee
+20,Kirinyaga,103,Kirinyaga Central,Murage,Joseph Maina,11171406,08-23-1972,No,Male,Jubilee
+20,Kirinyaga,103,Kirinyaga Central,Muriuki,Lawrence Kamanda,13564509,04-12-1975,No,Male,Jubilee
+21,Muranga,104,Kangema,Mwangi,Duncan Githiga,1121342,08-08-1952,No,Male,Jubilee
+21,Muranga,104,Kangema,Kihungi,Peter Irungu,21500157,09-09-1977,No,Male,Jubilee
+21,Muranga,104,Kangema,Muguku,Enos Ngungu,330685,07-10-1958,No,Male,Jubilee
+21,Muranga,104,Kangema,Kigano,Clement Muturi,4881580,08-30-1945,No,Male,Jubilee
+21,Muranga,104,Kangema,Ngahu,Tiras Nyingi,8519990,08-08-1964,No,Male,Jubilee
+21,Muranga,104,Kangema,Kamau,Simon Mwangi,20630767,09-25-1977,No,Male,Jubilee
+21,Muranga,105,Mathioya,Wambugu,Clement Muchiri,652729,08-01-1956,No,Male,Jubilee
+21,Muranga,105,Mathioya,Maina,Mwaniki,22164925,05-28-1981,No,Male,Jubilee
+21,Muranga,105,Mathioya,Gichuki,Edwin Mugo,22584938,03-19-1983,No,Male,Jubilee
+21,Muranga,105,Mathioya,Kihara,Peter Kimari,4684240,03-21-1965,No,Male,Jubilee
+21,Muranga,105,Mathioya,Wanjohi,Festus Mithi,5923897,01-06-1963,Yes,Male,Jubilee
+21,Muranga,106,Kiharu,Kariuki,George Munyi,22237835,11-22-1982,No,Male,Jubilee
+21,Muranga,106,Kiharu,Nyoro,Ndindi,24359733,12-12-1985,No,Male,Jubilee
+21,Muranga,106,Kiharu,Manyeki,Elijah Churu,12759084,04-01-1975,Yes,Male,Jubilee
+21,Muranga,106,Kiharu,Mburu,Karanja,13068701,11-29-1976,No,Male,Jubilee
+21,Muranga,106,Kiharu,Ng'ang'a,Mukunu Simon,2007570,06-20-1958,No,Male,Jubilee
+21,Muranga,106,Kiharu,Muturi,Kiama,10319698,05-06-1969,No,Male,Jubilee
+21,Muranga,106,Kiharu,Njoroge,Samson Kago,22343375,06-19-1979,No,Male,Jubilee
+21,Muranga,106,Kiharu,Kamau,George Maina,7635667,06-24-1965,No,Male,Jubilee
+21,Muranga,106,Kiharu,Maina,Francis Riitho,11621845,03-03-1973,No,Male,Jubilee
+21,Muranga,106,Kiharu,Njenga,Adrian Kamotho,22004586,01-05-1981,No,Male,Jubilee
+21,Muranga,106,Kiharu,Githirwa,Anthony Macharia,9384580,12-17-1967,No,Male,Jubilee
+21,Muranga,106,Kiharu,Mwangi,William Mwangi,23993878,01-21-1985,No,Male,Jubilee
+21,Muranga,107,Kigumo,Kamau,Sammy Mweha,8457875,11-23-1966,No,Male,Jubilee
+21,Muranga,107,Kigumo,Munyoro,Joseph Kamau,14495251,02-06-1977,No,Male,Jubilee
+21,Muranga,107,Kigumo,Muchoki,Francis Macharia Waben,3705599,06-06-1959,No,Male,Jubilee
+21,Muranga,107,Kigumo,Gichungi,Njeri,5711934,01-31-1963,No,Male,Jubilee
+21,Muranga,107,Kigumo,Mwaniki,Ruth Wangari,5772757,02-04-1966,No,Female,Jubilee
+21,Muranga,107,Kigumo,Mwangi,Jane Njeri,13676087,01-01-1975,No,Female,Jubilee
+21,Muranga,107,Kigumo,Memia,Lawrence Mburu,24132565,09-09-1985,No,Male,Jubilee
+21,Muranga,107,Kigumo,Karuru,Michael Kamotho,7436930,02-27-1965,No,Male,Jubilee
+21,Muranga,107,Kigumo,Kirigwi,Charles Mwangi,10787894,01-01-1971,No,Male,Jubilee
+21,Muranga,107,Kigumo,Kago,Lucy Njoki,10894744,06-16-1971,No,Female,Jubilee
+21,Muranga,107,Kigumo,Kahete,Joseph Githiaka,22775091,06-07-1982,No,Male,Jubilee
+21,Muranga,107,Kigumo,Muiruri,Peter Kinuthia,22814862,02-10-1982,No,Male,Jubilee
+21,Muranga,108,Maragwa,Muiruri,John Njaramba,8334948,01-01-1963,No,Male,Jubilee
+21,Muranga,108,Maragwa,Irad,Paul Kariuki,9090203,02-03-1966,No,Male,Jubilee
+21,Muranga,108,Maragwa,Ndung'u,Joseph Waweru,20853718,10-26-1977,No,Male,Jubilee
+21,Muranga,108,Maragwa,Mungai,Wilson Mwaura,A1737513,05-06-1977,No,Male,Jubilee
+21,Muranga,108,Maragwa,Njoroge,Mary Wamaua Waithira,10787307,01-01-1970,No,Female,Jubilee
+21,Muranga,108,Maragwa,Ng'anga,Anthony Chege,11751934,02-28-1974,No,Male,Jubilee
+21,Muranga,108,Maragwa,Njuguna,Kennedy Kinuthia,24934627,07-13-1986,No,Male,Jubilee
+21,Muranga,108,Maragwa,Mwaura,James Kimani,22436243,08-01-1982,No,Male,Jubilee
+21,Muranga,108,Maragwa,Mwangi,Peter Kamande,8568427,06-20-1965,No,Male,Jubilee
+21,Muranga,108,Maragwa,Ngugi,Martin Njuguna,22228280,12-12-1978,No,Male,Jubilee
+21,Muranga,108,Maragwa,Mbau,Elias Peter,2042475,01-01-1961,No,Male,Jubilee
+21,Muranga,108,Maragwa,Kariuki,Joseph Heho,4879708,11-23-1954,No,Male,Jubilee
+21,Muranga,108,Maragwa,Ngugi,Martin Njuguna,2222820,,No,Male,Jubilee
+21,Muranga,109,Kandara,Nyoike,John Mugerah,9088228,02-28-1968,No,Male,Jubilee
+21,Muranga,109,Kandara,Mburu,James Kimani,22515030,09-07-1980,No,Male,Jubilee
+21,Muranga,109,Kandara,Toro,Joshua Ngugi,920684,08-30-1952,No,Male,Jubilee
+21,Muranga,109,Kandara,Ngugi,Peter Kinyanjui,13651245,02-04-1974,No,Male,Jubilee
+21,Muranga,109,Kandara,Ng'ang'a,Samuel Kamau,23902502,01-07-1983,No,Male,Jubilee
+21,Muranga,109,Kandara,Wahome,Alice Muthoni,5482723,04-28-1959,No,Female,Jubilee
+21,Muranga,109,Kandara,Mwaura,Stephen Mburu,9945986,03-02-1968,No,Male,Jubilee
+21,Muranga,109,Kandara,Kamau,James Maina,8727534,12-25-1953,No,Male,Jubilee
+21,Muranga,109,Kandara,Ndirangu,Gichuhi,20808373,08-11-1978,No,Male,Jubilee
+21,Muranga,110,Gatanga,Ngugi,Joseph Nduati,3962232,03-14-2017,No,Male,Jubilee
+21,Muranga,110,Gatanga,Njuguna,Humphrey Kimani,1831312,07-17-1961,No,Male,Jubilee
+21,Muranga,110,Gatanga,Mwangi,Kenneth Maina,21125932,09-14-1978,No,Male,Jubilee
+21,Muranga,110,Gatanga,Kirika,Mary Wanjiru,619000,10-15-1959,No,Female,Jubilee
+21,Muranga,110,Gatanga,Wanyoike,Anthony Ndung'u,7569714,08-15-1963,No,Male,Jubilee
+22,Kiambu,111,Gatundu South,Ngugi,Joyce Wanjiku,11178632,03-16-1971,No,Female,Jubilee
+22,Kiambu,111,Gatundu South,Njoroge,Joseph Gitacu,22112592,08-15-1980,No,Male,Jubilee
+22,Kiambu,111,Gatundu South,Kuria,Moses Kiarie,11148812,01-01-1971,No,Male,Jubilee
+22,Kiambu,111,Gatundu South,Warui,Joseph Njuguna,12943109,12-10-1975,No,Male,Jubilee
+22,Kiambu,111,Gatundu South,Kibathi,Peter Kung'u,24535921,07-11-1985,No,Male,Jubilee
+22,Kiambu,112,Gatundu North,Njenga,Francis Kigo,4300397,07-17-1961,No,Male,Jubilee
+22,Kiambu,112,Gatundu North,Karigi,Patrick  Mungai,4830717,11-29-1955,No,Male,Jubilee
+22,Kiambu,112,Gatundu North,Gicheru,Dominic Kanyi,11337435,03-03-1972,No,Male,Jubilee
+22,Kiambu,112,Gatundu North,Muiruri,Patrick Kariuki,3060136,12-05-1945,No,Male,Jubilee
+22,Kiambu,112,Gatundu North,Gaitho,Vincent Gichuru,7278867,11-24-1964,No,Male,Jubilee
+22,Kiambu,112,Gatundu North,Waibara,Clement Kung'u,10671218,05-16-1971,No,Male,Jubilee
+22,Kiambu,112,Gatundu North,Kibeh,Annie Wanjiku,13799001,09-15-1975,No,Female,Jubilee
+22,Kiambu,113,Juja,Waititu,Francis Munyua,5196645,10-05-1958,No,Male,Jubilee
+22,Kiambu,113,Juja,Kamau,Nicholas Karuru,10905812,08-10-1971,No,Male,Jubilee
+22,Kiambu,113,Juja,Ndungu,Kenedy Gachuma,14655605,04-01-1977,No,Male,Jubilee
+22,Kiambu,113,Juja,Ndung'u,George Koimburi,12833271,02-16-1975,No,Male,Jubilee
+22,Kiambu,114,Thika Town,Mwaniki,Morris Mburu,C026793,02-02-1974,No,Male,Jubilee
+22,Kiambu,114,Thika Town,Jungle,Patrick Kimani Wainaina,7279649,06-06-1967,No,Male,Jubilee
+22,Kiambu,114,Thika Town,Nganga,Alice Wambui,14697047,06-25-1975,No,Female,Jubilee
+22,Kiambu,114,Thika town,Musili,Angela Katumbu,11007937,,Not provided,Female,ODM
+22,Kiambu,115,Ruiru,Kingara,Simon Ng'ang'a,7385897,12-09-1965,No,Male,Jubilee
+22,Kiambu,115,Ruiru,Mwaura,Isaac Maigua,22484569,05-29-1982,No,Male,Jubilee
+22,Kiambu,115,Ruiru,Gathogo,Esther Nyambura,11753125,08-13-1971,No,Female,Jubilee
+22,Kiambu,116,Githunguri,Baiya,Peter Njoroge,4697956,02-12-1963,No,Male,Jubilee
+22,Kiambu,116,Githunguri,Mwaura,Johnson Ngarari,4826931,12-23-1955,No,Male,Jubilee
+22,Kiambu,116,Githunguri,Gathumbi,Anne Wanjiku,10875113,07-22-1971,No,Male,Jubilee
+22,Kiambu,116,Githunguri,Mukuha,Gabriel Kago,A1681467,09-02-1975,No,Male,Jubilee
+22,Kiambu,116,Githunguri,Gachuki,John Ngata,8473874,07-27-1967,No,Male,Jubilee
+22,Kiambu,116,Githunguri,Kinuthia,Stephen Ndichu,6584068,05-18-1962,No,Male,Jubilee
+22,Kiambu,117,Kiambu,Njomo,Jude L Kangethe,3088732,01-01-1964,No,Male,Jubilee
+22,Kiambu,117,Kiambu,Wariara,Josphat Ng'ang'a,25130040,09-16-1987,No,Male,Jubilee
+22,Kiambu,117,Kiambu,Njenga,Patrick Mbugua,22875553,05-06-1982,No,Male,Jubilee
+22,Kiambu,117,Kiambu,Wanjiku,Solomon Ndung'u,20706168,06-13-1977,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Koinange,Paul,3460330,07-04-1949,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Mwaura,Raymond Kuria,36152253,04-26-1972,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Mbugua,Eric Mutura,11029880,01-06-1970,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Mwaura,Raymond Kuria,12983399,,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Njama,Karanja Kariri,10626345,04-14-1969,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Wanjiku,Fredrick Mburu,28450385,04-17-1991,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Kiguru,John Wakioh,1806064,01-01-1954,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Wilfred,Karanja Thariki,3087814,05-09-1962,No,Male,Jubilee
+22,Kiambu,118,Kiambaa,Ndungu,Charles Munyui,8855988,,No,Male,Jubilee
+22,Kiambu,119,Kabete,Kamau,James Githua,13621290,12-19-1973,No,Male,Jubilee
+22,Kiambu,119,Kabete,Wangui,Peter Kariuki,971558,03-28-1958,No,Male,Jubilee
+22,Kiambu,119,Kabete,Kangangi,Milton Mulonzia,10644019,10-26-1970,No,Male,Jubilee
+22,Kiambu,119,Kabete,Ng'ang'a,Duncan Njenga,22209385,04-25-1981,No,Male,Jubilee
+22,Kiambu,119,Kabete,Gitau,Charles Chege,24274785,09-25-1985,No,Male,Jubilee
+22,Kiambu,119,Kabete,Njeri,Peter Mbugua,23529372,,Not provided,Male,ODM
+22,Kiambu,120,Kikuyu,Wanjiku,Owen Ndungu,10366122,01-01-1969,No,Male,Jubilee
+22,Kiambu,120,Kikuyu,Ichung'wah,Antony Kimani,14402602,10-29-1976,No,Male,Jubilee
+22,Kiambu,120,Kikuyu,Kahenya,Kamunyu,4830645,06-18-1953,No,Male,Jubilee
+22,Kiambu,121,Limuru,Mwathi,Peter Mungai,1231753,06-01-1962,No,Male,Jubilee
+22,Kiambu,121,Limuru,Chege,John  Kiragu,3462361,06-02-1954,No,Male,Jubilee
+22,Kiambu,121,Limuru,Maara,George Jonathan,3108711,05-15-1958,No,Male,Jubilee
+22,Kiambu,122,Lari,Burugu,John Njuguna,10485756,03-13-1969,No,Male,Jubilee
+22,Kiambu,122,Lari,Muiru,Steven,4300501,10-03-1960,No,Male,Jubilee
+22,Kiambu,122,Lari,Kiguru,Fredrick Ngigi,20141736,03-04-1978,No,Male,Jubilee
+22,Kiambu,122,Lari,Muturi,Samuel Rugongo,9267004,01-01-1966,No,Male,Jubilee
+22,Kiambu,122,Lari,Mwangi,Jonah Mburu,11362203,08-18-1971,No,Male,Jubilee
+22,Kiambu,122,Lari,Mwaura,David Njuguna,352882,01-01-1946,No,Male,Jubilee
+22,Kiambu,122,Lari,Kimani,George Njunge,1843423,01-14-1959,No,Male,Jubilee
+22,Kiambu,122,Lari,Kahangara,Joseph Mburu,8779042,01-01-1965,No,Male,Jubilee
+22,Kiambu,122,Lari,Kimani,William Mwangi,24210053,03-28-1985,No,Male,Jubilee
+22,Kiambu,122,Lari,Ngugi,Daniel Muturi George,9861815,08-20-1968,No,Male,Jubilee
+23,Turkana,123,Turkana North,Nakuleu,Christopher Doye,13425651,01-01-1975,No,Male,Jubilee
+23,Turkana,123,Turkana North,Imuton,Joseph Ekalale,21312682,,Not provided,Male,ODM
+23,Turkana,124,Turkana West,Nanok,Daniel Epuyo,9709868,07-15-1968,No,Male,Jubilee
+23,Turkana,124,Turkana West,Lokaimoe,Patrick Losike,20334692,,Not provided,Male,ODM
+23,Turkana,124,Turkana West,Ekomwa,Sylvester Kuya,12908831,,Not provided,Male,ODM
+23,Turkana,125,Turkana Central,Lomulen,Peter Lokol,12911339,08-23-1974,No,Male,Jubilee
+23,Turkana,125,Turkana Central,Arasio,Raphael Lotira,12911282,03-07-2017,No,Male,Jubilee
+23,Turkana,125,Turkana Central,Ewoi,Simon Ekai,23414638,06-07-1984,No,Male,Jubilee
+23,Turkana,125,Turkana Central,Nakara,John Lodepe,12907651,,Not provided,Male,ODM
+23,Turkana,126,Loima,Akujah,Protus Ewesit,12911390,04-08-1974,No,Male,Jubilee
+23,Turkana,126,Loima,Lomorukai,Jeremiah Ekamais,13648354,,Not provided,Male,ODM
+23,Turkana,127,Turkana South,Ewoton,Pius Atok,10772848,11-11-1969,No,Male,Jubilee
+23,Turkana,127,Turkana South,Ekomwa,James Lomenen,13005225,02-19-1974,No,Male,Jubilee
+23,Turkana,127,Turkana South,Lynus,Ebenyo Ekuwam,21324989,,Not provided,Male,ODM
+23,Turkana,127,Turkana South,Esuron,James Ekamais,13648647,,Not provided,Male,ODM
+23,Turkana,127,Turkana South,Elim,Joseph Jumapili,12908038,,Not provided,Male,ODM
+23,Turkana,127,Turkana South,Lomodo,Lokaale Samuel,27714226,,Not provided,Male,ODM
+23,Turkana,128,Turkana East,Nixon,Ngikor Nicholas,12908041,10-10-1972,No,Male,Jubilee
+23,Turkana,128,Turkana East,Ali,Lokiru Mohammed,12907652,,Not provided,Male,ODM
+23,Turkana,128,Turkana East,Lang'acha,Eliud Kerio,3451291,,Not provided,Male,ODM
+24,West Pokot,129,Kapenguria,Chumel,Samwel Moroto,4095832,10-12-1960,No,Male,Jubilee
+24,West Pokot,129,Kapenguria,Lotudo,Philemon Chepkwony,22146035,09-20-1980,No,Male,Jubilee
+24,West Pokot,129,Kapenguria,Richard,Todosia Ruto,26069274,,Not provided,Male,ODM
+24,West Pokot,130,Sigor,Lochakapong,Peter,9761597,08-31-1969,No,Male,Jubilee
+24,West Pokot,130,Sigor,Rotino,Philip Lotiolo Ruto,1831233,09-09-1959,No,Male,Jubilee
+24,West Pokot,130,Sigor,Kaliakamur,Emmanuel Lokicha,11529401,,Not provided,Male,ODM
+24,West Pokot,131,Kacheliba,Lomunokol,Mark,20126772,01-01-1973,No,Male,Jubilee
+24,West Pokot,131,Kacheliba,Lokok,Peter Yerer,20542705,03-04-2017,No,Male,Jubilee
+24,West Pokot,131,Kacheliba,John,Lodinyo Lokitare,11529819,01-01-1973,No,Male,Jubilee
+24,West Pokot,132,Pokot South,Losiakau,David Pkosing,13259161,10-20-1973,No,Male,Jubilee
+25,Samburu,133,Samburu West,Lelelit,Lati Jonathan,11643799,11-22-1978,No,Male,Jubilee
+25,Samburu,134,Samburu North,Lentoimaga,Alois Musa,4199649,02-20-1959,No,Male,Jubilee
+25,Samburu,134,Samburu North,Lekimain,Jennes Mercy,10938206,03-02-1970,No,Female,Jubilee
+25,Samburu,135,Samburu East,Letimalo,Raphael Lakalei,263527,10-21-1957,No,Male,Jubilee
+25,Samburu,135,Samburu East,Lolosoli,Rebecca Samaria,290832,12-24-1962,No,Female,Jubilee
+25,Samburu,135,Samburu East,Leshore,Leo Lenas,24240917,,Not provided,Male,ODM
+25,Samburu,135,Samburu East,Lemerketo,Robert ,11455244,,Not provided,Male,ODM
+26,Trans Nzoia,136,Kwanza,Nyarango,Mathews Maciira,11364538,09-14-1971,No,Male,Jubilee
+26,Trans Nzoia,136,Kwanza,Werunga,Joshua Mutoto,A1927420,02-21-1974,No,Male,Jubilee
+26,Trans Nzoia,136,Kwanza,Sing'oei,Abraham Korir,11588172,12-31-1972,No,Male,Jubilee
+26,Trans Nzoia,136,Kwanza,Rono,Isaac Lelei,13415362,12-31-1975,No,Male,Jubilee
+26,Trans Nzoia,136,Kwanza,Nasongo,Jacob Nalanda,21726078,,Not provided,Male,ODM
+26,Trans Nzoia,137,Endebess,Pukose,Robert,10747799,03-03-2017,No,Male,Jubilee
+26,Trans Nzoia,137,Endebess,Chepyagan,Alwin Sasia,16061486,11-23-1971,No,Male,Jubilee
+26,Trans Nzoia,137,Endebess,Wekesa,Peter ,12419189,,Not provided,Male,ODM
+26,Trans Nzoia,137,Endebess,Masinde,Moses Wanjala Aineah,5615855,,Not provided,Male,ODM
+26,Trans Nzoia,138,Saboti,Kuko,Jonas Misto Vincent,277383,10-24-1960,No,Male,Jubilee
+26,Trans Nzoia,138,Saboti,Wekesa,David Wafula,4727211,01-01-1961,No,Male,Jubilee
+26,Trans Nzoia,138,Saboti,Makona,Robert Wanjala,3807272,,Not provided,Male,ODM
+26,Trans Nzoia,138,Saboti,Luyai,Caleb Amisi,25164715,,Not provided,Male,ODM
+26,Trans Nzoia,139,Kiminini,Nabungolo,Cosmas Stephen,3806248,11-07-1962,No,Male,Jubilee
+26,Trans Nzoia,139,Kiminini,Mbagaya,Julius Ayub,6876893,05-07-1966,No,Male,Jubilee
+26,Trans Nzoia,139,Kiminini,Bartai,Ken Kipngetich Koech,20885650,01-03-1978,No,Male,Jubilee
+26,Trans Nzoia,139,Kiminini,Khaemba,Battan M,1125647,06-20-1948,No,Male,Jubilee
+26,Trans Nzoia,139,Kiminini,Webale,Albert Bakasa,5317586,04-04-1964,No,Male,Jubilee
+26,Trans Nzoia,140,Cherangany,Tunduria,Julius Kipruto,7373047,01-01-1964,No,Male,Jubilee
+26,Trans Nzoia,140,Cherangany,Serem,Joshua Kutuny,21798757,08-14-1977,No,Male,Jubilee
+26,Trans Nzoia,140,Cherangany,Sammy,Melly Kipkemboi,23845334,08-24-1983,No,Male,Jubilee
+26,Trans Nzoia,140,Cherangany,Korir,Wesley Kipchumba,23079289,11-15-1982,No,Male,Jubilee
+26,Trans Nzoia,140,Cherangany,Barno,Kiprop Elijah,22919480,10-04-1983,No,Male,Jubilee
+26,Trans Nzoia,140,Cherangany,Simatwa,Korroria,25110738,08-08-1986,No,Male,Jubilee
+26,Trans Nzoia,140,Cherangany,Kadima,Alfred Sahani,678974,,Not provided,Male,ODM
+27,Uasin Gishu,141,Soy,Serem,Abraham Kipkemei,11635898,12-06-1973,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Sambai,Shadrack Kapkiai,22265344,01-21-1980,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Chirchir,Felix Kiprop,23955786,10-05-1984,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Too,Abraham Kibet,11466800,03-12-1972,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Ngeny,Eusilah Jepkosgei,21437915,11-15-1974,No,Female,Jubilee
+27,Uasin Gishu,141,Soy,Ochieng,Nixon Odhiambo,23504970,10-12-1982,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Kiplagat,Andrew,24302512,12-15-1985,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Cherono,Samson Kiprotich,8626356,12-07-1965,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Barno,Zakaria Kipkorir,20741021,06-25-1981,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Barsulai,Alex Kipleting,21847899,01-01-1976,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Barchilei,Edwin Kipruto,24024395,09-20-1984,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Cheruiyot,Morgan Kiprotich,30456257,03-22-1993,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Kositany,Caleb Kipkemei,8762847,03-26-1967,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Koech,Sammy Kipchumba Muten,10031558,02-22-1969,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Korir,Julius Kimurgur,10949423,12-27-1972,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Rotich,Abel Kipchirchir,24147445,12-12-1985,No,Male,Jubilee
+27,Uasin Gishu,141,Soy,Kosgei,Kiprotich Hezekiah,11615560,09-09-1973,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Okwara,Kevin Kenneth,9836504,09-08-1968,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Kitur,Julius Kimeli,10761631,06-26-1970,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Busienei,Elisha Kipkorir,11576222,12-05-1972,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Kipkemboi,John,23633276,04-12-1984,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Kemboi,Charles Kimutai,23935196,08-12-1983,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Kipkosgei,Raymond Kahindie,25285358,10-30-1984,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Kurgat,Gertrude Chemutai,28136398,04-19-1991,No,Female,Jubilee
+27,Uasin Gishu,142,Turbo,Morogo,Shadrack Kipruto,10030747,07-12-1966,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Mwangi,Samuel Muiruri,11465146,07-25-1969,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Lelei,Joshua Kipkemboi,24507563,10-19-1985,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Tanui,Moses Kipruto,25885843,07-18-1988,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Korir,Willy Kipkoech,26257568,10-02-1986,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Sitienei,Janet Jepkemboi,6870558,04-20-1964,No,Female,Jubilee
+27,Uasin Gishu,142,Turbo,Kurgat,Joseph Kipkoech,10031095,01-02-1967,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Maiyo,Isaac Kipyego,8716552,01-01-1962,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Songok,Ishmael Kipkemboi,24790034,11-12-1985,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Kebenei,John Kipkosgei,24804143,10-12-1984,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Rop,Benjamin Kiptanui,26990621,08-16-1989,No,Male,Jubilee
+27,Uasin Gishu,142,Turbo,Lagat,David Songok,4726123,,Not provided,Male,ODM
+27,Uasin Gishu,143,Moiben,Kosgei,Daniel Kipchumba,20624076,12-12-1978,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Yator,Pius Kipkoech,1231667,02-21-1962,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Mutwol,Philip Boit,12678296,07-21-1974,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Kipruto,Hezron Anthony Chirchir,25162763,01-26-1985,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Tiren,Silas Kipkoech,6208714,05-05-1966,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Kimutai,Albert,12465927,09-29-1974,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Chebunet,Philip Kiprotich,14527507,10-04-1977,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Murgor,Donald Kipchumba,9865331,02-15-1968,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Keronei,Joseph Kipkemei,12850281,12-22-1973,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Chesire,Jude Kibiwott,21836333,04-07-1980,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Singoei,James Kibor,22803095,10-24-1982,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Cheruiyot,Wisely Kipruto,27218278,11-08-1989,No,Male,Jubilee
+27,Uasin Gishu,143,Moiben,Matelong,Laban Kibiwot Kiyeny,22839522,,Not provided,Male,ODM
+27,Uasin Gishu,144,Ainabkoi,Chepkong'a,Samuel Kiprono,246633,09-04-1961,No,Male,Jubilee
+27,Uasin Gishu,144,Ainabkoi,Tanui,Bob Kibichi,A1524597,11-12-1986,No,Male,Jubilee
+27,Uasin Gishu,144,Ainabkoi,Chebii,Wesley Chirchir,6353586,09-24-1960,No,Male,Jubilee
+27,Uasin Gishu,144,Ainabkoi,Chepkut,William Kamuren Kipchirchir,8762359,12-31-1970,No,Male,Jubilee
+27,Uasin Gishu,144,Ainabkoi,Tenai,Dominic Kipruto,22471533,11-29-1982,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Kiyeny,Ezekiel Kipruto Kiptenai,21506888,06-06-1978,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Kogo,Enock Kiprugut,24078721,06-09-1984,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Kipkoech,John Rotich,11576970,01-01-1971,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Yego,Stephen Kipkemboi,21581980,10-08-1978,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Tuwei,Jonathan Mutai,20059410,01-18-1978,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Ronoh,Michael Kimutai,2263330,03-19-1981,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Sudi,Oscar Kipchmba,22218279,03-12-1980,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Ngelechei,George Kiplimo,22239929,10-04-1981,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Ronoh,Michael Kimutai,22633300,03-19-1981,No,Male,Jubilee
+27,Uasin Gishu,145,Kapseret,Sumbaei,Norbert Kiprono,25133442,05-17-1986,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Kosgey,Allan Kibet,13427265,03-16-1975,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Yego,Jacob Kipsang Arap,21341278,01-01-1978,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Singoei,Joseph Kipngetiich Lagat,21814824,02-20-1978,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Kili,Jebitok Hellen,21810164,01-06-1979,No,Female,Jubilee
+27,Uasin Gishu,146,Kesses,Chepkwony,Hellen Jeptanui,7395278,04-10-1965,No,Female,Jubilee
+27,Uasin Gishu,146,Kesses,Kili,Jebitok Hellen,21810164,04-04-2017,No,Female,Jubilee
+27,Uasin Gishu,146,Kesses,Mishra,Swarup Ranjan,32080786,05-19-1965,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Terer,Isaac Kipkemei,A1597174,12-25-1974,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Bett,James Kimaru,9871322,10-25-1968,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Kapkiyai,Joseph Kiprop,22219850,08-04-1981,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Koros,David Kiptanui,9664640,10-07-1968,No,Male,Jubilee
+27,Uasin Gishu,146,Kesses,Chirchir,Pius,24503069,02-16-1986,No,Male,Jubilee
+28,Elgeyo/Marakwet,147,Marakwet East,Bowen,David Kangogo,21764615,02-14-1980,No,Male,Jubilee
+28,Elgeyo/Marakwet,147,Marakwet East,Kilimo,Linah Jebii,3496399,10-22-1963,No,Female,Jubilee
+28,Elgeyo/Marakwet,147,Marakwet East,Yego,Stephen Kipkosgei,10704044,01-01-1969,No,Male,Jubilee
+28,Elgeyo/Marakwet,147,Marakwet East,Kisang,Edwin Kipchumba,9958440,12-12-1969,No,Male,Jubilee
+28,Elgeyo/Marakwet,147,Marakwet East,Cherutich,Jonah Khamathew,22343489,,Not provided,Male,ODM
+28,Elgeyo/Marakwet,148,Marakwet West,Letema,Sammy Changwony,11615535,09-23-1971,No,Male,Jubilee
+28,Elgeyo/Marakwet,148,Marakwet West,Kore,Isaac Kipkemoi,22956263,01-22-1983,No,Male,Jubilee
+28,Elgeyo/Marakwet,148,Marakwet West,Kenneth,Yator K,23637799,04-16-1984,No,Male,Jubilee
+28,Elgeyo/Marakwet,148,Marakwet West,Yator,Joseph Kimaiyo,3537216,01-01-1962,No,Male,Jubilee
+28,Elgeyo/Marakwet,148,Marakwet West,Chemweno,Richard Kimutai,9865012,12-15-1969,No,Male,Jubilee
+28,Elgeyo/Marakwet,148,Marakwet West,Kisang,William Kipkemoi,9571275,01-01-1967,No,Male,Jubilee
+28,Elgeyo/Marakwet,148,Marakwet West,Chepkole,Samuel Cheboi,1278662,06-07-1960,No,Male,Jubilee
+28,Elgeyo/Marakwet,149,Keiyo North,Murgor,James Kipkosgei,6980996,09-19-1950,No,Male,Jubilee
+28,Elgeyo/Marakwet,149,Keiyo North,Chepkitony,Lucas Kipkosgei,16000553,04-21-1949,No,Male,Jubilee
+28,Elgeyo/Marakwet,149,Keiyo North,Kipsanai,Korir Adams,25676860,06-12-1986,No,Male,Jubilee
+28,Elgeyo/Marakwet,149,Keiyo North,Kipyego,Joel Kimaiyo,10704064,12-26-1971,No,Male,Jubilee
+28,Elgeyo/Marakwet,149,Keiyo North,Kurgat,Pauline Jeruto,12682250,03-16-1974,No,Female,Jubilee
+28,Elgeyo/Marakwet,149,Keiyo North,Kipruto,William ,8770165,,Not provided,Male,ODM
+28,Elgeyo/Marakwet,150,Keiyo South,Rono,Daniel Kipkogei,5295349,08-28-1963,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Barmao,Eric Kipchoge,11166588,11-29-1971,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Maiyo,Michael Kipchumba,25959667,05-05-1987,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Kipkoech,Bryan Chebii,11868229,12-15-1973,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Lagat,Gilbert Koech,246473,07-19-1959,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Kimaiyo,Gideon Kipkoech,24446200,04-09-1986,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Kiptiyot,Josephat Kibet,11339270,05-05-1973,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Kochei,Albert Kipkogei,21761607,04-22-1978,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Chumba,Felix Kiplagat,24992133,03-22-1987,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Kiprotich,Wilson Kipsang,22681570,03-15-1982,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Kigen,Samson Kipchumba,24727069,01-09-1987,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Cheruiyot,Laban Kipkosgei,13550355,10-31-1975,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Korich,Elijah Kibet Rono Arap,33078732,12-08-1949,No,Male,Jubilee
+28,Elgeyo/Marakwet,150,Keiyo South,Kigen,Micah Kipkemboi,7060440,,Not provided,Male,ODM
+29,Nandi,151,Tinderet,Rotich,Mathew Kiprono,24094479,05-06-1983,No,Male,Jubilee
+29,Nandi,151,Tinderet,Kipbiwott,Julius,9871352,09-12-1969,No,Male,Jubilee
+29,Nandi,151,Tinderet,Daniel,Kemei,13012639,12-15-1972,No,Male,Jubilee
+29,Nandi,151,Tinderet,Leley,Peter Kiptanui,9101634,01-03-1968,No,Male,Jubilee
+29,Nandi,151,Tinderet,Chepkorir,Grace,26091969,07-18-1987,No,Female,Jubilee
+29,Nandi,152,Aldai,Serem,Cornelly,11024066,12-31-1970,No,Male,Jubilee
+29,Nandi,152,Aldai,Yagan,Nicholas,22209758,09-18-2017,No,Male,Jubilee
+29,Nandi,152,Aldai,Rop,Paul Kipchoge,5586602,01-01-1964,No,Male,Jubilee
+29,Nandi,152,Aldai,Too,Samson Kipkemboi,21813530,12-31-1979,No,Male,Jubilee
+29,Nandi,152,Aldai,Choge,Sammy Kipcho,6223045,09-23-1952,No,Male,Jubilee
+29,Nandi,152,Aldai,Kiptum,Daniel Kiprono,9100629,08-20-1963,No,Male,Jubilee
+29,Nandi,152,Aldai,Kiptanui,Gilbert Douglas Rotich,10445535,12-29-1970,No,Male,Jubilee
+29,Nandi,153,Nandi Hills,Bureti,Philemon Kiptoo,4001256,11-27-1961,No,Male,Jubilee
+29,Nandi,153,Nandi Hills,Metto,Pius Kiptanui,9101612,05-24-1967,No,Male,Jubilee
+29,Nandi,153,Nandi Hills,Kiptum,John,22336525,04-04-1982,No,Male,Jubilee
+29,Nandi,153,Nandi Hills,Kiptum,Fredrick,23634158,01-07-1985,No,Male,Jubilee
+29,Nandi,153,Nandi Hills,Kirui,Symon Kipng'etich,28463172,04-20-1990,No,Male,Jubilee
+29,Nandi,153,Nandi Hills,Kitur,Bernard Kibor,22521966,12-31-1982,No,Male,Jubilee
+29,Nandi,153,Nandi Hills,Talam,Emmanuel Kipkorir,14508095,11-30-1973,No,Male,Jubilee
+29,Nandi,153,Nandi Hills,Keter,Alfred Kiptoo,21771810,08-14-1977,No,Male,Jubilee
+29,Nandi,154,Chesumei,Kogo,Wilson Kipngetich,9603110,12-12-1967,No,Male,Jubilee
+29,Nandi,154,Chesumei,Lagat,Elijah Kiptarbei,8590176,06-19-1966,No,Male,Jubilee
+29,Nandi,154,Chesumei,Tanui,John Kiplimo,21708480,11-21-1979,No,Male,Jubilee
+29,Nandi,154,Chesumei,Tarus,Stephen Kipkiyeny,9871237,12-13-1966,No,Male,Jubilee
+29,Nandi,154,Chesumei,Biego,Paul Kibichiy,13809852,01-12-1977,No,Male,Jubilee
+29,Nandi,155,Emgwen,Barno,Andrew Kiplangat,10540451,07-21-1970,No,Male,Jubilee
+29,Nandi,155,Emgwen,Gesicho,Isaya Begi,25309490,12-13-1986,No,Male,Jubilee
+29,Nandi,155,Emgwen,Bungei,Wilfred Kipkemboi,A2324522,07-24-1980,No,Male,Jubilee
+29,Nandi,155,Emgwen,Songok,Kipchumba,9990130,08-22-1968,No,Male,Jubilee
+29,Nandi,155,Emgwen,Kilel,Martin Kiprono,11778980,01-01-1972,No,Male,Jubilee
+29,Nandi,155,Emgwen,Meli,Keneth Kipyego,22650191,04-01-1982,No,Male,Jubilee
+29,Nandi,155,Emgwen,Kosgey,Alexander Kimutai Kigen,22960418,11-15-1982,No,Male,Jubilee
+29,Nandi,155,Emgwen,Koech,Cornelious Kipkweny,28463945,04-11-1991,No,Male,Jubilee
+29,Nandi,156,Mosop,Koech,David K,7227127,07-01-1965,No,Male,Jubilee
+29,Nandi,156,Mosop,Magut,Amos Kipkemboi,22334156,01-08-1982,No,Male,Jubilee
+29,Nandi,156,Mosop,Tarus,David Kipkosgei,23063142,01-01-1984,No,Male,Jubilee
+29,Nandi,156,Mosop,Rop,Hans Kipkorir,27895342,04-01-1990,No,Male,Jubilee
+29,Nandi,156,Mosop,Kirwa,Abraham Kipsang,32738911,03-08-1971,No,Male,Jubilee
+29,Nandi,156,Mosop,Tuwei,Vincent Kipkurui,8968698,11-24-1965,No,Male,Jubilee
+29,Nandi,156,Mosop,Busienei,Elias Kipkemei,11674568,02-14-1973,No,Male,Jubilee
+29,Nandi,156,Mosop,Bitok,Kirwa Stephen,5575334,10-05-1959,No,Male,Jubilee
+30,Baringo,157,Tiaty,Lonyayo,Symon Kiuta,7233823,06-01-1964,No,Male,Jubilee
+30,Baringo,157,Tiaty,Obongotum,Kamama Asman,6596221,08-08-1965,No,Male,Jubilee
+30,Baringo,158,Baringo North,Kipkiror,William Cheptumo,10080348,12-25-1967,No,Male,Jubilee
+30,Baringo,158,Baringo North,Kipkebut,Stephen Chebor Kipkemei,483846,12-31-1959,No,Male,Jubilee
+30,Baringo,158,Baringo North,Kangugo,Yatich,6105900,12-12-1963,No,Male,Jubilee
+30,Baringo,158,Baringo North,Melil,Moses Kwonyike,335238,,Not provided,Male,ODM
+30,Baringo,159,Baringo Central,Mwaita,Sammy Silas Komen,335079,05-25-1959,No,Male,Jubilee
+30,Baringo,159,Baringo Central,Ayabei,John Kipkorir,4013380,01-01-1961,No,Male,Jubilee
+30,Baringo,159,Baringo Central,Kiplagat,David Kipkorir,9677187,12-31-1968,No,Male,Jubilee
+30,Baringo,159,Baringo Central,Tomno,Wesley,10376623,06-17-1971,No,Male,Jubilee
+30,Baringo,159,Baringo Central,Kandie,Silas Komen,21789243,03-28-1979,No,Male,Jubilee
+30,Baringo,160,Baringo South,Tengecha,William Chebungei,10941648,10-12-1970,No,Male,Jubilee
+30,Baringo,160,Baringo South,Kiptoo,Mark Kipkoech,23732262,05-09-1984,No,Male,Jubilee
+30,Baringo,160,Baringo South,Kipchoim,Grace Jelagat,9777915,11-15-1968,No,Female,Jubilee
+30,Baringo,160,Baringo South,Motoloi,Paul Kipruto Kimaru,13066265,05-25-1974,No,Male,Jubilee
+30,Baringo,160,Baringo South,Samati,Boniface Kipkemoi,23464124,11-19-1983,No,Male,Jubilee
+30,Baringo,160,Baringo South,Olempaka,Amos Ledaa,22967446,,Not provided,Male,ODM
+30,Baringo,161,Mogotio,Sambili,Hellen Jepkemoi,485908,01-01-1959,No,Male,Jubilee
+30,Baringo,161,Mogotio,Tuitoek,Daniel Kamuren,249815,01-19-2017,No,Male,Jubilee
+30,Baringo,161,Mogotio,Koech,Philip Kiplagat,22568380,08-26-1982,No,Male,Jubilee
+30,Baringo,161,Mogotio,Kiborek,Reuben Kipng'ok,29682284,12-14-1992,No,Male,Jubilee
+30,Baringo,161,Mogotio,Koech,Phillip Kiplagat,A1641990,08-26-1982,No,Male,Jubilee
+30,Baringo,162,Eldama Ravine,Tallam,Zakayo Kibet,3041333,04-27-1964,No,Male,Jubilee
+30,Baringo,162,Eldama Ravine,Tissia,John Kibet,9776841,01-01-1967,No,Male,Jubilee
+30,Baringo,162,Eldama Ravine,Sirma,Musa Cherutich,484278,07-17-1961,No,Male,Jubilee
+30,Baringo,162,Eldama Ravine,Kimanyim,Elijah Kiprotich,4012407,02-15-1962,No,Male,Jubilee
+30,Baringo,162,Eldama Ravine,Lessonet,Moses K.,9777035,10-05-1968,No,Male,Jubilee
+31,Laikipia,163,Laikipia West,Karani,Stephen Wachira,3130720,05-25-1962,No,Male,Jubilee
+31,Laikipia,163,Laikipia West,Gathuru,Peter Mumo,4342062,08-16-1961,No,Male,Jubilee
+31,Laikipia,163,Laikipia West,Karenge,Onesmus Mungai,12770718,02-18-1976,No,Male,Jubilee
+31,Laikipia,163,Laikipia West,Mariru,Patrick Kariuki,20266193,07-05-1978,No,Male,Jubilee
+31,Laikipia,163,Laikipia West,Githinji,Joseph Mwangi,6586557,06-03-1966,No,Male,Jubilee
+31,Laikipia,163,Laikipia West,Wahome,Virginia Nyaguthii,11261067,03-09-1972,No,Female,Jubilee
+31,Laikipia,163,Laikipia West,Kung'u,Elizabeth Njoki,25880669,10-19-1988,No,Female,Jubilee
+31,Laikipia,163,Laikipia West,Munene,Daniel Kinyua,22308748,04-03-1979,No,Male,Jubilee
+31,Laikipia,163,Laikipia West,Njuguna,Samwel Mwangi,5795943,03-30-1965,No,Male,Jubilee
+31,Laikipia,163,Laikipia West,Mbuthia,James Gichane,13135941,05-12-1974,No,Male,Jubilee
+31,Laikipia,164,Laikipia East,Kimaru,Anthony Mutahi,10513828,08-15-1971,No,Male,Jubilee
+31,Laikipia,164,Laikipia East,Ali,Amin Deddy Mohamed,20005383,01-15-1976,No,Male,Jubilee
+31,Laikipia,164,Laikipia East,Njoroge,David Wangui,8823966,02-17-1963,No,Male,Jubilee
+31,Laikipia,165,Laikipia North,Nganga,Dr. James Njuru,10733619,01-01-1970,No,Male,Jubilee
+31,Laikipia,165,Laikipia North,Korere,Sarah Paulata,20131596,01-01-1976,No,Female,Jubilee
+31,Laikipia,165,Laikipia North,Leiyagu,Richard Nchapi,859184,11-24-1963,No,Male,Jubilee
+31,Laikipia,165,Laikipia North,Lempurkel,Mathew Lekidime,13443612,,Not provided,Male,ODM
+32,Nakuru,166,Molo,Githua,George Manini,642033,01-01-1957,No,Male,Jubilee
+32,Nakuru,166,Molo,Mukiri,Macharia,7401249,05-20-1966,No,Male,Jubilee
+32,Nakuru,166,Molo,Njuguna,David Nganga Tetemesha,13008607,01-01-1974,No,Male,Jubilee
+32,Nakuru,166,Molo,Mangurio,Geoffrey G. Nga'ng'a,B029317,11-25-1954,No,Male,Jubilee
+32,Nakuru,166,Molo,Mbugua,John Kamama,4287504,12-22-1961,No,Male,Jubilee
+32,Nakuru,166,Molo,Kabii,Florence Wairimu,5697478,12-26-1962,No,Female,Jubilee
+32,Nakuru,166,Molo,Kigotho,Jane Wangechi,7441384,01-01-1966,No,Female,Jubilee
+32,Nakuru,166,Molo,Mbitu,John Muriu,10433301,02-08-1968,No,Male,Jubilee
+32,Nakuru,166,Molo,Njagah,John Waweru,11828798,10-10-1972,No,Male,Jubilee
+32,Nakuru,166,Molo,Githaiga,Nancy Mwihaki,13108682,01-01-1975,No,Male,Jubilee
+32,Nakuru,166,Molo,Mugo,Maryann Njambi,23208758,02-01-1984,No,Female,Jubilee
+32,Nakuru,166,Molo,Kimani,Francis Kuria,25223214,10-03-1988,No,Male,Jubilee
+32,Nakuru,166,Molo,Macharia,Jacob Waweru,13125191,12-30-1974,No,Male,Jubilee
+32,Nakuru,167,Njoro,Kariambeu,Joseph Kiuna Ng'ang'a,6635859,02-26-1965,No,Male,Jubilee
+32,Nakuru,167,Njoro,Chepkwony,Charity Kathambi,20225726,03-05-1977,No,Female,Jubilee
+32,Nakuru,167,Njoro,Kinyanjui,Johnson Mburu Mwamba,981188,09-29-1952,No,Male,Jubilee
+32,Nakuru,167,Njoro,Kaniaru,Jonh Kariuki,14494275,03-14-1974,No,Male,Jubilee
+32,Nakuru,167,Njoro,Sortum,Penina,21854449,01-12-1980,No,Female,Jubilee
+32,Nakuru,167,Njoro,Mwaura,Harrison Njoroge,27402641,10-19-1988,No,Male,Jubilee
+32,Nakuru,168,Naivasha,Mwega,Rashid Isaac,1060905,01-18-1960,No,Male,Jubilee
+32,Nakuru,168,Naivasha,Nathan,James Kiiru Njuguna,5373812,08-26-1965,No,Male,Jubilee
+32,Nakuru,168,Naivasha,Kihagi,John Karanja,10892342,10-27-1971,No,Male,Jubilee
+32,Nakuru,168,Naivasha,Ngure,Anthony Rebo,13801539,02-25-1976,No,Male,Jubilee
+32,Nakuru,168,Naivasha,Njane,Samuel Waithuki,1188870,11-22-1971,No,Male,Jubilee
+32,Nakuru,168,Naivasha,Kihara,Jayne Njeri Wanjiru,1881437,03-23-1954,No,Female,Jubilee
+32,Nakuru,168,Naivasha,Muchiri,Francis Mungai,7400186,06-02-1966,No,Male,Jubilee
+32,Nakuru,168,Naivasha,Njane,Samuel Waithuki,11188870,11-22-1971,No,Male,Jubilee
+32,Nakuru,168,Naivasha,Nguthiru,Solomon Ndegwa,11075436,11-15-1970,No,Male,Jubilee
+32,Nakuru,169,Gilgil,Wanderi,Gabriel Muhuthia,463536,12-23-1952,No,Male,Jubilee
+32,Nakuru,169,Gilgil,Wanjira,Martha Wangari,23268586,07-07-1983,No,Female,Jubilee
+32,Nakuru,169,Gilgil,Ndiritu,Samuel Mathenge,3648482,11-28-1961,No,Male,Jubilee
+32,Nakuru,169,Gilgil,Kenda,Gichuki,4259772,11-30-1949,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Ruto,Joseph Kipkoech,8149796,02-12-1965,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Patrick,Langat,24615240,04-21-1986,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Tonui,Joseph Kipkosgei,10988708,01-01-1969,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Korir,Philip Kiplangat,20953201,02-15-1978,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Rutto,Peter Ketyenya,21379637,04-04-1978,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Sang,Simon Kiprono,436526,01-01-1956,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Kirui,Douglas Kiplangat,2326694,03-16-1961,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Koech,Denis Kibet,12750704,09-29-1973,No,Male,Jubilee
+32,Nakuru,170,Kuresoi South,Kiprono,Franklyne Kirui,20528935,04-01-1978,No,Male,Jubilee
+32,Nakuru,171,Kuresoi North,Mugo,James Kariuki,27867723,11-22-1990,No,Male,Jubilee
+32,Nakuru,171,Kuresoi North,Cheboi,Moses Kipkemboi,10081938,01-01-1961,No,Male,Jubilee
+32,Nakuru,171,Kuresoi North,Milgo,Everlyne Chepkurui,9815294,01-24-1968,No,Female,Jubilee
+32,Nakuru,171,Kuresoi North,Amenya,Ayieni Joel,23465118,05-18-1984,No,Male,Jubilee
+32,Nakuru,172,Subukia,Jane,Elizaphan Kimuya Wa,10774316,04-25-1970,No,Male,Jubilee
+32,Nakuru,172,Subukia,Gaichuhie,Nelson Ributhi,6141245,08-02-1965,No,Male,Jubilee
+32,Nakuru,172,Subukia,Kihiu,George Murimi,10773849,04-14-1970,No,Male,Jubilee
+32,Nakuru,172,Subukia,Githere,Paul Gagi,11242898,11-04-1971,No,Male,Jubilee
+32,Nakuru,172,Subukia,Gachobe,Samuel Kinuthia,13622839,06-30-1974,No,Male,Jubilee
+32,Nakuru,172,Subukia,Muigai,Simon Ngugi,9721792,04-01-1968,No,Male,Jubilee
+32,Nakuru,172,Subukia,Kariuki,Mbogo Stephen,10774948,01-01-1970,No,Male,Jubilee
+32,Nakuru,173,Rongai,Biwott,Elijah Kipkoech,11843839,05-08-1974,No,Male,Jubilee
+32,Nakuru,173,Rongai,Thuo,Anthony Muigai,7400250,06-20-1966,No,Male,Jubilee
+32,Nakuru,173,Rongai,Komen,Andrew Kibet,13623408,04-06-1977,No,Male,Jubilee
+32,Nakuru,173,Rongai,George,Mwaura Njenga,11292636,01-22-1973,No,Male,Jubilee
+32,Nakuru,173,Rongai,Kigen,Luka Kipkorir,334168,07-17-1957,No,Male,Jubilee
+32,Nakuru,173,Rongai,Chebor,Paul Kibet,12935586,06-24-1973,No,Male,Jubilee
+32,Nakuru,173,Rongai,Lagat,Peter Kipyegon,288023,12-22-1952,No,Male,Jubilee
+32,Nakuru,174,Bahati,Gutu,Peter Mugo,984106,04-16-1950,No,Male,Jubilee
+32,Nakuru,174,Bahati,Ngunjiri,Onesmus Kimani,1035075,08-08-1953,No,Male,Jubilee
+32,Nakuru,174,Bahati,Kimani,Joseph Kamau,8288792,08-08-1954,No,Male,Jubilee
+32,Nakuru,174,Bahati,Honest,John Mbugua,8949589,04-24-1966,No,Male,Jubilee
+32,Nakuru,174,Bahati,Mbui,Charles,14488805,10-04-1976,No,Male,Jubilee
+32,Nakuru,174,Bahati,Gichuhi,Dedan Mwenda Gikwa,3622853,08-27-1960,No,Male,Jubilee
+32,Nakuru,174,Bahati,Mukui,Hilda Muthoni,6420809,06-14-1955,No,Female,Jubilee
+32,Nakuru,174,Bahati,Wathimba,Crispus Anthony,21805554,01-20-1980,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Arama,Samuel,7009245,02-10-1965,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Maisiba,Charles Nyarango,8795855,01-01-1966,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Onjwang,James Innis,B080533,08-09-1981,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Kitilit,John Legishion,4013737,01-01-1962,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Kamuren,Franciscar Jelagat,11428668,02-12-1974,No,Female,Jubilee
+32,Nakuru,175,Nakuru Town West,Wairegi,David Karuri,22093322,12-07-1979,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Mwangi,Joseph Kariko,8334842,04-15-1963,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Issack,Mohamed Suraw,12427165,04-02-1974,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Macharia,Benson Karuku,13489781,05-01-1976,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Ngatia,Victor Warutere,20776282,12-09-1978,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Wachira,Charles Joseph,20956829,01-01-1978,No,Male,Jubilee
+32,Nakuru,175,Nakuru Town West,Ndeta,Philip Likwilo Chibole,6876885,,Not provided,Male,ODM
+32,Nakuru,175,Nakuru Town West,Michoma,James Machuka Getuno,4827046,,Not provided,Male,ODM
+32,Nakuru,175,Nakuru Town West,Koros,Peter Kiplangat,9726031,,Not provided,Male,ODM
+32,Nakuru,175,Nakuru Town West,Kaptum,Alfred Kwonyike,14720177,,Not provided,Male,ODM
+32,Nakuru,175,Nakuru Town West,Othoo,Hezron Okiki,20909511,,Not provided,Male,ODM
+32,Nakuru,175,Nakuru Town West,Osoe,Ochoki Andrew Mingate,8949851,,Not provided,Male,ODM
+32,Nakuru,175,Nakuru Town West,Ogada,Eric Otieno,13373718,,Not provided,Male,ODM
+32,Nakuru,175,Nakuru Town West,Luka,Jacob Ogetii,20906024,,Not provided,Male,ODM
+32,Nakuru,176,Nakuru Town East,Wangai,Benson Mwangi,1340010,08-22-1959,No,Male,Jubilee
+32,Nakuru,176,Nakuru Town East,Karanja,Stanley Chege,11892653,04-15-1974,No,Male,Jubilee
+32,Nakuru,176,Nakuru Town East,Gikaria,David,8577004,08-25-1963,No,Male,Jubilee
+32,Nakuru,176,Nakuru Town East,Nyakiba,Rose ,9370094,,Not provided,Female,ODM
+32,Nakuru,176,Nakuru Town East,Okello,Isa Samuel,22729142,,Not provided,Male,ODM
+33,Narok,177,Kilgoris,Konchela,Sitelu Gideon,1883671,11-15-1951,No,Male,Jubilee
+33,Narok,177,Kilgoris,Cheruiyot,Samuel Kipkoros,8549666,01-01-1968,No,Male,Jubilee
+33,Narok,177,Kilgoris,Tasur,Kipoki Oreu,7268096,06-22-1966,No,Male,Jubilee
+33,Narok,177,Kilgoris,Oiboo,Morintat Peter,24262112,,Not provided,Male,ODM
+33,Narok,177,Kilgoris,Siparo,Joseph O.,11014209,,Not provided,Male,ODM
+33,Narok,177,Kilgoris,Sikona,Elijah Kinyamal,23398168,,Not provided,Male,ODM
+33,Narok,178,Emurua Dikirr,John,Saitoti,20241775,12-21-1976,No,Male,Jubilee
+33,Narok,178,Emurua Dikirr,Benard,Kibett Ronoh,27749266,03-16-1988,No,Male,Jubilee
+33,Narok,178,Emurua Dikirr,Keter,David Kipsang,11346090,01-01-1970,No,Male,Jubilee
+33,Narok,178,Emurua Dikirr,Cheruiyot,Mutai Weldone Kipkoech,23889550,08-21-1984,No,Male,Jubilee
+33,Narok,179,Narok North,Pareiyo,Agnes Mantaine,911332,06-24-1956,No,Female,Jubilee
+33,Narok,179,Narok North,Rotiken,Symon Kaitikei,21827802,01-01-1979,No,Male,Jubilee
+33,Narok,179,Narok North,Keshei,Nelson Koinet,9884715,03-18-1968,No,Male,Jubilee
+33,Narok,179,Narok North,Shonko,Agnes Nailantei,9885957,12-24-1970,No,Female,Jubilee
+33,Narok,179,Narok North,Kenta,Richard Moitalel Ole,100206,,Not provided,Male,ODM
+33,Narok,180,Narok East,Shunet,Parseen Ole,356048,12-16-2016,No,Male,Jubilee
+33,Narok,180,Narok East,Kimorgo,Simon Turere,199344,10-17-1962,No,Male,Jubilee
+33,Narok,180,Narok East,Torome,Ernest Parsaloi Kapaya,1068509,09-20-1962,No,Male,Jubilee
+33,Narok,180,Narok East,Aramat,Lemanken,11709516,10-16-1974,No,Female,Jubilee
+33,Narok,180,Narok East,Keriolale,Alfred Mumpasoi,24722051,,Not provided,Male,ODM
+33,Narok,181,Narok South,David,Mayone Matunke,24029212,03-21-1983,No,Male,Jubilee
+33,Narok,181,Narok South,Lemein,Korei Ole,9884450,01-01-1971,No,Male,Jubilee
+33,Narok,181,Narok South,Langat,Nahashon,24623269,11-05-1986,No,Male,Jubilee
+33,Narok,182,Narok West,Bore,John Kipkoskei,91296,03-12-1959,No,Male,Jubilee
+33,Narok,182,Narok West,Chesimet,Paul Kepkemoi,5228163,01-03-1960,No,Male,Jubilee
+33,Narok,182,Narok West,Koros,Francis Ole,11661121,08-12-1972,No,Male,Jubilee
+33,Narok,182,Narok West,Mpoe,Stanley Taparia,11533482,,No,Male,Jubilee
+33,Narok,182,Narok West,Loigero,Willy,20344786,01-01-1978,No,Male,Jubilee
+33,Narok,182,Narok West,Luka,Jimmy Parnyumbe,24047653,,Not provided,Male,ODM
+34,Kajiado,183,Kajiado North,Kanume,Paul Supet,22800578,09-08-1978,No,Male,Jubilee
+34,Kajiado,183,Kajiado North,Manje,Joseph Wathigo,1357831,10-20-1962,No,Male,Jubilee
+34,Kajiado,183,Kajiado North,Gitau,Francis Parsimei,5372229,04-05-1965,No,Male,Jubilee
+34,Kajiado,183,Kajiado North,Kibathi,Paul Ngugi,21711308,08-14-1979,No,Male,Jubilee
+34,Kajiado,183,Kajiado North,Monyoncho,Beautah Maroko,21029923,,Not provided,Male,ODM
+34,Kajiado,183,Kajiado North,Nyagwansa,Andrew Mokoro,22517218,,Not provided,Male,ODM
+34,Kajiado,183,Kajiado North,Mocheche,George Morara,11702919,,Not provided,Male,ODM
+34,Kajiado,183,Kajiado North,Angienda,Samson Moindi,7228262,,Not provided,Male,ODM
+34,Kajiado,184,Kajiado Central,Kiroken,Antony Meitiaki,403577,04-24-1968,No,Male,Jubilee
+34,Kajiado,184,Kajiado Central,Koshopa,Abraham Lamet,9367390,12-15-1968,No,Male,Jubilee
+34,Kajiado,184,Kajiado Central,Koisikir,Christopher Meibuko,20206451,12-31-1976,No,Male,Jubilee
+34,Kajiado,184,Kajiado Central,Kipuri,Naomi N,3341130,01-24-1952,No,Female,Jubilee
+34,Kajiado,184,Kajiado Central,Kanchory,Elijah Memusi,21636106,,Not provided,Male,ODM
+34,Kajiado,185,Kajiado East,Ntayia,Julius K. Lenin,792391,09-22-1958,No,Male,Jubilee
+34,Kajiado,185,Kajiado East,Tobiko,Peris Pesi,9814009,11-16-1968,No,Female,Jubilee
+34,Kajiado,185,Kajiado East,Seneta,Mary Yiane,11680928,12-13-1971,No,Female,Jubilee
+34,Kajiado,185,Kajiado East,Kimiti,George Rianto,13611753,,Not provided,Male,ODM
+34,Kajiado,185,Kajiado East,Njagi,Bob Micheni,22094643,,Not provided,Male,ODM
+34,Kajiado,185,Kajiado East,Hamisi,Kakuta Maimai,12950978,,Not provided,Male,ODM
+34,Kajiado,186,Kajiado West,Teeka,Nicholas Sankok,29533509,12-26-1992,No,Male,Jubilee
+34,Kajiado,186,Kajiado West,Sakuda,Moses Somoine Ole,B131214,01-01-1968,No,Male,Jubilee
+34,Kajiado,186,Kajiado West,Magelo,Alex Sanaika Ole,1084432,04-14-1954,No,Male,Jubilee
+34,Kajiado,186,Kajiado West,Sunkuyia,George Risa,12491868,01-01-1973,No,Male,Jubilee
+34,Kajiado,186,Kajiado West,Wuantai,Phillip Santamo,12655381,10-21-1973,No,Male,Jubilee
+34,Kajiado,186,Kajiado West,Metian,Elijah Kesei,13610229,12-20-1973,No,Male,Jubilee
+34,Kajiado,186,Kajiado West,Simel,Joseph Ole,C005163,,Not provided,Male,ODM
+34,Kajiado,187,Kajiado South,Katoo,Metito Judah,13086373,03-12-1973,No,Male,Jubilee
+34,Kajiado,187,Kajiado South,Lekanaiyia,Thomas Saningo,26493780,,Not provided,Male,ODM
+34,Kajiado,187,Kajiado South,Lomoi,Alais Lenana,13611577,,Not provided,Male,ODM
+35,Kericho,188,Kipkelion East,Rotich,Edwin Kibet,22684876,12-20-1982,No,Male,Jubilee
+35,Kericho,188,Kipkelion East,Rono,Charles Kipkemoi,28205613,05-25-1987,No,Male,Jubilee
+35,Kericho,188,Kipkelion East,Limo,Kirui Joseph,11186948,12-31-1970,No,Male,Jubilee
+35,Kericho,188,Kipkelion East,Robert,Mutai,22857628,05-12-1981,No,Male,Jubilee
+35,Kericho,188,Kipkelion East,Bett,John Kipkorir,27532352,04-19-1990,No,Male,Jubilee
+35,Kericho,188,Kipkelion East,Cherorot,Joseph Kimutai,1738340,05-20-1963,No,Male,Jubilee
+35,Kericho,188,Kipkelion East,Vincent,Korir Kipkirui,22625082,05-15-1986,No,Male,Jubilee
+35,Kericho,188,Kipkelion East,Kigen,Vincent Cheruiyot,25400661,01-22-1986,No,Male,Jubilee
+35,Kericho,188,Kipkelion East,Mwangi,Duncan,11794515,03-23-1973,No,Male,Jubilee
+35,Kericho,189,Kipkelion West,Cheruiyot,Thomas Kipkoskei,6664098,11-07-1964,No,Male,Jubilee
+35,Kericho,189,Kipkelion West,Rop,Jackson Kipkorir,9434265,05-25-1964,No,Male,Jubilee
+35,Kericho,189,Kipkelion West,Kipkoech,John Chebochok,1765487,12-25-1959,No,Male,Jubilee
+35,Kericho,189,Kipkelion West,Kiprono,Magerer Langat Jonathan,12440774,12-12-1973,No,Male,Jubilee
+35,Kericho,189,Kipkelion West,Kosgei,Hilary Kiplangat,13008658,10-19-1974,No,Male,Jubilee
+35,Kericho,189,Kipkelion West,Keter,Erick Arap,3852106,01-01-1948,No,Male,Jubilee
+35,Kericho,190,Ainamoi,Kikwai,David Cheruiyot,7062639,12-12-1965,No,Male,Jubilee
+35,Kericho,190,Ainamoi,Maritim,Sylvanus,24023120,01-24-1985,No,Male,Jubilee
+35,Kericho,190,Ainamoi,Too,Dominic,24982922,12-01-1985,No,Male,Jubilee
+35,Kericho,190,Ainamoi,Langat,Harry Kipkemoi,5671735,09-23-1956,No,Male,Jubilee
+35,Kericho,190,Ainamoi,Too,Anne Cherono,11723938,01-01-1972,No,Female,Jubilee
+35,Kericho,190,Ainamoi,Bosuben,Isaac Kipyegon,20750014,06-29-1978,No,Male,Jubilee
+35,Kericho,190,Ainamoi,Koech,Stellah Chepkurui,22250644,,Not provided,Female,ODM
+35,Kericho,191,Bureti,Bernhard,Ngetich Kipkoech,22659005,04-23-1982,No,Male,Jubilee
+35,Kericho,191,Bureti,Sang,Leonard Kipkosgei,13012911,11-26-1974,No,Male,Jubilee
+35,Kericho,191,Bureti,Mutai,Japheth Kiplangat,27268446,04-26-1973,No,Male,Jubilee
+35,Kericho,191,Bureti,Langat,Joel Kipkirui,5997875,12-31-1962,No,Male,Jubilee
+35,Kericho,191,Bureti,Kirui,Lucas Kipngeno,B138381,06-25-1973,No,Male,Jubilee
+35,Kericho,191,Bureti,Langat,Charles Kipngeno,10886831,12-24-1970,No,Male,Jubilee
+35,Kericho,191,Bureti,Komingoi,Kibet Kirui,21846414,02-04-1980,No,Male,Jubilee
+35,Kericho,192,Belgut,Koech,Nelson,21339620,03-25-1979,No,Male,Jubilee
+35,Kericho,192,Belgut,Kiget,Kiprotich William,11369948,06-01-1972,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Soy,Wilson Kiptanui,474087,12-12-1956,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Kemei,Justice Kipsang,587630,02-16-1961,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Koech,Richard Kipsang,2302680,09-29-1962,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Ruto,Benjamin Kipyegon Arap,4840570,12-30-1956,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Kuley,Kenneth Kipngeno Cheruiyot,22644473,03-28-1983,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Bett,Alfred Kipyegon,22872662,03-13-2017,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Kirui,Leonard Kiprotich,28127707,01-03-1989,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Kirior,Kiptorus Arap,5219715,08-15-1945,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Korir,Robinson Kibet,20980917,02-02-1978,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Jonathan,Ronoh K.,22067221,05-23-1981,No,Male,Jubilee
+35,Kericho,193,Sigowet/Soin,Koros,Benard Kipsengeret Kipngetich,20022245,10-10-1975,No,Male,Jubilee
+36,Bomet,194,Sotik,Ngetich,Cecilia Chelangat,100572,03-05-1962,No,Female,Jubilee
+36,Bomet,194,Sotik,Chepkorir,Beatrice,21786956,11-24-1978,No,Female,Jubilee
+36,Bomet,194,Sotik,Koskey,Kibet,22075955,06-27-1980,No,Male,Jubilee
+36,Bomet,194,Sotik,Toweett,Joseph Kipchumba,31132676,09-11-1967,No,Male,Jubilee
+36,Bomet,194,Sotik,Mutai,Paul Kipkemoi,8073241,08-18-1967,No,Male,Jubilee
+36,Bomet,194,Sotik,Sigei,Francis Kipyegon Arap,10317685,08-08-1956,No,Male,Jubilee
+36,Bomet,194,Sotik,Kipkorir,Ngeno Benard,25805157,04-20-1987,No,Male,Jubilee
+36,Bomet,194,Sotik,Michael,Ronoh Kimutai,11637832,01-01-1972,No,Male,Jubilee
+36,Bomet,194,Sotik,Ngeno,Stephen Kibet,11369318,08-07-1973,No,Male,Jubilee
+36,Bomet,194,Sotik,Cheruiyot,Ghovel Joseph,11369326,01-01-1971,No,Male,Jubilee
+36,Bomet,194,Sotik,Koskei,Dominic Kipkoech,22406523,10-08-1981,No,Male,Jubilee
+36,Bomet,194,Sotik,Koech,Paul,22191233,06-02-1980,No,Male,Jubilee
+36,Bomet,194,Sotik,Chepkorir,Vicky Betty,26143425,02-14-1988,No,Male,Jubilee
+36,Bomet,195,Chepalungu,Samoei,Joseah Kipkoech,22341730,01-11-1978,No,Male,Jubilee
+36,Bomet,195,Chepalungu,Kirui,Anderson Kiprotich,22527606,01-05-1983,No,Male,Jubilee
+36,Bomet,195,Chepalungu,Koros,Benard,20110142,05-06-1977,No,Male,Jubilee
+36,Bomet,195,Chepalungu,Kibet,Jeffrey Ngetich,22642173,08-17-1982,No,Male,Jubilee
+36,Bomet,195,Chepalungu,Ng'eno,Alexander Kiprono,437597,12-29-1961,No,Male,Jubilee
+36,Bomet,195,Chepalungu,Bii,Paul Kipchirchir,2421220,01-01-1961,No,Male,Jubilee
+36,Bomet,195,Chepalungu,Sigei,Pius Kiprotich,20001043,05-05-1976,No,Male,Jubilee
+36,Bomet,196,Bomet East,Bett,David Kipkorir,22202826,01-04-1982,No,Male,Jubilee
+36,Bomet,196,Bomet East,Kones,Beatrice Pauline Cherono,7636304,01-01-1957,No,Female,Jubilee
+36,Bomet,196,Bomet East,Yegon,Richard Kipkemoi,12557841,04-20-1974,No,Male,Jubilee
+36,Bomet,196,Bomet East,Langat,Philip Kipkoech,22905578,07-23-1983,No,Male,Jubilee
+36,Bomet,196,Bomet East,Lasoi,Patricia Chepkirui,7269370,04-02-1966,No,Male,Jubilee
+36,Bomet,196,Bomet East,Majaliwa,Jonathan Ng'eno Chepkwony,9884906,09-22-1969,No,Male,Jubilee
+36,Bomet,196,Bomet East,Sang,John Kipkirui,11637858,10-10-1970,No,Male,Jubilee
+36,Bomet,196,Bomet East,Rotich,Leonard Kipsang,22016463,05-03-1981,No,Male,Jubilee
+36,Bomet,196,Bomet East,Kosgei,Davies Kipkoech,9435813,12-31-1967,No,Male,Jubilee
+36,Bomet,196,Bomet East,Robert,Langat Kiprono,12482401,02-10-1974,No,Male,Jubilee
+36,Bomet,196,Bomet East,Sosingut,Geoffrey Kiplang'at,13430045,05-05-1974,No,Male,Jubilee
+36,Bomet,196,Bomet East,Langat,Gipson Kiplangat,14540804,05-21-1982,No,Male,Jubilee
+36,Bomet,196,Bomet East,Bett,Bernard Kipkirui,22736331,07-01-1981,No,Male,Jubilee
+36,Bomet,196,Bomet East,Korir,Joseph Kipsigei,9346127,08-04-1968,No,Male,Jubilee
+36,Bomet,196,Bomet East,Kenneth,Rotich Kiprono,21657538,12-31-1979,No,Male,Jubilee
+36,Bomet,196,Bomet East,Kositany,Chepkirui,24243972,02-03-1986,No,Female,Jubilee
+36,Bomet,197,Bomet Central,Sigei,Richard Kipkiruio,10012925,02-16-1967,No,Male,Jubilee
+36,Bomet,197,Bomet Central,Cheruiyot,David Kiprono,10382591,09-23-1969,No,Male,Jubilee
+36,Bomet,197,Bomet Central,Kirui,Ronald Kipngeno,22386461,12-29-1980,No,Male,Jubilee
+36,Bomet,197,Bomet Central,Bii,Patrick Kiprotich,24671848,05-15-1985,No,Male,Jubilee
+36,Bomet,197,Bomet Central,Collins,Ngetich Joseph,13669944,07-29-1977,No,Male,Jubilee
+36,Bomet,197,Bomet Central,Tonul,Ronald Kiprotich,10772840,08-20-1971,No,Male,Jubilee
+36,Bomet,197,Bomet Central,Kirui,Andrew Chichi,22155402,01-01-1980,Yes,Male,Jubilee
+36,Bomet,197,Bomet Central,Kilel,Richard Cheruiyot,8073306,06-07-1967,No,Male,Jubilee
+36,Bomet,197,Bomet Central,Ng'etich,Eric Kipkoech,21021095,01-24-1979,No,Male,Jubilee
+36,Bomet,198,Konoin,Lang'at,Elizabeth Chepkoech,3559714,09-23-1960,No,Female,Jubilee
+36,Bomet,198,Konoin,Leornard,Yegon Brighton,22985594,01-01-1981,No,Male,Jubilee
+36,Bomet,198,Konoin,Kitur,Raphael Kiprono Arap,80,09-15-1949,No,Male,Jubilee
+36,Bomet,198,Konoin,Chebelyon,David Kipngeno Arap,7656588,05-05-1961,No,Male,Jubilee
+36,Bomet,198,Konoin,Cheruiyot,Benard Kipkurui,9728646,08-18-1969,No,Male,Jubilee
+36,Bomet,198,Konoin,Bett,William K.,10194708,02-19-1970,No,Male,Jubilee
+36,Bomet,198,Konoin,Mosonik,Samson Kipkoech Menjo,11293209,11-29-1971,No,Male,Jubilee
+36,Bomet,198,Konoin,Langat,Nickson Kipngetich,13010528,04-20-1975,No,Male,Jubilee
+36,Bomet,198,Konoin,Ronoh,Benson Benhard,21788935,02-05-1980,No,Male,Jubilee
+36,Bomet,198,Konoin,Langat,Jackson Kipkorir,1794330,01-01-1959,No,Male,Jubilee
+36,Bomet,198,Konoin,Koech,Sammy Cheruiyot,324124,09-23-1959,No,Male,Jubilee
+36,Bomet,198,Konoin,Sitienei,Edwin Kibet,9232788,01-01-1968,No,Male,Jubilee
+37,Kakamega,199,Lugari,Kinzi,Joab Malea,10022779,02-23-1970,No,Male,Jubilee
+37,Kakamega,199,Lugari,Wekesa,Nashon Wawire,11471580,08-30-1971,No,Male,Jubilee
+37,Kakamega,199,Lugari,Nabii,Nabwera Daraja,8836042,,Not provided,Male,ODM
+37,Kakamega,200,Likuyani,Stephen,Kisaka,11657587,12-29-1972,No,Male,Jubilee
+37,Kakamega,200,Likuyani,Makhanu,Julius Wamboko,10090734,04-30-1970,No,Male,Jubilee
+37,Kakamega,200,Likuyani,Wafula,Deberious S.,22922630,,Not provided,Male,ODM
+37,Kakamega,200,Likuyani,Mungui,Magellan Otanga,22922630,,Not provided,Male,ODM
+37,Kakamega,200,Likuyani,Muhindi,Sadat Macharia,13053317,,Not provided,Male,ODM
+37,Kakamega,201,Malava,Injendi,Moses Malulu,8741742,10-09-1966,No,Male,Jubilee
+37,Kakamega,201,Malava,Burudi,Caleb Ambulwa,13350622,05-02-1975,No,Male,Jubilee
+37,Kakamega,201,Malava,Khasavuli,Alfred Nathan Saidi,6336419,,Not provided,Male,ODM
+37,Kakamega,202,Lurambi,Keya,Atanas Manyala,309825,12-15-1952,No,Male,Jubilee
+37,Kakamega,202,Lurambi,Khainga,Stanley Ominde,7590259,,Not provided,Male,ODM
+37,Kakamega,202,Lurambi,Otaalo,Raphael Milikau,2091411,,Not provided,Male,ODM
+37,Kakamega,203,Navakholo,Wangwe,Emmanuel,13582028,07-25-1975,No,Male,Jubilee
+37,Kakamega,203,Navakholo,Wekesa,Moni ,3463371,,Not provided,Male,ODM
+37,Kakamega,203,Navakholo,Udoto,Vance Paul,10478987,,Not provided,Male,ODM
+37,Kakamega,204,Mumias West,Mohamed,Rashid Echesa,22736470,08-02-1982,No,Male,Jubilee
+37,Kakamega,204,Mumias West,Naicca,Johnson Manya,4591072,,Not provided,Male,ODM
+37,Kakamega,204,Mumias West,O'wakwabi,Nafula Oddah,6420730,,Not provided,Female,ODM
+37,Kakamega,205,Mumias East,Washiali,Benjamin Jomo,1921342,10-10-1961,No,Male,Jubilee
+37,Kakamega,205,Mumias East,Omurunga,Catherine Awino,20988402,,Not provided,Female,ODM
+37,Kakamega,205,Mumias East,Mutobera,Justin Makari,11835067,,Not provided,Male,ODM
+37,Kakamega,206,Matungu,Were,David Aoko,2806508,11-02-1959,No,Male,Jubilee
+37,Kakamega,206,Matungu,Faida,Godfrey Ouma,11830744,03-04-1971,No,Male,Jubilee
+37,Kakamega,206,Matungu,Obwora,Paul Posh,9621625,,Not provided,Male,ODM
+37,Kakamega,206,Matungu,Achayo,Paul Agutu,20469420,,Not provided,Male,ODM
+37,Kakamega,207,Butere,Bushuru,Habil Nanjendo,9087014,,Not provided,Male,ODM
+37,Kakamega,207,Butere,Nyamwata,Joseph Inzofu,3990696,,Not provided,Male,ODM
+37,Kakamega,207,Butere,Anyanga,Andrew Toboso,10841790,,Not provided,Male,ODM
+37,Kakamega,208,Khwisero,Opembe,Patrick Nandera,20330054,08-28-1978,No,Male,Jubilee
+37,Kakamega,208,Khwisero,Andama,Benjamin Ogunyo,13358990,,Not provided,Male,ODM
+37,Kakamega,208,Khwisero,Andayi,Benjamin Andola,1243497,,Not provided,Male,ODM
+37,Kakamega,208,Khwisero,Amollo,Rachel Ameso,7868363,,Not provided,Female,ODM
+37,Kakamega,209,Shinyalu,Amutavy,Babetuu Inyamah Lusaala,3466598,08-25-1962,No,Male,Jubilee
+37,Kakamega,209,Shinyalu,Muhembere,Hudson Karume,13349123,,Not provided,Male,ODM
+37,Kakamega,209,Shinyalu,Anami,Silverse Lisamula,1981019,,Not provided,Male,ODM
+37,Kakamega,209,Shinyalu,Likhanga,Caleb Mukanzi,569344,,Not provided,Male,ODM
+37,Kakamega,209,Shinyalu,Mugali,Justus Kizito,10841219,,Not provided,Male,ODM
+37,Kakamega,210,Ikolomani,Shinali,Benard Masaka,5792407,08-09-1964,No,Male,Jubilee
+37,Kakamega,210,Ikolomani,Mukhono,Vincent ,7351773,,Not provided,Male,ODM
+38,Vihiga,211,Vihiga,Nyabuto,Emily,939702,01-01-1961,No,Female,Jubilee
+38,Vihiga,211,Vihiga,Amasava,Christopher,5274048,,Not provided,Male,ODM
+38,Vihiga,211,Vihiga,Kedogo,Dorcas Luvalitsa,4914520,,Not provided,Female,ODM
+38,Vihiga,212,Sabatia,Majani,Charles,1911844,09-24-1954,No,Male,Jubilee
+38,Vihiga,212,Sabatia,Ajega,Dennis Munyasa,21538235,,Not provided,Male,ODM
+38,Vihiga,213,Hamisi,Agesa,Martin Shepherd,25231060,11-01-1984,No,Male,Jubilee
+38,Vihiga,213,Hamisi,Duncan,Odemu Savwa,26182962,,Not provided,Male,ODM
+38,Vihiga,214,Luanda,Atetwe,George Dicks,11101050,12-25-1971,No,Male,Jubilee
+38,Vihiga,214,Luanda,Omulele,Christopher,11684265,,Not provided,Male,ODM
+38,Vihiga,215,Emuhaya,Sande,Ameyo Charles,7957738,,Not provided,Male,ODM
+38,Vihiga,215,Emuhaya,Echoka,Mark Paul,4655309,,Not provided,Male,ODM
+39,Bungoma,216,Mt. Elgon,Ndiema,Moss Kapwemo,13436280,01-01-1974,No,Male,Jubilee
+39,Bungoma,216,Mt. Elgon,Kirui,Michael Kawon,13436291,01-01-1974,No,Male,Jubilee
+39,Bungoma,216,Mt. Elgon,Kiprotich,Chemwotei Evans,21797663,12-31-1978,No,Male,Jubilee
+39,Bungoma,216,Mt. Elgon,Ptanguny,Mokin Arap,20814197,12-01-1978,No,Male,Jubilee
+39,Bungoma,216,Mt. Elgon,Chesebe,Fred Kapondi,10531929,02-04-1970,No,Male,Jubilee
+39,Bungoma,216,Mt. Elgon,Namtala,James Cheroben,11562700,09-09-1973,No,Male,Jubilee
+39,Bungoma,216,Mt. Elgon,Kachuwai,Harry Kimtai,9021254,12-13-1968,No,Male,Jubilee
+39,Bungoma,217,Sirisia,Koyi,John Waluke,829017,08-22-1960,No,Male,Jubilee
+39,Bungoma,217,Sirisia,Wanjala,Moses Nandalwe,25036859,,Not provided,Male,ODM
+39,Bungoma,218,Kabuchai,Barasa,Mark Wanjala,6087829,06-04-1958,No,Male,Jubilee
+39,Bungoma,218,Kabuchai,Wekesa,Majimbo Kalasinga Joseph,11562465,11-12-1972,No,Male,Jubilee
+39,Bungoma,218,Kabuchai,Makokha,Evans Wafula,10857213,11-26-1982,No,Male,Jubilee
+39,Bungoma,219,Bumula,Barasa,Nyongesa Martin,22634426,08-29-1981,No,Male,Jubilee
+39,Bungoma,219,Bumula,Otsiula,Bonface Okhiya,10858102,10-20-1968,No,Male,Jubilee
+39,Bungoma,219,Bumula,Wamalwa,Cornelius Wanyonyi,2076577,03-11-1957,No,Male,Jubilee
+39,Bungoma,219,Bumula,Wandabusi,Patrick ,11656051,,Not provided,Male,ODM
+39,Bungoma,220,Kanduyi,Mukoche,Chrispinus Waswa Wamalwa,9902502,09-19-1969,No,Male,Jubilee
+39,Bungoma,220,Kanduyi,Kimtai,Gemenet Kwemboi,21716756,12-12-1979,No,Male,Jubilee
+39,Bungoma,220,Kanduyi,Khaoya,Cliffe Mulunda,8823735,03-08-1961,No,Male,Jubilee
+39,Bungoma,220,Kanduyi,Makali,John Okwisia,10856044,,Not provided,Male,ODM
+39,Bungoma,220,Kanduyi,Sifuna,Edwin Watenya,22566239,,Not provided,Male,ODM
+39,Bungoma,220,Kanduyi,Wangila,Gilbert Wafula,27317636,,Not provided,Male,ODM
+39,Bungoma,221,Webuye East,Masoni,Isaac Wafula,11564116,02-12-1972,No,Male,Jubilee
+39,Bungoma,221,Webuye East,Iyaya,Chebayi Charles Wanjala,8431424,05-14-1964,No,Male,Jubilee
+39,Bungoma,221,Webuye East,Kapchangah,Kingsley Mutali,932268,,Not provided,Male,ODM
+39,Bungoma,221,Webuye East,Khakina,Peter Nyongesa,11452706,,Not provided,Male,ODM
+39,Bungoma,222,Webuye West,Sitati,Daniel Wanyama,8110856,04-01-1967,No,Male,Jubilee
+39,Bungoma,222,Webuye West,Walubengo,Kelly Barasa,12939715,,Not provided,Male,ODM
+39,Bungoma,222,Webuye West,Wabomba,John Musundi,21675388,,Not provided,Male,ODM
+39,Bungoma,223,Kimilili,Wenyaa,John Wanyonyi,4391381,04-04-1957,No,Male,Jubilee
+39,Bungoma,223,Kimilili,Kisiang'ani,Rose Natecho,22751136,05-20-1982,No,Female,Jubilee
+39,Bungoma,223,Kimilili,Khaemba,Joseph Wanyonyi,249824,06-04-1960,No,Male,Jubilee
+39,Bungoma,223,Kimilili,Mutua,Didmus Wekesa Barasa,22924186,10-23-1982,No,Male,Jubilee
+39,Bungoma,223,Kimilili,Mutua,Didimus Wekesa Barasa,22924186,,Not provided,Male,ODM
+39,Bungoma,224,Tongaren,Smith,Ben Chekwanda Solomon,13717090,05-20-1975,No,Male,Jubilee
+39,Bungoma,224,Tongaren,Chikati,John Murumba,2086314,11-15-1962,No,Male,Jubilee
+39,Bungoma,224,Tongaren,Bifwoli,Lawrence Sean,11785124,,Not provided,Male,ODM
+40,Busia,225,Teso North,Odera,Arthur Papa,9621815,11-07-1968,No,Male,Jubilee
+40,Busia,225,Teso North,Mamai,Lawi Obetele,13416305,,Not provided,Male,ODM
+40,Busia,225,Teso North,Papah,Shem Isubah,2067306,,Not provided,Male,ODM
+40,Busia,225,Teso North,Okwara,George Ekirapa,6107596,,Not provided,Male,ODM
+40,Busia,225,Teso North,Epus,Joash Gregory Odeke,13416967,,Not provided,Male,ODM
+40,Busia,226,Teso South,Otucho,Mary Emaase,9229641,08-21-1968,No,Female,Jubilee
+40,Busia,226,Teso South,Otiengino,Osiba Geoffrey,13634994,,Not provided,Male,ODM
+40,Busia,226,Teso South,Omuse,Geoffrey ,22416066,,Not provided,Male,ODM
+40,Busia,227,Nambale,Mulanya,Geoffrey Ekesa,20326070,,Not provided,Male,ODM
+40,Busia,227,Nambale,Namulanda,Duncan Kizito,13879845,,Not provided,Male,ODM
+40,Busia,227,Nambale,Khasamule,Peter Odima,6981405,,Not provided,Male,ODM
+40,Busia,228,Matayos,Abdi,Ali Noor,24491082,04-12-1985,No,Male,Jubilee
+40,Busia,228,Matayos,Ochieng,Jones Wafula,14679437,12-23-1975,No,Male,Jubilee
+40,Busia,228,Matayos,Onyango,Polycarp Otieno,9621745,07-01-1969,No,Male,Jubilee
+40,Busia,228,Matayos,Mugeni,Gilbert Wesonga,20025848,08-11-1977,No,Male,Jubilee
+40,Busia,228,Matayos,Makokha,Odanga Geoffrey,25765684,,Not provided,Male,ODM
+40,Busia,228,Matayos,Wamono,James Noa,23788418,,Not provided,Male,ODM
+40,Busia,229,Butula,Maroko,Leonard Omondi,7529883,08-23-1961,No,Male,Jubilee
+40,Busia,229,Butula,Oyula,Joseph H. Maero,28060,,Not provided,Male,ODM
+40,Busia,229,Butula,Othieno,Patrick Oduma,2054862,,Not provided,Male,ODM
+40,Busia,230,Funyula,Ogandoh,George Linnarex,5792716,10-20-1964,No,Male,Jubilee
+40,Busia,230,Funyula,Busera,Pius Nanyanga,11422667,,Not provided,Male,ODM
+40,Busia,230,Funyula,Oundo,Wilberforce Ojiambo,10907076,,Not provided,Male,ODM
+40,Busia,230,Funyula,Hanningtone,Mark Oseno,20168487,,Not provided,Male,ODM
+40,Busia,231,Budalangi,Maloba,Alfred Juma,9104147,09-08-1968,No,Male,Jubilee
+40,Busia,231,Budalangi,Wangira,Mediatrice,11344086,11-23-1971,No,Female,Jubilee
+40,Busia,231,Budalangi,Obara,Vincent David,9606215,,Not provided,Male,ODM
+40,Busia,231,Budalangi,Obimbira,Lenard Wanda,7421158,,Not provided,Male,ODM
+40,Busia,231,Budalangi,Gumo,Albert Oduol,1889158,,Not provided,Male,ODM
+40,Busia,231,Budalangi,Nakitare,Andrew Mwakira,7509554,,Not provided,Male,ODM
+40,Busia,231,Budalangi,Wanjala,Raphael Bitta Sauti,7420199,,Not provided,Male,ODM
+41,Siaya,232,Ugenya,Olute,Mary Apiyo,3802797,,Not provided,Female,ODM
+41,Siaya,232,Ugenya,Oloo,Francis Owino,13760979,,Not provided,Male,ODM
+41,Siaya,232,Ugenya,Karani,Christopher Odhiambo,11824126,,Not provided,Male,ODM
+41,Siaya,232,Ugenya,Aol,David Ohito,10809178,,Not provided,Male,ODM
+41,Siaya,232,Ugenya,Ondiek,Willis Ouma,20516421,,Not provided,Male,ODM
+41,Siaya,232,Ugenya,Opiyo,Oduor William,13362794,,Not provided,Male,ODM
+41,Siaya,233,Ugunja,Wandayi,James Opiyo,11196023,,Not provided,Male,ODM
+41,Siaya,233,Ugunja,Otieno,Joseph Alur,5818698,,Not provided,Male,ODM
+41,Siaya,233,Ugunja,Joel,Fredrick Owino,22989427,,Not provided,Male,ODM
+41,Siaya,234,Alego Usonga,Weya,Joseph Nyaumba,11449289,,Not provided,Male,ODM
+41,Siaya,234,Alego Usonga,Atandi,Samuel Onunga,21664413,,Not provided,Male,ODM
+41,Siaya,234,Alego Usonga,Omondi,Andrew Paul,7019375,,Not provided,Male,ODM
+41,Siaya,234,Alego Usonga,Okello,George Ochieng,7578051,,Not provided,Male,ODM
+41,Siaya,234,Alego Usonga,Odunga,Charles Achieng,3357404,,Not provided,Male,ODM
+41,Siaya,234,Alego Usonga,Oruenjo,Evans Umidha,25995812,,Not provided,Male,ODM
+41,Siaya,234,Alego Usonga,Osuri,Kevin Dan,237354,,Not provided,Male,ODM
+41,Siaya,234,Alego Usonga,Omondi,George Muluan,152736,,Not provided,Male,ODM
+41,Siaya,235,Gem,Weya,Phebeans Oriaro,11197501,,Not provided,Male,ODM
+41,Siaya,235,Gem,Odhiambo,Elisha Ochieng,7022683,,Not provided,Male,ODM
+41,Siaya,235,Gem,Okinda,Julius Okong'o,53572653,,Not provided,Male,ODM
+41,Siaya,235,Gem,Otieno,Joseph Rading,10008083,,Not provided,Male,ODM
+41,Siaya,235,Gem,Midiwo,Washington Jakoyo,23820327,,Not provided,Male,ODM
+41,Siaya,236,Bondo,Abuor,Leakey Tono,22393710,,Not provided,Male,ODM
+41,Siaya,236,Bondo,Odinga,Oburu ,637188,,Not provided,Male,ODM
+41,Siaya,236,Bondo,Scott,Stephen Ondiek,29756217,,Not provided,Male,ODM
+41,Siaya,236,Bondo,Ochanda,Ogolla Gideon,7023707,,Not provided,Male,ODM
+41,Siaya,237,Rarieda,Oyugi,Oyuu Henry Collins,7869291,,Not provided,Male,ODM
+41,Siaya,237,Rarieda,Adhola,Augustine Neto,13785804,,Not provided,Male,ODM
+41,Siaya,237,Rarieda,Amolo,Paul Otiende,10972194,,Not provided,Male,ODM
+42,Kisumu,238,Kisumu East,Gwendo,Joy Adhiambo,22066675,01-01-1980,No,Female,Jubilee
+42,Kisumu,238,Kisumu East,Sidigu,Michael Otieno,3950203,04-02-1965,No,Male,Jubilee
+42,Kisumu,238,Kisumu East,Diang'a,James Wahore,4343398,01-01-1955,No,Male,Jubilee
+42,Kisumu,238,Kisumu East,Ong'elle,Francis Ogot,20887520,12-25-1977,No,Male,Jubilee
+42,Kisumu,238,Kisumu East,Okolo,Enos Gundi,2331393,09-28-1948,No,Male,Jubilee
+42,Kisumu,238,Kisumu East,Opande,Jonathan Okoth,25693629,10-14-1987,No,Male,Jubilee
+42,Kisumu,238,Kisumu East,Abayo,Joram Odhiambo,1431127,01-01-1947,No,Male,Jubilee
+42,Kisumu,238,Kisumu East,Anditi,John Odero,22478317,,Not provided,Male,ODM
+42,Kisumu,238,Kisumu East,Ahmed,Shakeel Shabbir,8223727,,Not provided,Male,ODM
+42,Kisumu,238,Kisumu East,Oricho,Nicholas Odongo,10702212,,Not provided,Male,ODM
+42,Kisumu,238,Kisumu East,Obondo,Kelvin Oselu,22397415,,Not provided,Male,ODM
+42,Kisumu,238,Kisumu East,Sungu,Eric Gor,1808007,,Not provided,Male,ODM
+42,Kisumu,238,Kisumu East,Ogonyo,Tom ,11500182,,Not provided,Male,ODM
+42,Kisumu,239,Kisumu West,Awiti,John Obiero,3342719,,Not provided,Male,ODM
+42,Kisumu,239,Kisumu West,Obiero,Kennedy Onyango,14606544,,Not provided,Male,ODM
+42,Kisumu,240,Kisumu Central,Odiero,Hezbon Ombwayo,4875414,,Not provided,Male,ODM
+42,Kisumu,240,Kisumu Central,Ogendo,Richard Dick,11089340,,Not provided,Male,ODM
+42,Kisumu,240,Kisumu Central,Ouda,Fred Odhiambo,A2318277,,Not provided,Male,ODM
+42,Kisumu,240,Kisumu Central,Nyagudi,Kennedy Odhiambo ,546622,,Not provided,Male,ODM
+42,Kisumu,240,Kisumu Central,Okello,Samwel Onyango,6016024,,Not provided,Male,ODM
+42,Kisumu,240,Kisumu Central,Mirenga,Ken Obura,22336911,,Not provided,Male,ODM
+42,Kisumu,240,Kisumu Central,Oloo,George Onyango,9180987,,Not provided,Male,ODM
+42,Kisumu,240,Kisumu Central,Oyugi,Elphas ,7352963,,Not provided,Male,ODM
+42,Kisumu,241,Seme,Mbero,Joseph Ochola,291639,,Not provided,Male,ODM
+42,Kisumu,241,Seme,Nyikal,James Wambura,5857594,,Not provided,Male,ODM
+42,Kisumu,241,Seme,Obonyo,Mathew Abongo,22446896,,Not provided,Male,ODM
+42,Kisumu,241,Seme,Nyagaya,Victor O. J.,536640,,Not provided,Male,ODM
+42,Kisumu,241,Seme,Kadiri,Haggai Hawi,21747965,,Not provided,Male,ODM
+42,Kisumu,241,Seme,Omoso,Meshack Wasonga,7495535,,Not provided,Male,ODM
+42,Kisumu,242,Nyando,Okelo,Jared Odoyo,20652505,,Not provided,Male,ODM
+42,Kisumu,242,Nyando,Opiyo,Charles Otieno,24160020,,Not provided,Male,ODM
+42,Kisumu,242,Nyando,Ogendo,Joseph Owino,100721,,Not provided,Male,ODM
+42,Kisumu,242,Nyando,Owuor,Caleb Omoroh,8974259,,Not provided,Male,ODM
+42,Kisumu,242,Nyando,Outa,Fredrick Otieno,6611121,,Not provided,Male,ODM
+42,Kisumu,242,Nyando,Orowe,Willis Omondi,22780536,,Not provided,Male,ODM
+42,Kisumu,242,Nyando,Owino,Sala Jared,22595012,,Not provided,Male,ODM
+42,Kisumu,243,Muhoroni,Olweny,Patrick Ayiecho,6421021,,Not provided,Male,ODM
+42,Kisumu,243,Muhoroni,Okoth,Patrick Obora,4828671,,Not provided,Male,ODM
+42,Kisumu,243,Muhoroni,K'oyoo,James Onyango,1121201,,Not provided,Male,ODM
+42,Kisumu,244,Nyakach,Ogola,Ben Bella Onyango,13603643,,Not provided,Male,ODM
+42,Kisumu,244,Nyakach,Otieno,Osimbo Tom,2742397,,Not provided,Male,ODM
+42,Kisumu,244,Nyakach,Owuor,Aduma J.,7654012,,Not provided,Male,ODM
+42,Kisumu,244,Nyakach,Addo,Kodera Vincent,10432153,,Not provided,Male,ODM
+42,Kisumu,244,Nyakach,Anyango,Pollyins Ochieng,4716632,,Not provided,Male,ODM
+43,Homa Bay,245,Kasipul,Ouma,Mary Patricia,3354452,,Not provided,Female,ODM
+43,Homa Bay,245,Kasipul,Majiwa,Daniel Okindo,13892184,,Not provided,Male,ODM
+43,Homa Bay,245,Kasipul,Were,Charles Ongondo,7952685,,Not provided,Male,ODM
+43,Homa Bay,245,Kasipul,Otieno,Kennedy Okoth,23593903,,Not provided,Male,ODM
+43,Homa Bay,245,Kasipul,Amuti,Solomon Owango,12458004,,Not provided,Male,ODM
+43,Homa Bay,245,Kasipul,Ongiri,Isaac Victor,22065985,,Not provided,Male,ODM
+43,Homa Bay,245,Kasipul,Omollo,John Omoga,22931680,,Not provided,Male,ODM
+43,Homa Bay,245,Kasipul,Kachieng,Oyugis ,173936,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Alila,Jared Ouko,4137618,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Onyango,Silvance Osele,23950727,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Muga,Richard Otieno,16054369,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Mreri,David Obonyo,21745214,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Onunda,David Omondi,21351268,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Michaels,Otieno  Japolo,25073512,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Ahenda,Patrick Cornel Odero,989487,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Kagira,Gerald Nyakuno,27862027,,Not provided,Male,ODM
+43,Homa Bay,246,Kabondo Kasipul,Obara,Eve Akinyi,4829098,,Not provided,Female,ODM
+43,Homa Bay,247,Karachuonyo,Amenya,Charles Odhiambo,28007145,12-14-1991,No,Male,Jubilee
+43,Homa Bay,247,Karachuonyo,Arunga,Dave Otieno,5896768,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Adhu,Lazaro ,10962468,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Anderson,Ojwang William,11634435,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Osumba,Martin Onyango,1421409,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Sheltone,Tindih Heshbhone,20116839,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Okute,Seth Steve,10285491,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Okuome,Andrew Adipo,1811041,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Kojwang,Julius Roy Okello,2771395,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Apollo,Ofafa Adede,6894422,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Dola,Tom ,3357969,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Rachuonyo,George Onyango,20336727,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Waruku,Boaz Atanga,12458205,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Asiyo,Evance Achiya,20890223,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Kodoh,Elijah Odondi,7953384,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Yugi,Michael Agure,10793211,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Koliech,Dan ,20030045,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Obell,Joshua Humphrey,28217325,,Not provided,Male,ODM
+43,Homa Bay,247,Karachuonyo,Odidi,Steve Biko,21473340,,Not provided,Male,ODM
+43,Homa Bay,248,Rangwe,Ondeyo,Cavin Ochieng,22908086,01-01-1982,No,Male,Jubilee
+43,Homa Bay,248,Rangwe,Okello,Juma Thomas,13656545,10-13-1975,No,Male,Jubilee
+43,Homa Bay,248,Rangwe,Ondeyo,Cavin Ochieng,229080,,No,Male,Jubilee
+43,Homa Bay,248,Rangwe,Ogalo,George Oner,13893181,,Not provided,Male,ODM
+43,Homa Bay,248,Rangwe,Agutu,John Washingtone Otieno,10026167,,Not provided,Male,ODM
+43,Homa Bay,248,Rangwe,Nyamuthe,Joseph Lawrence Mboya,10225932,,Not provided,Male,ODM
+43,Homa Bay,248,Rangwe,Gogo,Lilian ,11280813,,Not provided,Female,ODM
+43,Homa Bay,248,Rangwe,Odaje,William Omburo,1226112,,Not provided,Male,ODM
+43,Homa Bay,249,Homa Bay Town,Mboya,Geofrey Onyango,32637844,03-28-1995,No,Male,Jubilee
+43,Homa Bay,249,Homa Bay Town,Atieno,Kidew Jael,11633047,08-12-1963,No,Male,Jubilee
+43,Homa Bay,249,Homa Bay Town,Amisi,Opondo Dickens,8820071,,Not provided,Male,ODM
+43,Homa Bay,249,Homa Bay Town,Kaluma,George Peter Opondo,14551251,,Not provided,Male,ODM
+43,Homa Bay,249,Homa Bay Town,Ochola,Noah Oduor,11124709,,Not provided,Male,ODM
+43,Homa Bay,249,Homa Bay Town,Akumu,Samwel Odhiambo,313874,,Not provided,Male,ODM
+43,Homa Bay,249,Homa Bay Town,Ogaga,Washington Omondi,14723290,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Odhiambo,Maurice Okoth,21665011,10-27-1979,No,Male,Jubilee
+43,Homa Bay,250,Ndhiwa,Oyugi,Aghostinho Neto,13658704,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Orero,Joshua Odhiambo,10468858,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Abongo,Stephen Odhiambo,21650189,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Oduru,Johnson Oyugi,124374,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Ojwang,David Aundho,13466710,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Owino,Martin Peters,1503772,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Midam,Oscar Oluoch,1489154,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Ogara,Dick Otieno,423163,,Not provided,Male,ODM
+43,Homa Bay,250,Ndhiwa,Agwanda,Michael Ouma,13041236,,Not provided,Male,ODM
+43,Homa Bay,251,Mbita,Omogi,Judith Akinyi,10822354,,Not provided,Female,ODM
+43,Homa Bay,251,Mbita,Okelo,David Spann,20586785,,Not provided,Male,ODM
+43,Homa Bay,251,Mbita,Nyabwana,Samwel Onyango,1385009,,Not provided,Male,ODM
+43,Homa Bay,251,Mbita,Agembe,Akali James,4164708,,Not provided,Male,ODM
+43,Homa Bay,251,Mbita,Odhiambo,Millie Grace Akoth,9122479,,Not provided,Female,ODM
+43,Homa Bay,251,Mbita,Obach,Humphrey Odhiambo,22857147,,Not provided,Male,ODM
+43,Homa Bay,252,Suba,Mwanzia,Lucy Achieng,25185010,05-07-1987,No,Male,Jubilee
+43,Homa Bay,252,Suba,Ngongo,Jackline Joyce Atieno,11383216,,Not provided,Female,ODM
+43,Homa Bay,252,Suba,Ngongo,John Mbadi,11394135,,Not provided,Male,ODM
+43,Homa Bay,252,Suba,Omondi,Caroli ,9182239,,Not provided,Male,ODM
+44,Migori,253,Rongo,Osiany,David Otieno,24585498,,Not provided,Male,ODM
+44,Migori,253,Rongo,Ngani,Joseph Ongondo,1121043,,Not provided,Male,ODM
+44,Migori,253,Rongo,Abuor,Paul ,5599536,,Not provided,Male,ODM
+44,Migori,253,Rongo,Ouma,George Waganda,9119498,,Not provided,Male,ODM
+44,Migori,253,Rongo,Onyango,Dalmas Otieno,6794837,,Not provided,Male,ODM
+44,Migori,254,Awendo,Oluoch,Kennedy Festus,1275073,,Not provided,Male,ODM
+44,Migori,254,Awendo,Owino,John Walter,A098344,,Not provided,Male,ODM
+44,Migori,254,Awendo,Opiyo,George Peter O.,7060440,,Not provided,Male,ODM
+44,Migori,254,Awendo,Opiyo,Jared Odhiambo,11560893,,Not provided,Male,ODM
+44,Migori,254,Awendo,Nyawata,Enos Ouma,13893501,,Not provided,Male,ODM
+44,Migori,255,Suna East,John,Dache Pesa,410009,,Not provided,Male,ODM
+44,Migori,255,Suna East,Mohamed,Junet Sheikh Nuh,20094498,,Not provided,Male,ODM
+44,Migori,256,Suna West,Ndiege,Joseph Obiero,4858930,,Not provided,Male,ODM
+44,Migori,256,Suna West,Mwabe,Philip Ogari,1062789,,Not provided,Male,ODM
+44,Migori,256,Suna West,Migore,Benedict Enrile Onyango,10312325,,Not provided,Male,ODM
+44,Migori,256,Suna West,Masara,Peter Francis,13389623,,Not provided,Male,ODM
+44,Migori,256,Suna West,Ogongo,Valentine Dianga,213253,,Not provided,Female,ODM
+44,Migori,257,Uriri,Kobado,John Owuor Onyango,5334563,,Not provided,Male,ODM
+44,Migori,257,Uriri,Awiti,John ,4067514,,Not provided,Male,ODM
+44,Migori,257,Uriri,Ochola,George Ochieng,6526464,,Not provided,Male,ODM
+44,Migori,257,Uriri,Oile,Florence Abich,10024159,,Not provided,Female,ODM
+44,Migori,257,Uriri,Odhiambo,Paul Otieno,26844879,,Not provided,Male,ODM
+44,Migori,257,Uriri,Dede,Charles Odira,10965491,,Not provided,Male,ODM
+44,Migori,257,Uriri,Nyamita,Ogolla Mark,21759008,,Not provided,Male,ODM
+44,Migori,258,Nyatike,Ogola,Michael Otieno,20595335,,Not provided,Male,ODM
+44,Migori,258,Nyatike,Anyanga,Peter Edick Omondi,7952050,,Not provided,Male,ODM
+44,Migori,258,Nyatike,Odege,Tom Mboya,11125412,,Not provided,Male,ODM
+44,Migori,258,Nyatike,Ratteng,Elias Odhiambo,13384905,,Not provided,Male,ODM
+44,Migori,258,Nyatike,Ogenga,Fredrick Kagosh,12595126,,Not provided,Male,ODM
+44,Migori,258,Nyatike,Owino,July Otulo,11724526,,Not provided,Male,ODM
+44,Migori,259,Kuria West,Saiya,Mogendi Wilson,13605348,11-15-1976,No,Male,Jubilee
+44,Migori,259,Kuria West,Robi,Mathias Nyamabe,20308368,04-11-1978,No,Male,Jubilee
+44,Migori,259,Kuria West,Masiaga,Moses Murimi,13605426,,Not provided,Male,ODM
+44,Migori,259,Kuria West,Bohoko,Samson Matiko,6550749,,Not provided,Male,ODM
+44,Migori,260,Kuria East,Maisori,Marwa Kemero,8413504,05-12-1968,No,Male,Jubilee
+44,Migori,260,Kuria East,Robi,Rahab ,13605198,,Not provided,Female,ODM
+45,Kisii,261,Bonchari,Onyonka,Richard Momoima,300027,0000-00-00,No,Male,Jubilee
+45,Kisii,261,Bonchari,Ratemo,Mary Kemunto,2698316,09-02-1959,No,Female,Jubilee
+45,Kisii,261,Bonchari,Opore,Zebedeo John,3430032,08-01-1947,No,Male,Jubilee
+45,Kisii,261,Bonchari,Oyugi,David Ogega,6933413,,Not provided,Male,ODM
+45,Kisii,261,Bonchari,Oyioka,John Ooro,16069332,,Not provided,Male,ODM
+45,Kisii,261,Bonchari,Momanyi,John Billy,734340,,Not provided,Male,ODM
+45,Kisii,262,South Mugirango,Minyonga,Zablon Rashid,842983,07-17-1958,No,Male,Jubilee
+45,Kisii,262,South Mugirango,Marube,Vincent Amenya,14450047,12-04-1976,No,Male,Jubilee
+45,Kisii,262,South Mugirango,Onyiego,Silvanus Osoro,26936717,,Not provided,Male,ODM
+45,Kisii,262,South Mugirango,Ondora,Joshua John,9737023,,Not provided,Male,ODM
+45,Kisii,262,South Mugirango,Minyonga,Zablon Rashid,842983,,Not provided,Male,ODM
+45,Kisii,262,South Mugirango,Magufuli,Philip Nyange Maobe,21551017,,Not provided,Male,ODM
+45,Kisii,263,Bomachoge Borabu,Onyancha,Omagwa Joel,379650,03-23-1960,No,Male,Jubilee
+45,Kisii,263,Bomachoge Borabu,Nyatangi,Adams Nyabuto,8539813,01-25-1967,No,Male,Jubilee
+45,Kisii,263,Bomachoge Borabu,Ondabu,Jason ,13288102,,Not provided,Male,ODM
+45,Kisii,263,Bomachoge Borabu,Mokua,Lameck Onyinkwa,22489661,,Not provided,Male,ODM
+45,Kisii,263,Bomachoge Borabu,Maaga,Josiah Onkundi,713408,,Not provided,Male,ODM
+45,Kisii,263,Bomachoge Borabu,Maranga,Peter Kimori,1070835,,Not provided,Male,ODM
+45,Kisii,263,Bomachoge Borabu,Ogutu,Zadoc Abel,1613165,,Not provided,Male,ODM
+45,Kisii,264,Bobasi,Manoti,Stephen Kengere,971125,09-22-1952,No,Male,Jubilee
+45,Kisii,264,Bobasi,Mogere,Naftali Okongo,1869090,,Not provided,Male,ODM
+45,Kisii,265,Bomachoge Chache,Nyamweyaya,Kennedy Nyankie,9969985,08-28-1968,No,Male,Jubilee
+45,Kisii,265,Bomachoge Chache,Ogari,Simon Nyaundi,4827236,05-31-1956,No,Male,Jubilee
+45,Kisii,265,Bomachoge Chache,Nyangwara,Jeremiah Matoke,1582010,,Not provided,Male,ODM
+45,Kisii,265,Bomachoge Chache,Mauti,Edward Nyangau,22759601,,Not provided,Male,ODM
+45,Kisii,265,Bomachoge Chache,Omanga,Job Nyangenya,A1910483,,Not provided,Male,ODM
+45,Kisii,265,Bomachoge Chache,Nyamoko,Amos Andama,22345301,,Not provided,Male,ODM
+45,Kisii,265,Bomachoge Chache,Ayunga,Silas Omagwa,558780,,Not provided,Male,ODM
+45,Kisii,266,Nyaribari Masaba,Nyairo,Kennedy Obare,301198,11-04-1963,No,Male,Jubilee
+45,Kisii,266,Nyaribari Masaba,Kebira,Ocharo ,10661413,,Not provided,Male,ODM
+45,Kisii,267,Nyaribari Chache,Tongi,Richard Nyagaka,10785980,01-04-1972,No,Male,Jubilee
+45,Kisii,267,Nyaribari Chache,Bichage,Chris Nyamaratandi,1864483,,Not provided,Male,ODM
+45,Kisii,268,Kitutu Chache North,Angwenyi,Jimmy Nuru Ondieki,3347315,11-18-1945,No,Male,Jubilee
+45,Kisii,268,Kitutu Chache North,Bogonko,Joseph Nyangau,1273181,10-10-1956,No,Male,Jubilee
+45,Kisii,268,Kitutu Chache North,Ong'era,Alfred Ndemo,9899662,12-18-1968,No,Male,Jubilee
+45,Kisii,268,Kitutu Chache North,Atuti,Ibrahim Ndemo,10468260,01-20-1970,No,Male,Jubilee
+45,Kisii,268,Kitutu Chache North,Kegonchiri,Victor Ontiri,22761283,,Not provided,Male,ODM
+45,Kisii,268,Kitutu Chache North,Ogamba,Julius Migos,8647623,,Not provided,Male,ODM
+45,Kisii,268,Kitutu Chache North,Ogaro,Kombo Elijah,13479533,,Not provided,Male,ODM
+45,Kisii,268,Kitutu Chache North,Nyangau,Evans Nyakundi,13479537,,Not provided,Male,ODM
+45,Kisii,269,Kitutu Chache South,Mwamba,Leonard Gwaro,13820130,05-21-1976,No,Male,Jubilee
+45,Kisii,269,Kitutu Chache South,Kibagendi,Antoney ,22541681,,Not provided,Male,ODM
+45,Kisii,269,Kitutu Chache South,Onyonka,Richard Momoima,300027,,Not provided,Male,ODM
+45,Kisii,269,Kitutu Chache South,Omwando,Samwel Kenani,406740,,Not provided,Male,ODM
+46,Nyamira,270,Kitutu Masaba,Mose,Shadrack John,8532233,06-12-1967,No,Male,Jubilee
+46,Nyamira,270,Kitutu Masaba,Bosire,Timothy Moseti Edward,1634249,,Not provided,Male,ODM
+46,Nyamira,271,West Mugirango,Achoki,John Kennedy,5835346,12-26-1963,No,Male,Jubilee
+46,Nyamira,271,West Mugirango,Ong'oto,Charles Mong'are,1078591,01-01-1970,No,Male,Jubilee
+46,Nyamira,271,West Mugirango,Omwoyo,Evans Menge,22796412,04-01-1983,No,Male,Jubilee
+46,Nyamira,271,West Mugirango,Mochoge,Meshack M.,407267,08-26-1958,No,Mak,Jubilee
+46,Nyamira,271,West Mugirango,Omboga,Peter Nyagonchonga ,10247593,,Not provided,Male,ODM
+46,Nyamira,271,West Mugirango,Matere,Julius Kimwomi,305121,,Not provided,Male,ODM
+46,Nyamira,271,West Mugirango,Moturi,Dennis Anyoka,22671638,,Not provided,Male,ODM
+46,Nyamira,271,West Mugirango,Orero,Polycarp Barake,21247798,,Not provided,Male,ODM
+46,Nyamira,272,North Mugirango,Nyamoko,Joash Nyamache,3506494,12-24-1962,No,Male,Jubilee
+46,Nyamira,272,North Mugirango,Geni,Charles Mongare,10909160,,Not provided,Male,ODM
+46,Nyamira,273,Borabu,Nyakeri,Ragira Enock,13819972,08-06-1976,No,Male,Jubilee
+46,Nyamira,273,Borabu,Osero,Patrick Kibagendi,5818552,01-29-1963,No,Male,Jubilee
+46,Nyamira,273,Borabu,Kambi,Yabesh Nyandoro,11036607,,Not provided,Male,ODM
+47,Nairobi,274,Westlands,Gichenga,Dedan Mugo,12441753,06-17-1973,No,Male,Jubilee
+47,Nairobi,274,Westlands,Lucheri,Milton,25245841,03-26-1986,No,Male,Jubilee
+47,Nairobi,274,Westlands,Ndungu,Carolyne Wanjiku,14403455,09-04-1976,No,Female,Jubilee
+47,Nairobi,274,Westlands,Birdi,Sunjeev  Kaur,11706111,10-07-1973,No,Male,Jubilee
+47,Nairobi,274,Westlands,Kiniti,Halima Suleha,B150700,05-02-1965,No,Female,Jubilee
+47,Nairobi,274,Westlands,Kiagiri,Kenneth Kanini,10810563,10-23-1971,No,Male,Jubilee
+47,Nairobi,274,Westlands,Manzoor,Farah Mohammed,10977776,10-10-1971,No,Female,Jubilee
+47,Nairobi,274,Westlands,Mwangi,Jessee Wanyeki,21111924,09-30-1978,No,Male,Jubilee
+47,Nairobi,274,Westlands,Wetangula,Timothy Wanyonyi,7963450,,Not provided,Male,ODM
+47,Nairobi,275,Dagoretti North,Imaita,Brian Karani,32606065,12-14-1995,No,Male,Jubilee
+47,Nairobi,275,Dagoretti North,Elachi,Beatrice Kadeveresia,9217700,05-06-1967,No,Female,Jubilee
+47,Nairobi,275,Dagoretti North,Mesoh,Carnicius Jackson,14530610,01-01-1980,No,Male,Jubilee
+47,Nairobi,275,Dagoretti North,Nyoike,Chuhi,7587863,10-30-1964,No,Male,Jubilee
+47,Nairobi,275,Dagoretti North,Arati,Paul Simba,22487019,,Not provided,Male,ODM
+47,Nairobi,275,Dagoretti North,Obulialia,Elphas Nganyi,A1542498,,Not provided,Male,ODM
+47,Nairobi,275,Dagoretti North,Ekodoi,Albert Ariku,13529614,,Not provided,Male,ODM
+47,Nairobi,276,Dagoretti South,Waweru,Dennis Kariuki,10366800,06-30-1970,No,Male,Jubilee
+47,Nairobi,276,Dagoretti South,Kangari,Gaciku Muhu,3462552,08-31-1957,No,Female,Jubilee
+47,Nairobi,276,Dagoretti South,Waweru,John Kiarie,20045806,01-24-1978,No,Male,Jubilee
+47,Nairobi,276,Dagoretti South,Ndorumo,Titus Kanyi,10118564,04-24-1968,No,Male,Jubilee
+47,Nairobi,276,Dagoretti South,Kinuthia,Peter Thairu,22385237,11-12-1980,No,Male,Jubilee
+47,Nairobi,276,Dagoretti South,Wakaba,Edward Waithaka,24608664,11-27-1984,No,Male,Jubilee
+47,Nairobi,276,Dagoretti South,Ndiba,Mary Njoki,3428084,06-16-1960,No,Female,Jubilee
+47,Nairobi,276,Dagoretti South,Nguo,Pius John Njogu,4824122,06-24-1950,No,Male,Jubilee
+47,Nairobi,276,Dagoretti South,Wandera,Fredrick Oduory,2256432309,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Thuo,John Kibathi,13413003,01-21-1975,No,Male,Jubilee
+47,Nairobi,277,Langata,Mwamuye,Jannet Wairimu,1898576,11-18-1955,No,Female,Jubilee
+47,Nairobi,277,Langata,Korir,Generali Nixon,23464175,04-24-1983,No,Male,Jubilee
+47,Nairobi,277,Langata,Tamogei,Cheruiyot Kemei,13010303,04-12-1976,No,Male,Jubilee
+47,Nairobi,277,Langata,Omolo,Jared Odhiambo,2251736,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Syongoh,Musaari Kahiga,22028795,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Otieno,Alex Ouda,3433206,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Olum,Joash Odhiambo,1165807,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Okinda,Violet Jumba,329237,,Not provided,Female,ODM
+47,Nairobi,277,Langata,Ouma,Jacob Otieno,23913356,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Omoke,Oscar ,13787556,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Kiema,John ,9365265,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Oguwa,Benard Adhiambo,22150681,,Not provided,Male,ODM
+47,Nairobi,277,Langata,Papa,Ahmed Ibrahim,13689625,,Not provided,Male,ODM
+47,Nairobi,278,Kibra,Osman,Amber,1854026,06-23-1960,No,Male,Jubilee
+47,Nairobi,278,Kibra,Ibrahim,Said,9789738,02-14-1969,No,Male,Jubilee
+47,Nairobi,278,Kibra,Kassim,Abdul,11443153,10-24-1972,No,Male,Jubilee
+47,Nairobi,278,Kibra,A.M,Malassen Hamida Twahir,14546563,12-18-1977,No,Female,Jubilee
+47,Nairobi,278,Kibra,Hajee,Suleiman Yusuf,25531573,06-22-1987,No,Male,Jubilee
+47,Nairobi,278,Kibra,Ayugi,Ezekiel Victor,31862186,11-14-1994,No,Male,Jubilee
+47,Nairobi,278,Kibra,Kinyanjui,Morris Peter,14697767,06-16-1977,No,Male,Jubilee
+47,Nairobi,278,Kibra,Wasike,Doreen Nangame,23389216,12-08-1982,No,Male,Jubilee
+47,Nairobi,278,Kibra,Okoth,Martin Oduor,13073690,,Not provided,Male,ODM
+47,Nairobi,278,Kibra,Okoth,Kenneth Odhiambo,21235720,,Not provided,Male,ODM
+47,Nairobi,278,Kibra,Owalo,Eliud Okech,7578791,,Not provided,Male,ODM
+47,Nairobi,279,Roysambu,Kamau,Lee Pius,8073981,02-12-1966,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Ndirangu,Isaac Waihenya,9143986,01-01-1968,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Karanja,Michael Ngugi,13308075,07-05-1973,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Gichomo,Vincent Kamau,16000373,09-23-1962,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Muchemi,Kariuki,493432,02-20-1954,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Kamau,Augustine Kamande,8335326,05-03-1965,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Mwangi,Paul,13379875,01-01-1974,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Thuo,Joseph Njoroge,21733060,05-07-1978,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Wambui,Benjamin Mungai,21886298,01-01-1979,No,Male,Jubilee
+47,Nairobi,279,Roysambu,M'kirera,Gerald Kinoti,4835860,08-24-1952,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Mathenge,Mathew Kimaru,21645586,01-01-1979,No,Male,Jubilee
+47,Nairobi,279,Roysambu,Abongo,Jecton Obure,22886525,11-14-1983,No,Male,Jubilee
+47,Nairobi,280,Kasarani,Telewa,Persil Rose,A1908933,06-12-1988,No,Female,Jubilee
+47,Nairobi,280,Kasarani,Chege,John Njoroge,8335227,08-04-1964,No,Male,Jubilee
+47,Nairobi,280,Kasarani,Gakuya,Mercy Wanjiku,22023357,06-18-1979,No,Female,Jubilee
+47,Nairobi,280,Kasarani,Ngige,Isaac Njoroge,24044269,10-17-1985,No,Male,Jubilee
+47,Nairobi,280,Kasarani,Kamau,Amos Ngata,7113190,09-28-1951,No,Male,Jubilee
+47,Nairobi,280,Kasarani,Onyancha,Isaac Kinarious,13747250,02-02-1976,No,Male,Jubilee
+47,Nairobi,280,Kasarani,Mutoro,Denis Mulongo,22573140,12-29-1981,No,Male,Jubilee
+47,Nairobi,281,Ruaraka,Kinyua,Dominic Gathecha,11446938,03-30-1973,No,Male,Jubilee
+47,Nairobi,281,Ruaraka,Nyaboro,Onchiri Yusufu,20183806,01-01-1978,No,Male,Jubilee
+47,Nairobi,281,Ruaraka,Danda,Collins Ochieng',23953778,09-29-1984,No,Male,Jubilee
+47,Nairobi,281,Ruaraka,Kajwang,Francis Tom Joseph,10131372,,Not provided,Male,ODM
+47,Nairobi,281,Ruaraka,Masha,Elizabeth Ongoro Amollo,10644515,,Not provided,Female,ODM
+47,Nairobi,282,Embakasi South,Njogo,Margaret Wanja,998901,01-01-1958,No,Female,Jubilee
+47,Nairobi,282,Embakasi South,Mbugua,David Njuguna,10893064,11-04-1969,No,Male,Jubilee
+47,Nairobi,282,Embakasi South,Kavindu,Augustine Mbii,25085712,08-31-1987,No,Male,Jubilee
+47,Nairobi,282,Embakasi South,Mutungi,Paul Mutunga,12409725,08-05-1974,No,Male,Jubilee
+47,Nairobi,282,Embakasi South,Njenga,George Gitiba,7279707,06-30-1965,No,Male,Jubilee
+47,Nairobi,282,Embakasi South,Nyambura,Eunice Wambui,23584503,02-14-1983,No,Female,Jubilee
+47,Nairobi,282,Embakasi South,Kiboi,John,30312420,04-05-1993,No,Male,Jubilee
+47,Nairobi,282,Embakasi South,Ngondi,Kennedy Okeyo,11485014,,Not provided,Male,ODM
+47,Nairobi,282,Embakasi South,Sumra,Irshaddali ,5478318,,Not provided,Male,ODM
+47,Nairobi,283,Embakasi North,Gakuya,James Mwangi,9136756,01-01-1967,No,Male,Jubilee
+47,Nairobi,283,Embakasi North,Gathuku,Allan Maina,12995289,03-11-1974,No,Male,Jubilee
+47,Nairobi,283,Embakasi North,Ali,Yussuf Abdiwahab,26669692,07-29-1988,No,Male,Jubilee
+47,Nairobi,283,Embakasi North,Mwangi,Harrison Wangoro,23732571,03-16-1980,No,Male,Jubilee
+47,Nairobi,283,Embakasi North,Odawo,Edwin Ndede,10035417,,Not provided,Male,ODM
+47,Nairobi,283,Embakasi North,Odawa,Joan Atieno,4829007,,Not provided,Female,ODM
+47,Nairobi,283,Embakasi North,Oyugi,Fredrick Odhiambo,11582976,,Not provided,Male,ODM
+47,Nairobi,283,Embakasi North,Nyangala,Jacqueline Awino,8243378,,Not provided,Female,ODM
+47,Nairobi,283,Embakasi North,Wangui,Jane Muringi,14627436,,Not provided,Female,ODM
+47,Nairobi,284,Embakasi Central,Kanori,Richard Wambugu,21907720,04-18-1979,No,Male,Jubilee
+47,Nairobi,284,Embakasi Central,Mwangi,Benjamin Gathiru,22717187,09-07-1982,No,Male,Jubilee
+47,Nairobi,284,Embakasi Central,Kariuki,John Ndirangu,1832611,05-01-1962,No,Male,Jubilee
+47,Nairobi,284,Embakasi Central,Onyura,Mary Alice,586025,,Not provided,Female,ODM
+47,Nairobi,284,Embakasi Central,Omondi,Hezbon ,9482464,,Not provided,Male,ODM
+47,Nairobi,284,Embakasi Central,Ogutu,William Ochieng,12686288,,Not provided,Male,ODM
+47,Nairobi,284,Embakasi Central,Ochieng,Stephen Omondi,27425217,,Not provided,Male,ODM
+47,Nairobi,284,Embakasi Central,Mutua,Michael Mutia,22524424,,Not provided,Male,ODM
+47,Nairobi,285,Embakasi East,Waruinge,Stephen Maina,7917119,12-12-1965,No,Male,Jubilee
+47,Nairobi,285,Embakasi East,Masenge,Amos,13138144,01-01-1974,No,Male,Jubilee
+47,Nairobi,285,Embakasi East,Kamau,Njenga Henry,11636420,07-24-1973,No,Male,Jubilee
+47,Nairobi,285,Embakasi East,Momanyi,Benard Abuya,24466892,08-09-1986,No,Male,Jubilee
+47,Nairobi,285,Embakasi East,Wambugu,Francis Mureithi,24743018,05-28-1986,No,Male,Jubilee
+47,Nairobi,285,Embakasi East,Owino,Babu,25079150,,Not provided,Male,ODM
+47,Nairobi,285,Embakasi East,Wekesa,Francis Masinde,22706863,,Not provided,Male,ODM
+47,Nairobi,285,Embakasi East,Obiga,George  Bhutto,11397398,,Not provided,Male,ODM
+47,Nairobi,285,Embakasi East,Bosire,Philip Nyauncho,2580020,,Not provided,Male,ODM
+47,Nairobi,285,Embakasi East,Mosoti,Boniface Nyagaka,11137322,,Not provided,Male,ODM
+47,Nairobi,285,Embakasi East,Baridi,Manyasi Lukas,6876928,,Not provided,Male,ODM
+47,Nairobi,285,Embakasi East,Kengere,Joash Omwenga M.,8646415,,Not provided,Male,ODM
+47,Nairobi,286,Embakasi West,Mwenje,Mark Muriithi,A2402699,06-27-1985,No,Male,Jubilee
+47,Nairobi,286,Embakasi West,Theuri,George,22105875,05-10-1978,No,Male,Jubilee
+47,Nairobi,286,Embakasi West,Agimba,Tom Onyango,1377718607,,Not provided,Male,ODM
+47,Nairobi,286,Embakasi West,Nganga,James ,217639,,Not provided,Male,ODM
+47,Nairobi,286,Embakasi West,Sewe,Margaret Achola,10972683,,Not provided,Female,ODM
+47,Nairobi,286,Embakasi West,Ogello,Boash Odhiambo,11393789,,Not provided,Male,ODM
+47,Nairobi,287,Makadara,Mburu,Mathew Maina,10043872,11-15-1968,No,Male,Jubilee
+47,Nairobi,287,Makadara,Kangara,Benson Mutura,11223774,09-07-1970,No,Male,Jubilee
+47,Nairobi,287,Makadara,Ndolo,Reuben ,8992486,,Not provided,Male,ODM
+47,Nairobi,287,Makadara,Omwera,George Aladwa,9136489,,Not provided,Male,ODM
+47,Nairobi,288,Kamukunji,Abdi,Yusuf Hassan,1871556,03-09-1953,Yes,Male,Jubilee
+47,Nairobi,288,Kamukunji,Murago,George Wachira,3584626,06-12-1962,No,Male,Jubilee
+47,Nairobi,288,Kamukunji,Maingi,Moses Kingori,20551222,08-01-1977,No,Male,Jubilee
+47,Nairobi,288,Kamukunji,Mwangi,Kenneth Irungu,10318170,03-13-1968,No,Male,Jubilee
+47,Nairobi,288,Kamukunji,Mbugua,Simon Nganga,13308633,10-15-1974,No,Male,Jubilee
+47,Nairobi,288,Kamukunji,Omar,Abdikadir Mohamud,27713227,,Not provided,Male,ODM
+47,Nairobi,288,Kamukunji,Hirsi,Abdiaziz Mohamed,2619377,,Not provided,Male,ODM
+47,Nairobi,289,Starehe,Thiaka,Paul Gichuki,6242410,12-28-1962,No,Male,Jubilee
+47,Nairobi,289,Starehe,Gikonyo,Stanley Gathogo,7183360,04-19-1950,No,Male,Jubilee
+47,Nairobi,289,Starehe,Githuku,Francis Mwangi,9712896,01-01-1965,No,Male,Jubilee
+47,Nairobi,289,Starehe,Kamangu,Simon Chege,11622359,11-06-1973,No,Male,Jubilee
+47,Nairobi,289,Starehe,Kanyi,Charles Njagua,22851722,10-13-1981,No,Male,Jubilee
+47,Nairobi,289,Starehe,Kamanda,William Maina,1896713,01-05-1951,No,Male,Jubilee
+47,Nairobi,289,Starehe,Ndwiga,Steve Mbogo,25017846,,Not provided,Male,ODM
+47,Nairobi,289,Starehe,Ochieng,Winstones Churchill,14481034,,Not provided,Male,ODM
+47,Nairobi,289,Starehe,Kivati,Rhoda Mumoh,21832927,,Not provided,Female,ODM
+47,Nairobi,289,Starehe,Mathanga,Gitonga ,5551093,,Not provided,Male,ODM
+47,Nairobi,290,Mathare,Warigi,Gabriel Muthuma,13688056,12-07-1972,No,Male,Jubilee
+47,Nairobi,290,Mathare,Kariuki,Steven,21792955,02-16-1980,No,Male,Jubilee
+47,Nairobi,290,Mathare,Mukuri,Michael Mungai,3724711,01-28-1961,Yes,Male,Jubilee
+47,Nairobi,290,Mathare,Oluoch,Anthony Tom,10312743,,Not provided,Male,ODM
+47,Nairobi,290,Mathare,Paul,Ramses Oduor,14115694,,Not provided,Male,ODM
+16,Machakos,77,Kangundo,Kituku,Ancent,20143453,1977,None,Male,Maendeleo Chap Chap
+16,Machakos,77,Kangundo,Matiku,Titus Nzeki,11647138,1973,None,Male,Maendeleo Chap Chap
+19,Nyeri,95,Kieni,Wanjohi,Francis,23945622,1985,None,Male,Maendeleo Chap Chap
+19,Nyeri,95,Kieni,Muriuki,Peter Maina,12778706,1974,None,Male,Maendeleo Chap Chap
+19,Nyeri,94,Tetu,Kamwaro,Antony Kariuki,21964543,1980,None,Male,Maendeleo Chap Chap
+19,Nyeri,94,Tetu,Kibuka,Kelvin Kimwatu,25692978,1988,None,Male,Maendeleo Chap Chap
+14,Embu,63,Manyatta,Njagi,Antony Njiru,21964543,1984,None,Male,Maendeleo Chap Chap
+14,Embu,63,Manyatta,Mwaniki,John Gitonga,25692978,1986,None,Male,Maendeleo Chap Chap
+12,Meru,54,Tigania West,Kiraithe,Gitonga,10970430,1970,None,Male,Maendeleo Chap Chap
+12,Meru,54,Tigania West,Kurauka,Henry,11488669,1972,None,Male,Maendeleo Chap Chap
+39,Bungoma,219,Bumula,Mabonga,Moses Wekesa Mwambu,13315665,1974,N/A,Male,FORD-K
+39,Bungoma,219,Bumula,Wamboka,Nelson Jack Wanami,22714989,1979,N/A,Male,FORD-K
+39,Bungoma,218,Kabuchai,Werunga,Kapanga Peter,13246159,1976,N/A,Male,FORD-K
+39,Bungoma,218,Kabuchai,Lusweti,James Mukwe,2087025,1961,N/A,Male,FORD-K
+39,Bungoma,223,Kimilili,Makanda,Mathews Chirasha Wanjala,21642980,1977,N/A,Male,FORD-K
+39,Bungoma,223,Kimilili,Masinde,Kennedy Richard,7589492,1960,N/A,Male,FORD-K
+39,Bungoma,223,Kimilili,Murunga,Suleiman,7358596,1949,N/A,Male,FORD-K
+39,Bungoma,216,Mt.Elgon,Kiano,Ndiema G,7993693,1968,N/A,Male,FORD-K
+39,Bungoma,216,Mt.Elgon,Mukhooli,John Khaukha,9995965,1954,N/A,Male,FORD-K
+39,Bungoma,217,Sirisia,Wamasebu,Bramuel Kundu,11330015,1973,N/A,Male,FORD-K
+39,Bungoma,217,Sirisia,Masai,Samuel Mechi,21503714,1980,N/A,Male,FORD-K
+39,Bungoma,217,Sirisia,Makali,Levi,20319926,1977,N/A,Male,FORD-K
+39,Bungoma,217,Sirisia,Waliaula,Moses,2082193,1962,N/A,Male,FORD-K
+39,Bungoma,217,Sirisia,Nyongesa,Jonathan Namulala,1286073,1956,N/A,Male,FORD-K
+39,Bungoma,222,Webuye West,Sitati,Peter Juma,23852295,1982,N/A,Male,FORD-K
+39,Bungoma,222,Webuye West,Ndukuyu,Arnold Cheloti,21595625,1978,N/A,Male,FORD-K
+39,Bungoma,221,Webuye East,Chelongo,Job Wafula,10430819,1969,N/A,Male,FORD-K
+39,Bungoma,221,Webuye East,Alips,Lusamoywa Butiya,11019444,1972,N/A,Male,FORD-K
+39,Bungoma,221,Webuye East,Mutaki,Irene Naswa,29129680,1991,N/A,Female,FORD-K
+39,Bungoma,221,Webuye East,Chetekei,Mike Makhakha,5793757,1963,N/A,Male,FORD-K
+39,Bungoma,221,Webuye East,Wekesa,Alfred,,,N/A,Male,FORD-K
+26,Trans Nzoia,138,Saboti,Mutacho,Wafula Omar,9720736,1969,N/A,Male,FORD-K
+26,Trans Nzoia,138,Saboti,Khisa,Joseph Pepela,22335113,1980,N/A,Male,FORD-K
+26,Trans Nzoia,138,Saboti,Nangulu,William Sakari,8415120,1964,N/A,Male,FORD-K
+26,Trans Nzoia,138,Saboti,Mukhwana,Kennedy Simiyu,10747251,1968,N/A,Male,FORD-K
+26,Trans Nzoia,136,Kwanza,Nasongo,Jacob,21726078,1979,N/A,Male,FORD-K
+26,Trans Nzoia,136,Kwanza,Wanyonyi,Hon. Ferdinand K.,965873,1949,N/A,Male,FORD-K
+26,Trans Nzoia,137,Endebess,Moiben,Paul Kisoro,11180279,1972,N/A,Male,FORD-K
+26,Trans Nzoia,137,Endebess,Kapten,Philip,10960411,1971,N/A,Male,FORD-K
+26,Trans Nzoia,140,Cherangany,Milimo,Benson Wekesa,22366259,1979,N/A,Male,FORD-K
+26,Trans Nzoia,140,Cherangany,Barasa,Patrick Simiyu,10747703,1968,N/A,Male,FORD-K
+26,Trans Nzoia,140,Cherangany,Kibebe,Michael Wafula,20019922,1978,N/A,Male,FORD-K
+47,Nairobi,282,Embakasi South,Obanyi,David Ombese,20748132,1978,N/A,Male,FORD-K
+47,Nairobi,282,Embakasi South,Ondieki,Evans,7581038,1978,N/A,Male,FORD-K
+1,Mombasa,2,Jomvu,Wepukhulu,Jonathan,23682507,1983,N/A,Male,FORD-K
+1,Mombasa,2,Jomvu,Nzai,Karisa Munyika,,,N/A,Male,FORD-K
+1,Mombasa,2,Jomvu,Kajembe,Mwidani Ramadhan,23902507,1984,N/A,Male,FORD-K
+45,Kisii,265,Bomachoge Chache,Omwega,Andrew Mbaka,1582541,1957,N/A,Male,FORD-K
+4,Kisii,265,Bomachoge Chache,Aminga,George,11854731,1948,N/A,Male,FORD-K
+37,Kakamega,204,Navakholo,Mayende,Leonard,11042650,1972,N/A,Male,FORD-K
+37,Kakamega,204,Navakholo,Karakacha,Livingstone Wawire,22530414,1982,N/A,Male,FORD-K
+37,Kakamega,199,Lugari,Lunani,Joseph Karungani,22963684,1982,N/A,Male,FORD-K
+37,Kakamega,199,Lugari,Mwange,Patrick Sande,22217984,1981,N/A,Male,FORD-K
+37,Kakamega,210,Ikolomani,Musindi,David Muyonga,393088,1958,N/A,Male,FORD-K
+37,Kakamega,210,Ikolomani,Mbapale,David Liyayi,5632060,1947,N/A,Male,FORD-K
+12,Meru,52,Igembe Central,Kiili,Daniel Karitho,12892774,1971,None,Male,PNU
+12,Meru,52,Igembe Central,M’ajoi,Jacob Mati,2445716,1975,None,Male,PNU
+12,Meru,53,Igembe North,M’mithiaru,Ntoitha,970753,1950,None,Male,PNU
+12,Meru,53,Igembe North,Kathurima,Naftaly,24092590,1984,None,Male,PNU
+46,Nyamira,272,North Mugirango,Onsongo,George Moraro,11526879,1973,None,Male,PNU
+46,Nyamira,272,North Mugirango,Nyaegah,John Ouru,9405050,1970,None,Male,PNU
+8,Wajir,34,Wajir East,Issack,Ismael S,11224267,1975,None,Male,PNU
+8,Wajir,34,Wajir East,Ahmed,Adan Mohamed,9565123,1970,None,Male,PNU
+39,Bungoma,222,Webuye West,Kane,Barasa Jonathan,2091583,04-04-1960,ND,Male,Amani
+39,Bungoma,223,Kimilili,Benard,Chris Kikechi,21822568,01-01-1980,ND,Male,Amani
+39,Bungoma,218,Kabuchai,Makokha,Evans Wafula,10857213,-,D,Male,Amani
+39,Bungoma,220,Kanduyi,Fredrick,Wambanda Wafula,8406196,01-01-1964,D,Male,Amani
+39,Bungoma,220,Kanduyi,Kimtai,Gemenet Kwembo,21716756,-,No,Male,Amani
+39,Bungoma,221,Webuye East,Sambu,Benard Alfred Wekesa,3491801,09-26-1944,ND,Male,Amani
+39,Bungoma,222,Webuye West,Wanjala,John,12846061,-,ND,Male,Amani
+39,Bungoma,222,Webuye West,Nyongesa,Michael Walekhwa,23003322,04-11-1983,ND,Male,Amani
+39,Bungoma,217,Sirisia,Mallabah,Munoko Robert,1287550,01-09-1962,ND,Male,Amani
+39,Bungoma,218,Kabuchai,Kisiangani,Natwati Robert,10857004,-,No,Male,Amani
+39,Bungoma,220,Kanduyi,Nyongesa,Noel Makeni,27847836,12-24-1985,ND,Male,Amani
+39,Bungoma,222,Webuye West,Wamoto,Philip Simiyu,2078035,06-09-1962,ND,Male,Amani
+39,Bungoma,222,Webuye West,Musungu,Ronald Nato Simiyu,10431498,01-01-1969,ND,Male,Amani
+39,Bungoma,222,Webuye West,Musebe,Vitalis Juma,2093101,12-18-1956,D,Male,Amani
+39,Bungoma,222,Webuye West,Wafula,Wanyonyi Charles,22308223,05-07-1981,ND,Male,Amani
+39,Bungoma,223,Kimilili,Wenyaa,John,-,-,D,Male,Amani
+39,Bungoma,223,Kimilili,Wanyama,Peter Makokha,20256393,01-01-1978,ND,Male,Amani
+39,Bungoma,217,Sirisia,S. Wataka,Wangusi Joseph,10430195,07-15-1968,ND,Male,Amani
+39,Bungoma,223,Kimilili,Masinde,Edwin Wanyonyi,5636347,05-11-1958,ND,Male,Amani
+39,Bungoma,222,Webuye West,Wafula,Steve Biko,A193923,07-06-1979,ND,Male,Amani
+39,Bungoma,219,Bumula,Wachana,Paul Cephas,9902381,12-14-1969,ND,Male,Amani
+39,Bungoma,224,Tongaren,Sifuna,Nixon  Wanyama,10431403,05-03-1970,ND,Male,Amani
+39,Bungoma,218,Kabuchai,Waliaula,Rodgers Nalianya,13858561,11-07-1976,ND,Male,Amani
+39,Bungoma,219,Bumula,Luketelo,Augustine Kundu,6876181,01-01-1966,ND,Male,Amani
+40,Busia,225,Teso North,Emurugat,Moses Levi,1831241,05-01-1959,ND,Male,Amani
+40,Busia,231,Budalangi,Namangare,Buluma Patrick,10956188,05-25-1969,ND,Male,Amani
+40,Busia,229,Butula,Aconsilia,Makokha Mary,8726750,10-11-1963,ND,Female,Amani
+40,Busia,228,Matayos,Nakhabi,Bunnett Catherine,21175590,07-07-1978,ND,Female,Amani
+40,Busia,227,Nambale,Bunyasi,John Sakwa,24158414,08-31-1946,ND,Male,Amani
+40,Busia,226,Teso South,Edung'lot,Musumba Denzil,22922078,12-25-1981,ND,Male,Amani
+40,Busia,225,Teso North,Papah,Shem Isubah,2067306,-,ND,Male,Amani
+40,Busia,229,Butula,Odhiambo,Alfred Bwire,4716537,03-30-1950,ND,Male,Amani
+40,Busia,230,Funyula,Oseno,Mark Hanningtone,20168487,01-01-1977,ND,Male,Amani
+40,Busia,225,Teso North,Kaunya,Edward Oku,4212130,01-01-1963,ND,Male,Amani
+40,Busia,231,Budalangi,Odwori,Isaac Oundo,13416052,12-17-1974,ND,Male,Amani
+7,Garissa,27,Garissa Township,Mohammed,Capt.Abdi Yare,1261213,10-10-1966,ND,Male,Amani
+7,Garissa,29,Lagdera,Saytun,Abdulqani,21769517,12-15-1978,ND,Male,Amani
+43,Homa Bay,249,Homa Bay Town,Ochieng,Boniface Awuor,20977081,07-20-1978,ND,Male,Amani
+43,Homa Bay,246,Kabondo Kasipul,Okoth,Vincent Erick Nyandiko,27769139,10-14-1990,ND,Male,Amani
+43,Homa Bay,251,Mbita,Odhiambo,Noah Anyango,23107060,02-22-1982,ND,Male,Amani
+43,Homa Bay,250,Ndhiwa,Ojode,Mary Auor,7949067,01-01-1966,ND,Female,Amani
+11,Isiolo,50,Isiolo South,Tubi,Bidu Mohamed,5035364,01-01-1958,ND,Male,Amani
+34,Kajiado,185,Kajiado East,Mbatiany,Nakudh Kennedy,20167936,01-01-1976,ND,Male,Amani
+37,Kakamega,207,Butere,Nicholas,Mwale Tindi,24602512,04-11-1986,ND,Male,Amani
+37,Kakamega,210,Ikolomani,Amulyoto,Alex,7330101,01-01-1958,ND,Male,Amani
+37,Kakamega,210,Ikolomani,Ramadhani,Butichi Khamisi,23180045,11-06-1982,ND,Male,Amani
+37,Kakamega,208,Khwisero,Aseka,Christopher Wangaya,22097388,12-29-1979,ND,Male,Amani
+37,Kakamega,200,Likuyani,Luseno,Charles Avugwi,4829893,02-02-1958,ND,Male,Amani
+37,Kakamega,200,Likuyani,Isiaho,Evans Musungu,8036187,01-08-1965,ND,Male,Amani
+37,Kakamega,200,Likuyani,Taracha,Evans Nabwera,4831056,01-01-1958,ND,Male,Amani
+37,Kakamega,200,Likuyani,Lidaga,Kyadiva Bright,22370148,03-22-1980,ND,Male,Amani
+37,Kakamega,199,Lugari,Savula,Angatia Ayub,13579060,03-03-1975,ND,Male,Amani
+37,Kakamega,202,Lurambi,Khamala,Mukhwana Titus,10884777,04-26-1971,ND,Male,Amani
+37,Kakamega,202,Lurambi,Liyundi,Anthony,-1,,D,Male,Amani
+37,Kakamega,201,Malava,Shaviya,Isaac Mudogo,1945250,05-29-1959,ND,Male,Amani
+37,Kakamega,201,Malava,Sunguti,Caleb Amondo,4176861,03-27-1963,ND,Male,Amani
+37,Kakamega,206,Matungu,Lutta,Charles Kasamani,1044484,04-30-1958,ND,Male,Amani
+37,Kakamega,206,Matungu,Tongwa,Echesa Rajab,35414179,08-08-1972,ND,Male,Amani
+37,Kakamega,206,Matungu,Murunga,Justus Makokha,925690,01-01-1960,ND,Male,Amani
+37,Kakamega,206,Matungu,Musumba,Omondi Mathias,1812176,-,D,Male,Amani
+37,Kakamega,206,Matungu,Justine Beneah,Salalah Okumu,1931286,10-04-1955,ND,Male,Amani
+37,Kakamega,206,Matungu,Kubende,Stanslus Otieno,13164412,12-13-1973,ND,Male,Amani
+37,Kakamega,206,Matungu,Asomba,Evans Nasebe,21668662,09-20-1979,ND,Male,Amani
+37,Kakamega,205,Mumias East,David,Wamatsi Omusotsi,21128178,11-04-1978,ND,Male,Amani
+37,Kakamega,205,Mumias East,Were,Washika Rodgers,8019586,11-22-1963,ND,Male,Amani
+37,Kakamega,204,Mumias West,Mukolwe,Fadamulla Festo,8972181,01-01-1965,ND,Male,Amani
+37,Kakamega,204,Mumias West,Wangatia,Mukhwana Mohammed,974057,12-29-1951,ND,Male,Amani
+37,Kakamega,204,Mumias West,Makokha,Julius Odongo,6985466,11-20-1953,ND,Male,Amani
+37,Kakamega,203,Navakholo,Simbauni,Lawrence Ndombi,2302731,10-03-1961,ND,Male,Amani
+37,Kakamega,203,Navakholo,Jacob,Nanjakululu Wasai,11093075,-,ND,Male,Amani
+37,Kakamega,203,Navakholo,Moni,Simiyu Elphas,8812344,09-01-1965,ND,Male,Amani
+37,Kakamega,209,Shinyalu,Mambili,Meja Adrian,3337693,01-01-1956,ND,Male,Amani
+37,Kakamega,209,Shinyalu,Lung'aho,Lusuli Antony,6281886,-,No,Male,Amani
+37,Kakamega,209,Shinyalu,Muteshi,Muruli George,5647590,02-05-1960,ND,Male,Amani
+37,Kakamega,209,Shinyalu,Khasiani,Alexander Chimuma,548214,03-08-1955,ND,Male,Amani
+3,Kilifi,11,Kilifi North,Mwamuye,Edward Salehe,11641657,01-01-1973,ND,Male,Amani
+3,Kilifi,12,Kilifi South,Tokali,Alphonce Mwambura,2212484,06-16-1959,ND,Male,Amani
+3,Kilifi,13,Kaloleni,Kaindi,Kitsao,14498874,09-08-1972,D,Male,Amani
+3,Kilifi,17,Magarini,Menza,Mwalimu Katana,22174402,02-15-1981,ND,Male,Amani
+3,Kilifi,17,Magarini,Mwambura,Alphonce,-,-,ND,-,Amani
+45,Kisii,266,Nyaribari Masaba,Ondimu,Abel Sagini,1710210,12-02-1960,D,Male,Amani
+45,Kisii,268,Kitutu Chache North,Richard,Kwanga Mwebi,22672581,-,D,Male,Amani
+45,Kisii,264,Bobasi,Mogoa,Luka Evans,20038976,06-30-1977,ND,Male,Amani
+45,Kisii,265,Bomachoge Chache,Nyagaka,Matoke Abdalla,10785699,01-01-1971,ND,Male,Amani
+45,Kisii,269,Kitutu Chache South,Onsongo,Mochoge Justus,63884,01-08-1961,ND,Male,Amani
+45,Kisii,268,Kitutu Chache North,Rasugu,Nyaoga Daniel,7008451,-,D,Male,Amani
+45,Kisii,262,South Mugirango,Alex Mauti,Ogonda Wilson,2060380,-,D,Male,Amani
+45,Kisii,272,North Mugirango,Maina,Kepha Keengwe,-,-,No,Male,Amani
+45,Kisii,262,South Mugirango,Onderi,Moses,-,-,ND,Male,Amani
+45,Kisii,269,Kitutu Chache South,Kegoro,James Onkangi,21332977,01-23-1977,ND,Male,Amani
+45,Kisii,263,Bomachoge Borabu,Mugoi,Getrude,-1,-,ND,Female,Amani
+45,Kisii,263,Bomachoge Borabu,Mogoi,Nyatich Getrudah,22403792,08-06-1982,ND,Female,Amani
+45,Kisii,265,Bomachoge Chache,Kibegwa,Nehemiah Oyunge,26389877,-,No,Male,Amani
+45,Kisii,267,Nyaribari Chache,Robert,Monda Onsare,1640646,07-11-1959,ND,Male,Amani
+45,Kisii,266,Nyaribari Masaba,Machogu,Ezekiel Ombaki,4829173,01-01-1956,ND,Male,Amani
+42,Kisumu,243,Muhoroni,Obera,John,13788276,-,No,Male,Amani
+42,Kisumu,243,Muhoroni,Anyango,Obare George,30441358,-,No,Male,Amani
+42,Kisumu,238,Kisumu East,Oloo,Kabaka Nelson,7842622,09-17-1958,ND,Male,Amani
+15,Kitui,70,Kitui West,Kamwithi,Nyanu Lewis,24068147,-,D,Male,Amani
+15,Kitui,70,Kitui West,Mulwa,Dennis Muli,22333909,08-07-1980,ND,Male,Amani
+2,Kwale,8,Lungalunga,Ngome,Stephen Mkaila,11243648,01-01-1970,D,Male,Amani
+2,Kwale,9,Matuga,Tandaza,Kassim Sawa,8409181,09-26-1996,ND,Male,Amani
+16,Machakos,75,Masinga,Kitonyi,Nzioka,11361075,-,ND,Male,Amani
+16,Machakos,81,Machakos Town,Mutiso,Philip Musyoka,27626510,02-26-1990,ND,Male,Amani
+9,Mandera,43,Mandera East,Ali,Mohamed,11192583,-,No,Male,Amani
+44,Migori,260,Kuria East,Mwita,Maroa Wilson,10822169,02-25-1970,D,Male,Amani
+44,Migori,255,Suna East,Odipo,Patrick Ochieng,13381513,01-01-1974,ND,Male,Amani
+44,Migori,256,Suna West,Obwanda,Michael Odhiambo,6099558,01-01-1966,ND,Male,Amani
+44,Migori,258,Nyatike,Orem,Zacharia Adendi,13185199,08-22-1973,ND,Male,Amani
+44,Migori,259,Kuria West,Bohoko,Samson  Matiko,6550749,-,ND,Male,Amani
+1,Mombasa,2,Jomvu,Abdalla,Chande Saidi,8452959,04-25-1966,D,Male,Amani
+1,Mombasa,6,Mvita,Walele,John,24044610,-,No,,Amani
+1,Mombasa,5,Likoni,Odhiambo,Benard Waore,9987363,01-01-1968,ND,Male,Amani
+1,Mombasa,4,Nyali,Lunani,Kelvin Kwena,13170713,-,No,Male,Amani
+47,Nairobi,281,Ruaraka,Otsieno,Maurice,4256586,1964/11/0,ND,Male,Amani
+47,Nairobi,284,Langata,Kipkemboi,William Kirwa,9253993,2017/12/,D,Male,Amani
+47,Nairobi,274,Westlands,Amin Sadrudin,Walji Ashif,10976624,1972/01/0,ND,Male,Amani
+47,Nairobi,290,Mathare,Maelo,Maurice Mutimba,7031983,1964/12/,ND,Male,Amani
+47,Nairobi,284,Embakasi Central,Wanjala,Newton,8299729,1965/02/,ND,Male,Amani
+47,Nairobi,275,Dagoretti North,Wandiri,Babandege Dickson,9731476,01-01-1969,ND,Male,Amani
+47,Nairobi,275,Dagoretti  North,Gumo,Magero,A2448470,10-27-1971,ND,Male,Amani
+47,Nairobi,275,Dagoretti North,Luhambo,Khalwale Wilberforce,6971736,02-01-1964,ND,Male,Amani
+47,Nairobi,275,Dagoretti North,Kayange,Machayo Hardely,21778069,01-03-1980,ND,Male,Amani
+47,Nairobi,275,Dagoretti North,Richard,Etemesi,41799683,,ND,Male,Amani
+47,Nairobi,275,Dagoretti North,Shilibwa,Benard,13362860,01-16-1972,ND,Male,Amani
+38,Vihiga,214,Luanda,Alwaka,Tom Oscar,9914510,07-19-1969,Nd,Male,Amani
+38,Vihiga,214,Luanda,Apungu,Arthur Kibia,564873,11-29-1952,Nd,Male,Amani
+38,Vihiga,214,Luanda,Alinyo,John Collins,5112545,,Nd,Male,Amani
+38,Vihiga,212,Sabatia,Agoi Masadia,Hon. Alfred,5274638,12-12-1965,Nd,Male,Amani
+38,Vihiga,215,Emuhaya,Nyamanga,Attalo Stephen,7112246,01-01-1950,Nd,Male,Amani
+38,Vihiga,215,Emuhaya,Milemba,Omboko,9917556,03-03-1969,Nd,Male,Amani
+38,Vihiga,211,Vihiga,Gwadoya,Wilberforce Kitiezo,23143433,05-21-1983,Nd,Male,Amani
+38,Vihiga,211,Vihiga,Kivai,Ernest Ogesi,4827761,07-27-1958,Nd,Male,Amani
+38,Vihiga,211,Vihiga,Kegode,Voltaire Mulonga,77,09-25-1962,Nd,Male,Amani
+38,Vihiga,211,Vihiga,Shogobe,Zubeir Ubwoyeze,6229545,01-01-1963,Nd,Male,Amani
+38,Vihiga,213,Hamisi,Muturi,Dumbeyia Harun,11684186,01-02-1974,Nd,Male,Amani
+15,Kitui,74,Kitui South,Muoki,Isaac Mulatya,3463571,1956,None,Male,Wiper
+15,Kitui,69,Mwingi Central,Mulyungi,Gideon Mutemi,9147067,1969,None,Male,Wiper
+15,Kitui,69,Mwingi Central,Mutua,Eric Kyalo,10434586,1970,None,Male,Wiper
+15,Kitui,67,Mwingi North,Mwangangi,Patrick Muthui,13094275,1972,None,Male,Wiper
+15,Kitui,67,Mwingi North,Mutua,Grace Muthoni,9819434,1968,None,Female,Wiper
+15,Kitui,68,Mwingi West,Kitungi,Benard Munywoki,2104854,1952,None,Male,Wiper
+15,Kitui,68,Mwingi West,Mwangangi,Munyoki,10879970,1969,None,Male,Wiper
+15,Kitui,68,Mwingi West,Nguna,Charles,22544107,1979,None,Male,Wiper
+15,Kitui,68,Mwingi West,Kang'e,Kyuu,974472,1960,None,Male,Wiper
+15,Kitui,71,Kitui Rural,Nyamai,Charles Mutisya,3194423,1961,None,Male,Wiper
+15,Kitui,70,Kitui West,Nyenze,Francis Mwanzia,84572,1957,None,Male,Wiper
+15,Kitui,69,Mwingi Central,Mutemi,Joseph Musikali,524548,1954,None,Male,Wiper
+15,Kitui,72,Kitui Central,Mulu,Benson Makali,4416659,1965,None,Male,Wiper
+15,Kitui,73,Kitui East,Muluvi,Marcus Mutua,403156,1959,None,Male,Wiper
+15,Kitui,74,Kitui South,Moki,Kennedy,14455671,1976,None,Male,Wiper
+15,Kitui,67,Mwingi North,Muthami,Ezekiel Mulwa Mbusi,25911273,1986,None,Male,Wiper
+15,Kitui,67,Mwingi North,Nzengu,Paul Musyimi,13097357,1974,None,Male,Wiper
+15,Kitui,67,Mwingi North,Makau,John Muneeni,10434809,1969,None,Male,Wiper
+16,Machakos,82,Mwala,Ngengele,Urbanus Mutunga Muthama,20734533,1977,None,Male,Wiper
+16,Machakos,76,Yatta,Mutua,James Mutiso,21853946,1979,None,Male,Wiper
+16,Machakos,81,Machakos Town,Kalla,Jackson Musyoka,14455343,1976,None,Male,Wiper
+16,Machakos,77,Kangundo,Maweu,Kyengo Katatha,A2403816,1949,None,Male,Wiper
+16,Machakos,80,Mavoko,King'ola,Patrick Makau,8557921,1967,None,Male,Wiper
+16,Machakos,75,Masinga,Mbithi,Mwalyo Joshua,1812072,1957,None,Male,Wiper
+16,Machakos,79,Kathiani,Mbui,Robert,9851604,1968,None,Male,Wiper
+16,Machakos,81,Machakos Town,Mutisya,Albanus Paul,1804316,1955,None,Male,Wiper
+16,Machakos,75,Masinga,Mwanza,Lawrence Maingi,10818562,1970,None,Male,Wiper
+16,Machakos,75,Masinga,Muinde,Isaac Mutuku,11624520,1973,None,Male,Wiper
+16,Machakos,75,Masinga,Kisulu,Festus Kivata,797719,1957,None,Male,Wiper
+16,Machakos,78,Matungulu,Okwe,Stephen  Mule,13637662,1975,None,Male,Wiper
+16,Machakos,82,Mwala,Muoki,Daniel Mutua,1912721,1953,None,Male,Wiper
+17,Makueni,85,Kaiti,Kawive,Nicholas Wambua,11271638,1972,None,Male,Wiper
+18,Makueni,87,Kibwezi West,Mbaluka,James Kimanthi,22912043,1983,None,Male,Wiper
+19,Makueni,87,Kibwezi West,Kisimbi,Juliana Mumo,12771196,1976,None,Female,Wiper
+20,Makueni,83,Mbooni,Mboloi,Martin,7794407,1965,None,Male,Wiper
+21,Makueni,88,Kibwezi East,Mbalu,Jessica Nduku Kioko,13712658,1976,None,Female,Wiper
+22,Makueni,84,Kilome,Nzambia,Thuddeus Kithua,21438649,1979,None,Male,Wiper
+23,Makueni,83,Mbooni,Nzioka,Erastus Kivasu,6051284,1962,None,Male,Wiper
+24,Makueni,86,Makueni,Maanzo,Daniel Kitonga,13298393,1973,None,Male,Wiper
+25,Makueni,85,Kaiti,Kimilu,Joshua Kivinda,22967714,1982,None,Male,Wiper
+26,Makueni,84,Kilome,Kinyili,Salome Syomweu,7272251,1965,None,Female,Wiper
+27,Makueni,83,Mbooni,Mutinga,Mary Mbiu Mumbua,1876688,1962,None,Female,Wiper
+28,Makueni,84,Kilome,Muli,Cleophus  Salu,22329206,1980,None,Male,Wiper
+39,Bungoma,222,Webuye West,Wasike,Oliver Wakoli,8025873,1966,None,Male,Wiper
+40,Busia,229,Butula,Musundi,Jophinus Makokha,7896511,1964,None,Male,Wiper
+40,Busia,225,Teso North,Okademi,Fredrick  Papa,7523288,1962,None,Male,Wiper
+28,Elgeyo/Marakwet,148,Marakwet West,Tangus,Mary Chepchirchir,6674670,1963,None,Female,Wiper
+7,Garissa,32,Ijara,Korio,Abdi Aden,11884705,1973,None,Male,Wiper
+7,Garissa,27,Township,Maalim,Farah,5334719,1956,None,Male,Wiper
+7,Garissa,31,Fafi,Kolow,Idriss Sahal,188473,1961,None,Male,Wiper
+43,Homabay,245,Kasipul,Nyakongo,John Omollo,7948189,1965,None,Male,Wiper
+11,Isiolo,49,Isiolo North,Abdula,Ali Dida,11888744,1970,None,Male,Wiper
+11,Isiolo,50,Isiolo South,Jattan,Omar Wako,27585778,1988,None,Male,Wiper
+34,Kajiado,185,Kajiado East,Parseina,David Mingati,23472727,1983,None,Male,Wiper
+34,Kajiado,183,Kajiado North,Ntoiyan,Peter  Musei,14473698,1975,None,Male,Wiper
+34,Kajiado,186,Kajiado West,Nemangai,Gabriel Mbarie,22404191,1980,None,Male,Wiper
+37,Kakamega,201,Malava,Shimak,John,569542,1960,None,Male,Wiper
+3,Kilifi,17,Magarini,Nguma,Fredrick Kasiwa,4993378,1964,None,Male,Wiper
+3,Kilifi,16,Malindi,Ogelo,Rashid Odhiambo,13484980,1974,None,Male,Wiper
+3,Kilifi,12,Kilifi South,Lewah,James Ghituto,11262756,1970,None,Male,Wiper
+3,Kilifi,13,Kaloleni,Mwaro,Harry Mueri,5522978,1963,None,Male,Wiper
+3,Kilifi,11,Kilifi North,Chai,Eliud Kalama,22574763,1981,None,Male,Wiper
+45,Kisii,264,Bobasi,Obwogi,Richard,21826615,1980,None,Male,Wiper
+45,Kisii,269,Kitutu Chache South,Maubi,Andrew Mokaya,23426436,1984,None,Male,Wiper
+45,Kisii,268,Kitutu Chache North,Asuma,Paul Onsomu,305310,1948,None,Male,Wiper
+45,Kisii,263,Bomachoge Borabu,Ondiba,Duke Mainga,29618591,1992,None,Male,Wiper
+45,Kisii,267,Nyaribari Chache,Jhanda,Zaheer,20365612,1979,None,Male,Wiper
+2,Kwale,9,Matuga,Mwarora,Athman Salim,5412321,1962,None,Male,Wiper
+2,Kwale,7,Msambweni,Mwakulonda,Ali Hassan,9881220,1969,None,Male,Wiper
+2,Kwale,8,Lunga Lunga,Pojjo,Kassim Mwapojjo,1113843,1971,None,Male,Wiper
+1,Mombasa,1,Changamwe,Mulinge,Francis Munyao,1905317,1957,None,Male,Wiper
+1,Mombasa,1,Changamwe,Muange,Daniel Munyao,59316065,1969,None,Male,Wiper
+1,Mombasa,2,Jomvu,Hezron,Shipeta Mathias,26051158,1986,None,Male,Wiper
+1,Mombasa,3,Kisauni,Menza,Ali  Mbogo,10093245,1969,None,Male,Wiper
+1,Mombasa,4,Nyali,Ouma,Geoffrey Ochieng,23517112,1984,None,Male,Wiper
+1,Mombasa,4,Nyali,Mcharo,John Charles,8621524,1968,None,Male,Wiper
+1,Mombasa,1,Changamwe,Mittau,Peterson,1150168,1961,None,Male,Wiper
+1,Mombasa,5,Likoni,Shakombo,Suleimani Rashid,2820001,1940,None,Male,Wiper
+47,Nairobi,282,Embakasi South,Musyoka,Jairus Mulei,5923331,1968,None,Male,Wiper
+48,Nairobi,288,Kamukunji,Ahmed,Ibrahim,1260914,1967,None,Male,Wiper
+49,Nairobi,277,Lang'ata,Sijeny,Judith Achieng,5598774,1965,None,Female,Wiper
+50,Nairobi,282,Embakasi South,Mawathe,Julius Musili,3342493,1961,None,Male,Wiper
+51,Nairobi,285,Embakasi East,Mohammed,Jibril Abdow Haji,21483010,1977,None,Male,Wiper
+33,Narok,179,Narok North,Kamwaro,Martin Ole,9175479,1966,None,Male,Wiper
+43,Nyamira,272,North Mugirango,Nyaribo,Isaiah Osoro,8225918,1955,None,Male,Wiper
+44,Nyamira,271,West Mugirango,Mogaka,Stephen,830711,1963,None,Male,Wiper
+45,Nyamira,272,North Mugirango,Moturi,Zachary Nyayiemi,345739,1950,None,Male,Wiper
+46,Nyamira,270,Kitutu Masaba,Ogeto,Victor Swanya,406555,1959,None,Male,Wiper
+46,Nyamira,273,Borabu,Momanyi,Ben George Orori,11322334,1972,None,Male,Wiper
+6,Taita Taveta,23,Taveta,Okwemba,Stephen Oddiaga,8416719,1965,None,Male,Wiper
+6,Taita Taveta,24,Wundanyi,Mwakuwona,Danson Mwashako,21630404,1978,None,Male,Wiper
+4,Tana River,18,Garsen,Guyo,Ali Wario,21585244,1979,None,Male,Wiper
+4,Tana River,20,Bura,Dube,Mohamed Hassan,22621562,1983,None,Male,Wiper
+23,Turkana,123,Turkana North,Nabiun,Paul Ekwom,14448648,1977,None,Male,Wiper
+23,Turkana,127,Turkana South,Aule,John Lokale,7489064,1967,None,Male,Wiper
+23,Turkana,128,Turkana East,Loluch,Robert Kamaro,13425065,1974,None,Male,Wiper
+8,Wajir,34,Wajir East,Amin,Rashid Kassim,53514,1959,None,Male,Wiper
+8,Wajir,36,Wajir West,Elmi,Mohammed Yussuf,52505,1958,None,Male,Wiper
+45,Kisii,262,South Mugirango,Mogendi,Lilian Nyabonyi,9970766,1968,None,Female,Wiper
+45,Kisii,266,Nyaribari Masaba,Chweya,Laban Matoke,21808249,1980,None,Male,Wiper
+38,Vihiga,212,Sabatia,Musalia,Wellington Edebe,5129308,23/04/1961,Not Provided,Male,Progressive Party
+38,Vihiga,212,Sabatia,Mulamba,Aggrey Nyareso,6878954,6/9/1961,Not Provided,Male,Progressive Party
+38,Vihiga,212,Sabatia,Lavatsa,Peter Kabwoya,4184975,30/04/1963,Not Provided,Male,Progressive Party
+36,Bomet,198,Konoin,Kirui,Leonard,20176660,1976,No,Male,Chama Cha Mashinani
+36,Bomet,198,Konoin,Korir,Cosmas Kipngetich,22718250,1982,No,Male,Chama Cha Mashinani
+36,Bomet,197,Bomet Central,Soi,Stanely Kibet,235490,1955,No,Male,Chama Cha Mashinani
+36,Bomet,197,Bomet Central,Sigei,Wesley Kipkemoi,12928809,1971,No,Male,Chama Cha Mashinani
+36,Bomet,197,Bomet Central,Kirui,Arwet Dancel Kipngeno,31594196,1993,No,Male,Chama Cha Mashinani
+36,Bomet,197,Bomet Central,Rono,Gilbert Langat,24058095,1984,No,Male,Chama Cha Mashinani
+36,Bomet,196,Bomet East,Towett,David Kapkononden,3852204,1960,No,Male,Chama Cha Mashinani
+36,Bomet,196,Bomet East,Chepkirui,Janeth,24148684,1985,No,Female,Chama Cha Mashinani
+36,Bomet,196,Bomet East,Rotich,Robert Kipronoh,22872985,1982,No,Male,Chama Cha Mashinani
+36,Bomet,196,Bomet East,Kones,Kipngetich Kalya,20733876,1978,No,Male,Chama Cha Mashinani
+36,Bomet,194,Sotik,Rotich,Martin Mzito Kipkemoi,12479619,1974,No,Male,Chama Cha Mashinani
+36,Bomet,194,Sotik,Kimeto,Paul Kipsigei,11299071,1972,No,Male,Chama Cha Mashinani
+36,Bomet,194,Sotik,Ronoh,John Sitienei,788164,1957,No,Male,Chama Cha Mashinani
+36,Bomet,194,Sotik,Chepkwony,Patrick Kipngeno,28974822,1985,No,Male,Chama Cha Mashinani
+36,Bomet,194,Sotik,Sigey,Leonard Bett,24059891,1984,No,Male,Chama Cha Mashinani
+36,Bomet,195,Chepalungu,Koech,Victor Kipngetich,25841468,1986,No,Male,Chama Cha Mashinani
+36,Bomet,195,Chepalungu,Koskey,Gideon Kimutai,23533995,1984,No,Male,Chama Cha Mashinani
+45,Kisii,262,South Mugirango,Osoro,Sylvanus Anyiego,26936717,14/05/1989,None,Male,Kenya National Congress
+45,Kisii,262,South Mugirango,Sagero,Josephat Abaga Fan,9111702,01/01/1968,None,Male,Kenya National Congress
+45,Kisii,262,South Mugirango,Onderi,Wlfred Bisonga,8647956,15/02/1968,None,Male,Kenya National Congress
+15,Kitui,72,Kitui Central,Mwendwa,Benard,4694163,1965,,Male,NARC
+15,Kitui,72,Kitui Central,Kitonga,Paul Daudi,20228470,1978,,Male,NARC
+16,Machakos,77,Kangundo,Kituku,Ancent,20143453,1977,None,Male,Maendeleo Chap Chap
+16,Machakos,77,Kangundo,Matiku,Titus Nzeki,11647138,1973,None,Male,Maendeleo Chap Chap
+19,Nyeri,95,Kieni,Wanjohi,Francis,23945622,1985,None,Male,Maendeleo Chap Chap
+19,Nyeri,95,Kieni,Muriuki,Peter Maina,12778706,1974,None,Male,Maendeleo Chap Chap
+19,Nyeri,94,Tetu,Kamwaro,Antony Kariuki,21964543,1980,None,Male,Maendeleo Chap Chap
+19,Nyeri,94,Tetu,Kibuka,Kelvin Kimwatu,25692978,1988,None,Male,Maendeleo Chap Chap
+14,Embu,63,Manyatta,Njagi,Antony Njiru,21964543,1984,None,Male,Maendeleo Chap Chap
+14,Embu,63,Manyatta,Mwaniki,John Gitonga,25692978,1986,None,Male,Maendeleo Chap Chap
+12,Meru,54,Tigania West,Kiraithe,Gitonga,10970430,1970,None,Male,Maendeleo Chap Chap
+12,Meru,54,Tigania West,Kurauka,Henry,11488669,1972,None,Male,Maendeleo Chap Chap

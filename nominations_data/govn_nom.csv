@@ -1,0 +1,226 @@
+"County
+Code",County ,Surname,Other Name,ID. No.,YOB,PWD,Gender,Party
+1,Mombasa,Joho,Hassan Ali,11457905,,,Male,ODM
+2,Kwale,Kiperah,Issah Athuman,2196500,,,Male,ODM
+2,Kwale,Mwachai,Mwarapayo Mohamed,577654,,,Male,ODM
+2,Kwale,Ruwa,Sammy Nyamawi,20371740,,,Male,ODM
+2,Kwale,Dena,James Daniel Gereza,10422164,,,Male,ODM
+3,Kilifi,Kingi,Amason Jeffah Kingi,13447110,,,Male,ODM
+4,Tana River,Doddae,Godhana,8266432,,,Male,ODM
+4,Tana River,Dhidha,Adam Barissa Dhidha,21014980,,,Male,ODM
+5,Lamu,Fadhil,Abdalla Mohamed Abdalla,8524214,,,Male,ODM
+6,Taita Taveta,Mruttu,John ,4830662,,,Male,ODM
+6,Taita Taveta,Mwadeghu,Thomas Ludindi ,3450557,,,Male,ODM
+8,Wajir,Mohamad,Ahmed Abdullahi ,11224521,,,Male,ODM
+9,Mandera,Roba,Ali Ibrahim,13256235,3/15/1974,No,Male,JUBILEE  
+9,Mandera,Abdi,Mohamed Yussuf ,6253637,,,Male,ODM
+10,Marsabit,Ali,Mohamud Mohamed,12429087,6/19/1973,No,Male,JUBILEE  
+10,Marsabit,Wario,Ibrahim Dambi ,12430298,,,Male,ODM
+11,Isiolo,Kuti,Mohamed Abdi,76240,3/12/1964,No,Male,JUBILEE  
+11,Isiolo,Kuti,Mohamed Abdi,76240,3/12/1964,No,Male,JUBILEE  
+11,Isiolo,Ali,Abdul Bahari,367427,12/15/1963,No,Male,JUBILEE  
+11,Isiolo,Adhi,Godana Doyo,8205340,5/25/1968,No,Male,JUBILEE  
+11,Isiolo,Ali,Abdul Bahari,367427,12/15/1963,No,Male,JUBILEE  
+11,Isiolo,Adhi,Godana Doyo,8205340,5/25/1968,No,Male,JUBILEE  
+11,Isiolo,Kabelo,Adan Wario ,9854124,,,Male,ODM
+12,Meru,Murungi,Kiraitu,3461793,1/1/1952,No,Male,JUBILEE  
+13,Tharaka - Nithi,M'nkiria,Petkay Shen Miriti,4438555,9/1/1949,No,Male,JUBILEE  
+13,Tharaka - Nithi,Njuki,Onesmus Muthomi,10043460,3/3/1968,No,Male,JUBILEE  
+13,Tharaka - Nithi,Kathee,Kathee Gwa ,2447344,,,Male,ODM
+14,Embu,Wambora,Martin Nyaga,5945719,4/9/1951,No,Male,JUBILEE  
+14,Embu,Mbarire,Cecily Mutitu,11584953,12/26/1972,No,Female,JUBILEE  
+18,Nyandarua,Kirika,Waithaka Mwangi,342604,12/11/1957,No,Male,JUBILEE  
+18,Nyandarua,Gathimba,Peter Mwangi,341120,8/15/1956,No,Male,JUBILEE  
+18,Nyandarua,Kanyingi,Simon Waweru,10709316,9/23/1970,No,Male,JUBILEE  
+18,Nyandarua,Muriuki,Muriuki Karue,6445484,8/31/1950,No,Male,JUBILEE  
+18,Nyandarua,Kiarie,Moses Ndirangu Badilisha,7400119,1/1/1965,No,Male,JUBILEE  
+18,Nyandarua,Kimemia,Francis Thuita,4828987,10/13/1957,No,Male,JUBILEE  
+18,Nyandarua,Mwangi,Daniel Waithaka,16069491,1/1/1945,No,Male,JUBILEE  
+19,Nyeri,Cocorico,Evanson Githinji Kinyanjui,14735470,10/21/1976,No,Male,JUBILEE  
+19,Nyeri,Kagwe,Mutahi,4827601,1/1/1958,No,Male,JUBILEE  
+19,Nyeri,Githaiga,Samuel Wamathai,1869823,3/7/1947,No,Male,JUBILEE  
+19,Nyeri,Gakuru,Patrick Wahome,8812847,4/4/1966,No,Male,JUBILEE  
+20,Kirinyaga,Ndathi,Joseph Kathuri,4828395,3/25/1955,No,Male,JUBILEE  
+20,Kirinyaga,Waiguru,Anne Mumbi,10863747,4/16/1971,No,Female,JUBILEE  
+20,Kirinyaga,Gitari,Joseph Gachoki,10649849,7/29/1970,No,Male,JUBILEE  
+20,Kirinyaga,Ngige,Eliud Wanjao,9187961,11/27/1967,No,Male,JUBILEE  
+20,Kirinyaga,Njiri,Julius Muthike,578331,,No,Male,JUBILEE  
+21,Murang'a,Kamau,Jamleck Irungu,8779514,5/10/1965,No,Male,JUBILEE  
+21,Murang'a,Mwangi,Wa-Iria,9949560,8/29/1968,No,Male,JUBILEE  
+21,Murang'a,Mbai,Joseph,11270791,9/20/1972,No,Male,JUBILEE  
+21,Murang'a,Gitura,James Kembi,4423862,11/21/1954,No,Male,JUBILEE  
+21,Murang'a,Kang'ata,Irungu,21775938,2/20/1980,No,Male,JUBILEE  
+21,Murang'a,Njangi,Peter Muiruri,1028796,5/28/1959,No,Male,JUBILEE  
+22,Kiambu,Gathogo,Eric Solomon Mungai,30327226,1/23/1994,No,Male,JUBILEE  
+22,Kiambu,Thangwa,Paul Karungo,21979996,1/31/1980,No,Male,JUBILEE  
+22,Kiambu,Njoroge,John Kabogo,22559396,2/4/1983,No,Male,JUBILEE  
+22,Kiambu,Wamatangi,Kimani Paul,B170136,6/8/1965,No,Male,JUBILEE  
+22,Kiambu,Kihu,Moshe Mutua,563485,2/21/1950,No,Male,JUBILEE  
+22,Kiambu,Nyanja,"George Bonface Njau
+Mbugua",4827842,7/27/1947,No,Male,JUBILEE  
+22,Kiambu,Ndehi,Margaret Wanjiru,6037167,4/1/1965,No,Female,JUBILEE  
+22,Kiambu,Ndabi,Stephen Ndichu,264198,5/28/1958,No,Male,JUBILEE  
+22,Kiambu,Kiama,Peter Wangai,10967225,9/26/1970,No,Male,JUBILEE  
+23,Turkana,Kaituko,Geoffrey Eyanae,12834968,10/30/1974,No,Male,JUBILEE  
+23,Turkana,Nanok,Josphat Koli ,10245497,,,Male,ODM
+24,West Pokot,Murgor,Julius Recha,7331645,5/15/1957,No,Male,JUBILEE  
+24,West Pokot,Andiema,Eunice Cheptoo,9169722,4/20/1973,No,Male,JUBILEE  
+25,Samburu,Lelegwe,Steve Ltumbesi,22789020,9/14/1981,No,Male,JUBILEE  
+25,Samburu,Lesirma,Simeon Saimanga ,680874,,,Male,ODM
+26,Trans Nzoia,Chemuigut,Peter Kiptanui,20022696,1/15/1976,No,Male,JUBILEE  
+26,Trans Nzoia,Kitiyo,Michael Francis Chemonges,3810836,7/15/1949,No,Male,JUBILEE  
+26,Trans Nzoia,Ndombi,John Lewis,141040,11/1/1956,No,Male,JUBILEE  
+26,Trans Nzoia,Kore,Stanley Kilimo,10745548,,No,Male,JUBILEE  
+26,Trans Nzoia,Mbito,Michael Maling`A,6635811,5/9/1967,No,Male,JUBILEE  
+27,Uasin Gishu,Lilan,Simon Chepsiror,10949681,2/28/1970,No,Male,JUBILEE  
+27,Uasin Gishu,Kapkiai,Victorine Jepkorir,22067762,9/8/1978,No,Female,JUBILEE  
+27,Uasin Gishu,Biwott,Philip Kimutai,10033322,2/21/1969,No,Male,JUBILEE  
+27,Uasin Gishu,Rono,Philip Meli,10960029,1/15/1972,No,Male,JUBILEE  
+27,Uasin Gishu,Rotich,Robert Kemei,13064684,2/3/1974,No,Male,JUBILEE  
+27,Uasin Gishu,Kamar,Margaret Jepkoech,287418,4/28/1959,No,Female,JUBILEE  
+27,Uasin Gishu,Kemei,William Kipkoech,3937162,3/8/2017,No,Male,JUBILEE  
+27,Uasin Gishu,Lagat,Joseph Kipchumba,10030578,8/13/1967,No,Male,JUBILEE  
+27,Uasin Gishu,Mutwol,Abraham Kipyego,13613383,8/8/1974,No,Male,JUBILEE  
+27,Uasin Gishu,Melly,Isaac Kipkemboi,21756124,2/2/1979,No,Male,JUBILEE  
+27,Uasin Gishu,Tuwei,Julius Tirop,13613124,5/11/1973,No,Male,JUBILEE  
+27,Uasin Gishu,Metto,Josiah Kipkemei,28440070,6/1/1991,No,Male,JUBILEE  
+27,Uasin Gishu,Sawe,David  Kipkogei,4905827,1/1/1955,No,Male,JUBILEE  
+27,Uasin Gishu,Rop,Alex,25888402,8/4/1988,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Kemboi,Benard Koech,12826353,7/25/1975,Yes,Male,JUBILEE  
+28,Elgeyo/Marakwet,Changwony,Moses Kiplagat,246642,12/12/1960,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Kiptanui,Jackson K,11063510,1/1/1972,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Cheboi,Livingstone,35959844,11/3/1974,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Tolgos,Alex Tanui,22000628,5/6/1980,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Kangogo,John Kipkosgei,878500,4/25/1960,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Murgor,Matthews Kipruto,5228205,7/4/1962,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Boit,Barnabas Kiplagat,22343777,12/12/1980,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Kibiwot,Michael Kipkorir,12828879,7/23/1976,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Murkomen,Onesimus Kipchumba,22025845,3/12/1979,No,Male,JUBILEE  
+28,Elgeyo/Marakwet,Biwott,Timothy Kipchumba ,4257146,,,Male,ODM
+29,Nandi,Sang,Stephen Kipyego,23692387,1/1/1985,No,Male,JUBILEE  
+29,Nandi,Misoi,Alphonse Kirwa,638467,4/21/1959,No,Male,JUBILEE  
+29,Nandi,Koskei,Felix Kiptarus,6665340,6/6/1964,No,Male,JUBILEE  
+29,Nandi,Kipruto,Silas,13692776,9/15/1975,Yes,Male,JUBILEE  
+29,Nandi,Lagat,Cleophas Kiprop,3247837,7/12/1961,No,Male,JUBILEE  
+29,Nandi,Mitei,Yulita Chebotip,10341245,1/18/1970,No,Female,JUBILEE  
+29,Nandi,Sang,Barnabas Kipchumba,14509916,12/24/1975,No,Male,JUBILEE  
+29,Nandi,Kosgey,Henry Kiprono A.,1276214,1/1/1947,No,Male,JUBILEE  
+29,Nandi,Kombora,Peter Kipkemboi Maiyo,1244687,3/15/1961,No,Male,JUBILEE  
+29,Nandi,Tarbei,Josphat Kipchumba,25088017,4/1/1985,No,Male,JUBILEE  
+29,Nandi,Biwott,Benson Kiprono,22028941,10/1/1980,No,Male,JUBILEE  
+29,Nandi,Mengech,Mary Jemutai,245941,2/13/1960,No,Female,JUBILEE  
+29,Nandi,Kolum,Shadrack Kipkemboi,14724314,7/7/1970,No,Male,JUBILEE  
+29,Nandi,Ruttoh,Stellah Chepkemboi,21357554,8/28/1978,No,Female,JUBILEE  
+29,Nandi,Kemboi,David Kipkorir,23368895,1/12/1984,No,Male,JUBILEE  
+29,Nandi,Leley,Ezekiel Kipkorir,22909666,9/2/1983,No,Male,JUBILEE  
+29,Nandi,Samson,Cherarkey Kiprotich,26393037,8/23/1988,No,Male,JUBILEE  
+29,Nandi,Sainna,Anne Jepkorir,456812,6/2/1949,No,Female,JUBILEE  
+29,Nandi,Kiptanui,Fredrick,4184792,5/13/1961,No,Male,JUBILEE  
+29,Nandi,Barchigei,Charles Tarwott,6420063,7/15/1956,No,Male,JUBILEE  
+29,Nandi,Kirwa,Gerald Kimutai,25698002,5/28/1988,No,Male,JUBILEE  
+29,Nandi,Some,Shadrack Kimeli Samoei,26478777,11/27/1988,No,Male,JUBILEE  
+29,Nandi,Maiyo,William Some,3290746,7/1/1962,No,Male,JUBILEE  
+29,Nandi,Tenai,Bonuves Kemei,9602907,8/26/1967,No,Male,JUBILEE  
+30,Baringo,Benjamin,Cheboi Chesire,928021,1/1/1958,No,Male,JUBILEE  
+30,Baringo,Kiptis,Stanley K,8892458,4/9/1965,No,Male,JUBILEE  
+30,Baringo,Chelagat,Saphina Jepkorir,10377781,9/13/1971,No,Female,JUBILEE  
+30,Baringo,Chelugui,Simon Kiprono,11187851,4/19/1971,No,Male,JUBILEE  
+30,Baringo,Ndoigo,Christine Jebichi,6104295,1/1/1964,No,Female,JUBILEE  
+31,Laikipia,Kabugi,Josphat Gitonga,6587138,11/22/1966,No,Male,JUBILEE  
+31,Laikipia,Mwaniki,John Mathenge,11410497,12/22/1973,No,Male,JUBILEE  
+31,Laikipia,Irungu,Joshua Wakahora,10732569,1/1/1970,No,Male,JUBILEE  
+31,Laikipia,Muriithi,Ndiritu,8823278,2/10/1967,No,Male,JUBILEE  
+31,Laikipia,Mwangi,Sam Thuita,3490167,4/15/1963,No,Male,JUBILEE  
+31,Laikipia,Kamau,Richard Mburu,4315922,11/4/1958,No,Male,JUBILEE  
+31,Laikipia,Mathenge,James Tarcisio Wambugu,9744726,6/26/1968,No,Male,JUBILEE  
+31,Laikipia,Kiago,Douglas Kiguru,10877419,12/27/1971,No,Male,JUBILEE  
+31,Laikipia,Kambuchwa,Samuel Irungu,13684885,1/1/1976,No,Male,JUBILEE  
+31,Laikipia,Mithamo,Simon Githui,5961024,8/22/1964,No,Male,JUBILEE  
+31,Laikipia,Gichuru,Simon Gathuo,24140212,7/21/1985,No,Male,JUBILEE  
+31,Laikipia,Githiri,James Nyaga John,1206627,1/1/1961,No,Male,JUBILEE  
+32,Nakuru,Mbugua,Kinuthia,400952,9/1/1953,No,Male,JUBILEE  
+32,Nakuru,Mututho,John Michael Njenga,8872873,5/28/2016,No,Male,JUBILEE  
+32,Nakuru,Kinyanjui,Lee Maiyani,12424725,1/1/1972,No,Male,JUBILEE  
+33,Narok,Tunai,Samuel Kuntai,8751741,10/15/1968,No,Male,JUBILEE  
+33,Narok,Musuni,Joseph Tiampati Ole,2302594,,,Male,ODM
+34,Kajiado,Gathogo,George Kingo'ri,5786029,11/26/1965,No,Male,JUBILEE  
+34,Kajiado,Lenku,Joseph Jama Ole,11187957,10/20/1970,No,Male,JUBILEE  
+34,Kajiado,Kores,Josiah Tarayia Kipelian,9831351,4/29/1970,No,Male,JUBILEE  
+34,Kajiado,Shukuru,Moses Parantai Ole,87037,6/14/1954,No,Male,JUBILEE  
+34,Kajiado,Nkedianye,David Kepue Ole,6115861,,,Male,ODM
+35,Kericho,Langat,Benjamin Kipkirui,20197421,1/1/1976,No,Male,JUBILEE  
+35,Kericho,Chepkwony,Paul Kiprono,10383147,11/10/1970,No,Male,JUBILEE  
+35,Kericho,Langat,Richard Kipkoech,8021432,10/23/1966,No,Male,JUBILEE  
+35,Kericho,Kipngetich,Fredrick Kirui,13021554,12/31/1974,No,Male,JUBILEE  
+36,Bomet,Mutai,Stephen Kipkoech,6635846,11/25/1965,No,Male,JUBILEE  
+36,Bomet,Kones,Julius Kipyegon,10990120,4/21/1972,No,Male,JUBILEE  
+36,Bomet,Abonyo,Joyce Cherono Laboso,736147,1/1/1960,No,Female,JUBILEE  
+37,Kakamega,Oparanya,Wycliffe A. ,4827856,,,Male,ODM
+38,Vihiga,Ottichilo,Wilber Khasilwa ,4831114,,,Male,ODM
+40,Busia,Ojaamong,Sospeter Odeke ,7513281,,,Male,ODM
+40,Busia,Otuoma,Paul ,7129467,,,Male,ODM
+41,Siaya,Amoth,Cornel Rasanga ,4828872,,,Male,ODM
+41,Siaya,Gumbo,Nicolas,4413967,,,Male,ODM
+41,Siaya,Oduol,William Odhiambo ,10809480,,,Male,ODM
+41,Siaya,Orege,Carey Okwiri ,4830853,,,Male,ODM
+42,Kisumu,Wayumba,Gordon Okumu ,4782925,,,Male,ODM
+42,Kisumu,Nyongo,Peter Anyang ,4829383,,,Male,ODM
+42,Kisumu,Mcobewa,Hezron Otieno ,14506172,,,Male,ODM
+42,Kisumu,Nyangara,Aomo Asaka ,10432115,,,Male,ODM
+42,Kisumu,Ranguma,Jack Nyanungo ,4435125,,,Male,ODM
+42,Kisumu,Ondiek,Christopher Otieno ,22741359,,,Male,ODM
+43,Homa Bay,Magwanga,Joseph Oyugi ,9749258,,,Male,ODM
+43,Homa Bay,Awiti,Cyprian A. Otieno,8376134,,,Male,ODM
+43,Homa Bay,Bolo,Enosh,12597627,,,Male,ODM
+43,Homa Bay,Wakiaga,Samwel Owino ,1200635,,,Male,ODM
+43,Homa Bay,Kanyadudi,Cosmas Joshua Ochieng,11214723,,,Male,ODM
+44,Migori,Obado,Zacharia Okoth ,2742774,,,Male,ODM
+44,Migori,Anyanga,Anne Omodho ,A1691403,,,Female,ODM
+44,Migori,George,Ochillo Mbogo Ayacko,10406837,,,Male,ODM
+44,Migori,Odola,Paul Odhiambo ,301210,,,Male,ODM
+45,Kisii,Obure,Christopher Mogere,1276255,9/29/1943,No,Male,JUBILEE  
+45,Kisii,Akunga,Alfred Nyangweso,11295608,7/28/1972,No,Male,JUBILEE  
+45,Kisii,Ongwae,James Elvis Omariba,6886144,,,Male,ODM
+46,Nyamira,Mochama,Charles Onsongo,8773420,9/18/1966,No,Male,JUBILEE  
+46,Nyamira,Osebe,Walter Enoch Nyambati,5992475,11/7/1950,No,Male,JUBILEE  
+46,Nyamira,Nyakiba,Erneo Mageto Moruri,4829933,1/1/1957,No,Male,JUBILEE  
+46,Nyamira,Nyagarama,John Obiero ,1643216,,,Male,ODM
+46,Nyamira,Gesami,James Ondicho ,4829570,,,Male,ODM
+46,Nyamira,Kumenda,Aboko John ,70309057,,,Male,ODM
+47,Nairobi,Kioko,Mike Sonko Mbuvi Gidion,12903104,4/1/1973,No,Male,JUBILEE  
+47,Nairobi,Kenneth,Peter,5781252,11/27/1965,No,Male,JUBILEE  
+47,Nairobi,Kariuki,Margaret Wanjiru,3469802,12/21/1961,No,Female,JUBILEE  
+47,Nairobi,Karubiu,James Karimi,3386179,5/8/1963,No,Male,JUBILEE  
+47,Nairobi,Ng'ang'a,Elias,21850766,6/10/1979,No,Male,JUBILEE  
+47,Nairobi,Kathigi,Kibugi,232343,2/28/1951,No,Male,JUBILEE  
+47,Nairobi,Muchira,Joseph Mwaniki,3681928,2/28/1963,No,Male,JUBILEE  
+47,Nairobi,Gichira,Harrison Mureithi,1888537,6/21/1957,No,Male,JUBILEE  
+47,Nairobi,Kibiru,Charles Reubenson,6448997,7/27/1967,No,Male,JUBILEE  
+47,Nairobi,Kidero,Evans Odhiambo ,4829645,,,Male,ODM
+22,Kiambu,Njuguna,"James Ng'ang,A",21732765,1979,N/A,Male,Maendeleo Chap Chap
+22,Kiambu,Kanyanja,Eng  Gakuru,4830423,1954,N/A,Male,Maendeleo Chap Chap
+26,Transnzoia,Kibaba,Andrew Luke,7973661,1963,None,Male,FORD-K
+26,Transnzoia,Nabwala,Catherine Mukite,1910160,1951,None,Female,FORD-K
+26,Transnzoia,Ndiema,Henry Tiole,190520,1953,None,Male,FORD-K
+26,Transnzoia,Kinisu,David Sifuna,,1967,None,Male,FORD-K
+1,Mombasa,Mkama,Saidi Bakari,10954842,5/25/1905,,Male,KADU-Asili
+1,Mombasa,Kitsao,Daniel Munga,22180758,6/3/1905,,Male,KADU-Asili
+12,Embu,Kiragu,Kithinji,C025010,5/5/1905,None,Male,PNU
+12,Embu,Njiru,Cyrus,236169,5/11/1905,None,Male,PNU
+39,Bungoma,Wakhungu,Jim Nduruchi,20091888,4/29/1977,ND,Male,Amani
+39,Bungoma,Mutoro,Stephen Simiyu,13715111,1/1/1975,ND,Male,Amani
+40,Busia,Okuku,Humphrey Nkitari,9955595,9/22/1968,ND,Male,Amani
+7,Garissa,Haji,Bashir Yussuf,403083,1/7/1900,No,Male,Amani
+37,Kakamega,Osundwa,Michael Sakwa,20506111,5/30/1977,ND,Male,Amani
+42,Kisumu,Omolo,Peter Charles Owino,1506912,,D,Male,Amani
+5,Lamu,Timamy,Issa Abdalla,1799,9/12/1959,ND,Male,Amani
+44,Migori,Okoth,Otieno Jack,13643624,9/28/1975,D,Male,Amani
+15,Kitui,Malombe,Julius Makau,984864,1953,None,Male,Wiper
+15,Kitui,Musila,David,254665,1943,None,Male,Wiper
+16,Machakos,Mathuki,Peter Mutuku,1089029,1969,None,Male,Wiper
+16,Machakos,Ndeti,Wavinya,9344036,1967,None,Female,Wiper
+16,Machakos,Kiala,Benard Muia,9783821,1968,None,Male,Wiper
+36,Bomet,Rutto,Isaac Kiprono,1450026,1960,No,Male,Chama Cha Mashinani
+22,Bomet,Koech,Alvin Kimutai,25959740,1987,No,Male,Chama Cha Mashinani
+22,Kiambu,Njuguna,"James Ng'ang,A",21732765,6/1/1905,N/A,Male,Maendeleo Chap Chap
+22,Kiambu,Kanyanja,Eng  Gakuru,4830423,5/7/1905,N/A,Male,Maendeleo Chap Chap
